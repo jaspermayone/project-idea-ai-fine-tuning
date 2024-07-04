@@ -33,7 +33,7 @@
   },
   {
     "message": "PI: a spotify tool that generates a playlist of the last 10 or 20 songs you liked, and automatically updates whenever you like a new song, because I want to shuffle the songs I like but not all of the songs I like",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Virtualbox is supposed to but it never works for me",
@@ -57,11 +57,11 @@
   },
   {
     "message": "also pi: a program that takes source code and compiles it for macos",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "pi: a windows vm that only shows 1 window so it’s like ur running a windows in macos but u just get the window instead of the whole vm and you can run x64 apps on m1",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "It's still loading",
@@ -93,7 +93,7 @@
   },
   {
     "message": "PI: a 3D cad program that has Linux support",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "fusion kills my computer, and both fusion and onshape have no offline support smh my head",
@@ -101,7 +101,7 @@
   },
   {
     "message": "PI: a 3d cad program that has mac support please im begging i don't want to have to bootcamp or use a vm for inventor or solidworks :crydeath:",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "cool. i had a slightly different idea tho.",
@@ -149,11 +149,11 @@
   },
   {
     "message": "pi: a website about the many ways to program \"hello world\" in different languages, the history of \"hello world\" and programming, and gather public hello world projects and ideas.",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "pi: an AI based chrome extension that fills out your application forms for you",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Reminds me of how Outline works",
@@ -177,11 +177,11 @@
   },
   {
     "message": "I have this project idea but I’m not sure if I should build it. (need help)\nA cloud storage service, but you have to bring your own storage… quite confusing right? so basically, the user has to provide their s3 bucket keys / azure bucket keys and we’ll provide a UI (like google drive) to them. So you can upload / download / share and see stuff in the UI but ultimately, your data is stored in your own aws / azure / digitalocean accounts. What else? You can connect multiple buckets (can be even cross-providers) and you can find all your files in a single place!! (this feature might be limited to pro plan or smth)\nAlso, you don’t have to worry about the keys, they’ll be safely encrypted and stored in the db, so there’s no chance that we can access your files (we’ll only use your keys to fetch your files and show it in the front-end). thoughts??",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "pi: a feature like discord's spotify rich presence except on slack",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "He’ll not do it",
