@@ -1,0 +1,202 @@
+[
+  {
+    "message": "PI I’m making; looking for validation and/or feedback: collaborative brainstorming, idea organization, and note taking app. Kind of like Pinterest, but a flexible grid/graph instead with support for images, video, text, links, quotes, markdown, and more. Nodes can be grouped together or connected to form associations. Automatic text node summarization generation, deep search, customizable colors, and more.",
+    "isProject": false
+  },
+  {
+    "message": "well <@U01D9DWGEB0|ani'>",
+    "isProject": false
+  },
+  {
+    "message": "perfect",
+    "isProject": false
+  },
+  {
+    "message": "<@U01D9DWGEB0|ani'> bookmarks are not good enough :( I want to be able to type it on the bar",
+    "isProject": false
+  },
+  {
+    "message": "qutebrowser has this, and it was really handy",
+    "isProject": false
+  },
+  {
+    "message": "firefox bookmarks :eggsdee:",
+    "isProject": false
+  },
+  {
+    "message": "<https://github.com/KaiDevrim/PigLatinPy>\n<https://github.com/KaiDevrim/PigLatinSharp>",
+    "isProject": false
+  },
+  {
+    "message": "i actually have two projects that do this",
+    "isProject": false
+  },
+  {
+    "message": "lol this is lolcat sort of thing",
+    "isProject": false
+  },
+  {
+    "message": "PI: English to Pig Latin CLI",
+    "isProject": false
+  },
+  {
+    "message": "PI: An extension that let's you \"alias\" URLs so I can type in \"gh\" in the bar and it will expand to \"<http://github.com|github.com>\" when I hit enter. This is possible because browsers do let you change where the user is taken to based on the contents of the bar. I bet a lot of people would love this.",
+    "isProject": false
+  },
+  {
+    "message": "<https://hackclub.slack.com/archives/C0M8PUPU6/p1615688734460600>",
+    "isProject": false
+  },
+  {
+    "message": "check out the <#C0M8PUPU6>",
+    "isProject": false
+  },
+  {
+    "message": "nah I once did a post in js",
+    "isProject": false
+  },
+  {
+    "message": "if so, turns out I have?",
+    "isProject": false
+  },
+  {
+    "message": "instead of getting",
+    "isProject": false
+  },
+  {
+    "message": "like, sending values",
+    "isProject": false
+  },
+  {
+    "message": "wait no is using thingspeak counted",
+    "isProject": false
+  },
+  {
+    "message": "ikr",
+    "isProject": false
+  },
+  {
+    "message": "neverrrrr",
+    "isProject": false
+  },
+  {
+    "message": "lol",
+    "isProject": false
+  },
+  {
+    "message": "lol",
+    "isProject": false
+  },
+  {
+    "message": "like, web APIs, idk",
+    "isProject": false
+  },
+  {
+    "message": "idk",
+    "isProject": false
+  },
+  {
+    "message": "like, json responses and stuff",
+    "isProject": false
+  },
+  {
+    "message": "oof no I meant like proper APIs",
+    "isProject": false
+  },
+  {
+    "message": "import \"fmt\"???",
+    "isProject": false
+  },
+  {
+    "message": "<@U01ACA3M90C|ishan> you write go lol it’s literally impossible for you not to use apis",
+    "isProject": false
+  },
+  {
+    "message": "what",
+    "isProject": false
+  },
+  {
+    "message": "Never used an API in my lfe",
+    "isProject": false
+  },
+  {
+    "message": "I have no idea",
+    "isProject": false
+  },
+  {
+    "message": "Yaaaaaaaa",
+    "isProject": false
+  },
+  {
+    "message": "that’d be soooooooo cool",
+    "isProject": false
+  },
+  {
+    "message": "what if we had smth similar for hack club",
+    "isProject": false
+  },
+  {
+    "message": "<@U4QAK9SRW|matthew> ik that <http://hey.com|hey.com> just made this world thingy where you could email your own address and it gets turned into a blog post",
+    "isProject": false
+  },
+  {
+    "message": "yoooo hold on",
+    "isProject": false
+  },
+  {
+    "message": "<@U01ACA3M90C|ishan>",
+    "isProject": false
+  },
+  {
+    "message": "would that endpoint be the right one?",
+    "isProject": false
+  },
+  {
+    "message": "lol let’s see how quickly i can build it",
+    "isProject": false
+  },
+  {
+    "message": "(for now, history would be great)",
+    "isProject": false
+  },
+  {
+    "message": "even better would be if you accepted a transaction hash and it will automatically find out the date and amount and tell you how much you earned",
+    "isProject": false
+  },
+  {
+    "message": "Later you could add in a way to take a date as well and it will calculate how much money you've earned since then",
+    "isProject": false
+  },
+  {
+    "message": "so all I want is, the site has an input box for me to put in how much BTC I have and you display the history of its worth (which you can calculate simply by multiplying the BTC to USD price by the amount of BTC)",
+    "isProject": false
+  },
+  {
+    "message": "Put it on Product Hunt and you'll definitely get at least 40 upvotes for sure",
+    "isProject": false
+  },
+  {
+    "message": "<@U01FN5P8FTK|Steven (college '25)> I would seriously use it if you made it",
+    "isProject": false
+  },
+  {
+    "message": "start with a week for now",
+    "isProject": false
+  },
+  {
+    "message": "like, 1 day, 12h, a week, a month, 6 months, one year",
+    "isProject": false
+  },
+  {
+    "message": "Have buttons for how long like how apple stocks and google stocks do it",
+    "isProject": false
+  },
+  {
+    "message": "yesss pleaseeeee",
+    "isProject": false
+  },
+  {
+    "message": "I could throw something together in a few minutes if that endpoint would work",
+    "isProject": false
+  }
+]

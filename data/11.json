@@ -1,0 +1,202 @@
+[
+  {
+    "message": "curves the barrel",
+    "isProject": false
+  },
+  {
+    "message": "neat as a turret. now let's see an aimbot handheld gun",
+    "isProject": false
+  },
+  {
+    "message": "It's a really fun hackathon project if you have 3-4 ppl with a ton of robotics experience",
+    "isProject": false
+  },
+  {
+    "message": "Soon :tm:",
+    "isProject": false
+  },
+  {
+    "message": "I'm working on a video for the project actually",
+    "isProject": false
+  },
+  {
+    "message": "Not quite facial recognition, it recognizes red blobs, but I'm sure it's easy to implement that",
+    "isProject": false
+  },
+  {
+    "message": "<https://devpost.com/software/c-aam-turret|https://devpost.com/software/c-aam-turret>",
+    "isProject": false
+  },
+  {
+    "message": "stupid (but funny) idea:\n\nself aiming nerf gun\n\nit would have a camera on the barrel, and use facial recognition to angle the barrel towards people.",
+    "isProject": false
+  },
+  {
+    "message": "that would be so cool!",
+    "isProject": false
+  },
+  {
+    "message": "ooh it could tile a bit like this <https://www.adafruit.com/product/89|https://www.adafruit.com/product/89>",
+    "isProject": false
+  },
+  {
+    "message": "each piece has a few LEDs on it and when you put it all together and power it it illuminates an image",
+    "isProject": false
+  },
+  {
+    "message": "PCB Jigsaw puzzle",
+    "isProject": false
+  },
+  {
+    "message": "so an advantage to this would be the ability to work with new chip architechtures (lowering cost-of-entry)",
+    "isProject": false
+  },
+  {
+    "message": "PI: Some implementation of SparkFun's micromod with more exotic/ interesting chips. So this would break out say IO, SWD, and a USB-Serial.\nI'm thinking about building some unified system (not necessary plug-in), but with compatible pinouts.\n\nthis would have some initial cost, but these costs will reduce cost / chip: so instead of building a ton of peripherals / power / whatnot on a single chip, I can just breakout that chip + some passives",
+    "isProject": false
+  },
+  {
+    "message": "I think this might exist? I remember looking for one",
+    "isProject": false
+  },
+  {
+    "message": "i'm building my own mini ai chatbot thing which has a caching system that works a bit like this! it searches the web to get data for its response, and every response + search is cached in a kv store for an hour!",
+    "isProject": false
+  },
+  {
+    "message": "<https://hackclub.slack.com/archives/C036V7A2N75/p1705681093730499|https://hackclub.slack.com/archives/C036V7A2N75/p1705681093730499>",
+    "isProject": false
+  },
+  {
+    "message": "Project idea: CacheGPT\n\nA basic, open source caching layer for API requests to the ChatGPT API. It should be drop-in compatible, so it should have the exact same API format as ChatGPT’s API, take each request, store it in a database, and then if there isn’t already a response stored in the DB, send it to ChatGPT, get the response, and then store that response in the DB.\n\nThe purpose of this project is to save on API costs, because many API requests to ChatGPT are repetitive and don’t need to be regenerated each time.",
+    "isProject": false
+  },
+  {
+    "message": "I want to make a bot that see the live news content and make inventory management supply predictions , how I can start off this and what models should i use to get this started ,( soon I want to automate it also can you help me how that can be done )",
+    "isProject": false
+  },
+  {
+    "message": "absolutely!\n\n• nix package to easily set up and manage a passthrough GPU for a vm\n• build your own shell from scratch. make tejas-shell!\n• create a script that runs every time you open your terminal to output current system status: storage remaining, % of cpu used, % of ram used, #1 most intensive process",
+    "isProject": false
+  },
+  {
+    "message": "neomutt",
+    "isProject": false
+  },
+  {
+    "message": "Heyyyy can someone give me project ideas related to system programming or terminal related or linux related. I don't really prefer anything involving javascript- I hate it",
+    "isProject": false
+  },
+  {
+    "message": "<#C056AMWSFKJ> idea",
+    "isProject": false
+  },
+  {
+    "message": "a language with stack operations instead of relative clauses-----there are a bunch of imparative languages and assembly languages without functions,why cant humans do this?",
+    "isProject": false
+  },
+  {
+    "message": "so true slackbot",
+    "isProject": false
+  },
+  {
+    "message": "emacs",
+    "isProject": false
+  },
+  {
+    "message": "easy to use email terminal client",
+    "isProject": false
+  },
+  {
+    "message": "Could Aram's list be moved into the canvas for neighborhood? ",
+    "isProject": false
+  },
+  {
+    "message": "<https://hackclub.slack.com/archives/C03NHCR49ND/p1704776339375399>",
+    "isProject": false
+  },
+  {
+    "message": "<https://hackclub.slack.com/archives/C01FXNNF6F2/p1704502421941229>",
+    "isProject": false
+  },
+  {
+    "message": "yeah, would love to hear them! I'm hoping to get back on <#C056TUPSR34> soon",
+    "isProject": false
+  },
+  {
+    "message": "I have some thoughts, Kara might too",
+    "isProject": false
+  },
+  {
+    "message": "Would love to talk about this soon (cc <@U04G40QKAAD|samuel>), perhaps a call?",
+    "isProject": false
+  },
+  {
+    "message": "There a lot of hidden gems that just need to be discovered @ hc I think",
+    "isProject": false
+  },
+  {
+    "message": "Tbh I'd love to collaborate on stuff like this more, there are all sorts of things we could do to autocluster and organize info about our slack channels",
+    "isProject": false
+  },
+  {
+    "message": "<https://hackclub.slack.com/archives/C01AS1YEM8A/p1700855517506649>",
+    "isProject": false
+  },
+  {
+    "message": "HI yes i do some mapping of slacking, but lately i've been slackin on the mappin",
+    "isProject": false
+  },
+  {
+    "message": "Yeah but the list is really long - it would be convenient to simply search for channels",
+    "isProject": false
+  },
+  {
+    "message": "<#C01AS1YEM8A> is also a really nice place to find channels, I would recommend checking the pins",
+    "isProject": false
+  },
+  {
+    "message": "ooh! <@U04G40QKAAD|samuel> <#C056TUPSR34> bump",
+    "isProject": false
+  },
+  {
+    "message": "PI: a bot to help hackclubbers find specific channels",
+    "isProject": false
+  },
+  {
+    "message": "does it go through your project or through a github link itself? wym by “goes through a github link” ",
+    "isProject": false
+  },
+  {
+    "message": "I actually came up with a different idea, but thanks.",
+    "isProject": false
+  },
+  {
+    "message": "Make useful reusable sprig components and functions and tools for others to use",
+    "isProject": false
+  },
+  {
+    "message": "make a tool that goes through a github link or a vscode extension that automagically :magic_wand: removes extra react libraries that arent being used anywhere",
+    "isProject": false
+  },
+  {
+    "message": "Better Idea: We give the bank account credentials to the teens!",
+    "isProject": false
+  },
+  {
+    "message": "yeah anyone got <#C02UN35M7LG> ideas i totally didnt forget about the sprig's existence and then happen to see the thing asking for a sprig project idea\ndefinitely not\nUnrelated, anybody got any sprig ideas?\nEDIT: nevermind, got an idea",
+    "isProject": false
+  },
+  {
+    "message": "Ok maybe I want a <#C02UN35M7LG> idea too XD",
+    "isProject": false
+  },
+  {
+    "message": "i can’t wait to play it!",
+    "isProject": false
+  },
+  {
+    "message": "I shall work on this :)",
+    "isProject": false
+  }
+]

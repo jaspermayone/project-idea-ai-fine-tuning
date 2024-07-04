@@ -1,0 +1,202 @@
+[
+  {
+    "message": "templating engine",
+    "isProject": false
+  },
+  {
+    "message": "hmm",
+    "isProject": false
+  },
+  {
+    "message": "PI: a way to design pdfs using html + css + (build-time) javascript\nthis is so that you can easily update parts of a document (e.g. a Resume) over time and also looks nice compared to latex which looks like something from the 1990s",
+    "isProject": false
+  },
+  {
+    "message": "Just need to break some science",
+    "isProject": false
+  },
+  {
+    "message": "Sounds easy enough",
+    "isProject": false
+  },
+  {
+    "message": "ncc",
+    "isProject": false
+  },
+  {
+    "message": "PI: Some kind of device that can help you go back in time",
+    "isProject": false
+  },
+  {
+    "message": "non-cryptic-chmod",
+    "isProject": false
+  },
+  {
+    "message": "Hmm",
+    "isProject": false
+  },
+  {
+    "message": "Yeah, but even that can be confusing",
+    "isProject": false
+  },
+  {
+    "message": "so i can just do like chmod go-rw or whatever",
+    "isProject": false
+  },
+  {
+    "message": "there’s symbolic permissions so that eliminates most of the manpage reading for me",
+    "isProject": false
+  },
+  {
+    "message": "Maybe I'll build this and learn chalk!",
+    "isProject": false
+  },
+  {
+    "message": "This is a cool idea",
+    "isProject": false
+  },
+  {
+    "message": "Oooo",
+    "isProject": false
+  },
+  {
+    "message": "(like <https://github.com/sindresorhus/np|np> ?)",
+    "isProject": false
+  },
+  {
+    "message": "PI: shell command with interactive UI to help you use chmod",
+    "isProject": false
+  },
+  {
+    "message": "LOL",
+    "isProject": false
+  },
+  {
+    "message": "<https://hackclub.slack.com/archives/C02BVJP6C0J/p1629502560049200?thread_ts=1629502560.049200&cid=C02BVJP6C0J|https://hackclub.slack.com/archives/C02BVJP6C0J/p1629502560049200?thread_ts=1629502560.049200&amp;cid=C02BVJP6C0J>\nI might need to make this sooner rather than later :eggsdee:",
+    "isProject": false
+  },
+  {
+    "message": "I’m saving this",
+    "isProject": false
+  },
+  {
+    "message": "Good idea ",
+    "isProject": false
+  },
+  {
+    "message": "Yuhhh",
+    "isProject": false
+  },
+  {
+    "message": "Ooo yess",
+    "isProject": false
+  },
+  {
+    "message": "you could use a non-cryptographic hash function to generate textual usernames like \"Cool Goat\" and stuff",
+    "isProject": false
+  },
+  {
+    "message": "Why a hash, uids are unique",
+    "isProject": false
+  },
+  {
+    "message": "PI: A Slack client that generates unique usernames based on a hash of users' IDs (to prevent switcheroo confusion) /hj",
+    "isProject": false
+  },
+  {
+    "message": "grindr for hackclub",
+    "isProject": false
+  },
+  {
+    "message": "sooo",
+    "isProject": false
+  },
+  {
+    "message": "ugh same ben",
+    "isProject": false
+  },
+  {
+    "message": "I need this but for PDF files in Firefox",
+    "isProject": false
+  },
+  {
+    "message": "thats interesting",
+    "isProject": false
+  },
+  {
+    "message": "ooooh",
+    "isProject": false
+  },
+  {
+    "message": "you'll want to intercept the response headers to modify/remove the appropriate headers from above. here's a good starting point: <https://stackoverflow.com/a/13700922/5906565>",
+    "isProject": false
+  },
+  {
+    "message": "that's incorrect. chrome merely obeys the headers sent by the server; either a Content-Disposition: attachment  was sent telling the browser it should download instead of rendering in the browser, or that something besides Content-Type: video/mp4 was sent (e.g. application/force-download, application/octet-stream [generic type for binary files, browser will default to downloading]).\n\nhelpful links:\n• <https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Disposition>\n• <https://stackoverflow.com/questions/51059736/why-some-of-the-mp4-files-mime-type-are-application-octet-stream-instead-of-vid>\n• <https://stackoverflow.com/a/7391211/5906565>",
+    "isProject": false
+  },
+  {
+    "message": "eww chrome. just use firefox.",
+    "isProject": false
+  },
+  {
+    "message": "Chrome downloads the videos",
+    "isProject": false
+  },
+  {
+    "message": "why would the videos download an mp4??",
+    "isProject": false
+  },
+  {
+    "message": "ok my hosting expired so project's free for anyone that wants to make it!",
+    "isProject": false
+  },
+  {
+    "message": "i’m looking for one such product but i can’t find",
+    "isProject": false
+  },
+  {
+    "message": "PI: a chrome extension which plays your videos directly in chrome instead of downloading them when you click on an mp4 link.",
+    "isProject": false
+  },
+  {
+    "message": "4head",
+    "isProject": false
+  },
+  {
+    "message": "that’s the joke lol",
+    "isProject": false
+  },
+  {
+    "message": ":flushed-fb:",
+    "isProject": false
+  },
+  {
+    "message": "wait this isn't a dating app",
+    "isProject": false
+  },
+  {
+    "message": "for name how about Tinker, the hack club version of Tinder",
+    "isProject": false
+  },
+  {
+    "message": "peertube, bitchute, etc",
+    "isProject": false
+  },
+  {
+    "message": "that's fair",
+    "isProject": false
+  },
+  {
+    "message": "telemetry is understandable if it's opt in but i dont like having to opt out of it all the time",
+    "isProject": false
+  },
+  {
+    "message": "it's a helpful tool for developers",
+    "isProject": false
+  },
+  {
+    "message": "**next",
+    "isProject": false
+  }
+]

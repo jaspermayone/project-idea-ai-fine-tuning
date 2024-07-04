@@ -1,0 +1,202 @@
+[
+  {
+    "message": "<http://github.com/ifvictr/jia|github.com/ifvictr/jia>",
+    "isProject": false
+  },
+  {
+    "message": "where’s the source code for <@U017S6FJULB> ",
+    "isProject": false
+  },
+  {
+    "message": "We should build that into <@U017S6FJULB> :owl:",
+    "isProject": false
+  },
+  {
+    "message": "a bot or website or something that gives the status of <#CDJMS683D> and sets etiquette. for example, if it's been less than 30 seconds since the latest message, <#CDJMS683D> is in speedcounting mode and the expectation is that you don't hop in and you let the speedcounters count. then you can set up notifications for when speedcounting is done so that you can hop in",
+    "isProject": false
+  },
+  {
+    "message": "Ohh this sounds pretty cool",
+    "isProject": false
+  },
+  {
+    "message": "heck yes",
+    "isProject": false
+  },
+  {
+    "message": "having it native in slack would definitely soften the barrier",
+    "isProject": false
+  },
+  {
+    "message": "uwu this sounds pretty cool !!",
+    "isProject": false
+  },
+  {
+    "message": "<@UNAP5N1FZ|austin> thoughts?",
+    "isProject": false
+  },
+  {
+    "message": "probably bc firebase is a cms in and of itself lol",
+    "isProject": false
+  },
+  {
+    "message": "ok so this did not end well",
+    "isProject": false
+  },
+  {
+    "message": "PI: a bot that’s similar to cuckoo but for <#C012YMFQHUG>: you can open a productivity breakout room, and it starts a call (optional), a timer for 25 minutes and notifies the channel for updates",
+    "isProject": false
+  },
+  {
+    "message": "oh is that the app that ken made? Man props to him",
+    "isProject": false
+  },
+  {
+    "message": "<https://glaze.chat> has support for that iirc",
+    "isProject": false
+  },
+  {
+    "message": "omegle, but with a group dynamic (4 people or more inserted randomly into one chat room); yay or nay?",
+    "isProject": false
+  },
+  {
+    "message": "auto hotkey?",
+    "isProject": false
+  },
+  {
+    "message": "nw!",
+    "isProject": false
+  },
+  {
+    "message": "Oh, sorry. I read that wrong ",
+    "isProject": false
+  },
+  {
+    "message": "Yeah so i think bc the screenshots are being taken on my desktop, I’m going to need a windows-side solution. Otherwise, yeah shortcuts would have been amazing",
+    "isProject": false
+  },
+  {
+    "message": "You might be able to do something like that with the shortcuts app? <https://apps.apple.com/us/app/shortcuts/id915249334>",
+    "isProject": false
+  },
+  {
+    "message": "in a perfect world i'd just airdrop but windows would nvr lmao",
+    "isProject": false
+  },
+  {
+    "message": "(messenger sounds obscure but it's mainly b/c it's less clicks on mobile to save a file than in actual file storage apps like drive/dropbox lol)",
+    "isProject": false
+  },
+  {
+    "message": "ah, cool! i'll like into it. for my purposes, it wouldn't necessarily have to know the iPad exists. the ideal workflow is I make the screenshot from my windows desktop, it gets uploaded to a messenger conversation with myself, and from there I can just pull from the convo on my own via iPad",
+    "isProject": false
+  },
+  {
+    "message": "that sort of reminds me of Automator - not sure if exists for iPad but i can totally see creating workflows using that utility there",
+    "isProject": false
+  },
+  {
+    "message": "to insert lecture screencaps on windows into my ipad notes a lot quicker while lecture is still going on",
+    "isProject": false
+  },
+  {
+    "message": "PI: a hotkey command to screenshot a portion of my screen, copy to clipboard, and automatically send the clipboard to myself via messenger",
+    "isProject": false
+  },
+  {
+    "message": "PI: a new http verb called push , so you can bully servers into giving you files , just PUSH the poor sever and bam the file falls into your computers drive",
+    "isProject": false
+  },
+  {
+    "message": "i can’t get this out of my head",
+    "isProject": false
+  },
+  {
+    "message": "fuck it i’m building it lol",
+    "isProject": false
+  },
+  {
+    "message": "<https://github.com/rishiosaur/etude>",
+    "isProject": false
+  },
+  {
+    "message": "This could be super super cool",
+    "isProject": false
+  },
+  {
+    "message": "Honestly after Duino’s done I’m down to build this",
+    "isProject": false
+  },
+  {
+    "message": "PI: A CMS that runs on Vercel and Firestore (only through graphql) aimed at students (bc it costs v v v v little; in most cases it’s free lol) called Etude",
+    "isProject": false
+  },
+  {
+    "message": "yep!",
+    "isProject": false
+  },
+  {
+    "message": "Whoa we have that kind of influence?",
+    "isProject": false
+  },
+  {
+    "message": "yaaa",
+    "isProject": false
+  },
+  {
+    "message": "we could actually do something and email github about it",
+    "isProject": false
+  },
+  {
+    "message": "fun idea",
+    "isProject": false
+  },
+  {
+    "message": "good idea actually",
+    "isProject": false
+  },
+  {
+    "message": "interesting",
+    "isProject": false
+  },
+  {
+    "message": "Now that I think about it IG stories are more image-based and most GitHub repos aren't, but something along those lines would be cool",
+    "isProject": false
+  },
+  {
+    "message": "So pretty much take the main feed on GitHub, where it has repos that've been starred a lot recently or repos that people you follow have recently starred, and stick it into a IG Story like interface. Idk how i'd want it to look like, but ideally the readme would easily be accessible and it'd be easy to star a repo.",
+    "isProject": false
+  },
+  {
+    "message": "..... more details",
+    "isProject": false
+  },
+  {
+    "message": "PI: Stories but for trending repos on GitHub",
+    "isProject": false
+  },
+  {
+    "message": "emacs has one built in",
+    "isProject": false
+  },
+  {
+    "message": "nor sure why",
+    "isProject": false
+  },
+  {
+    "message": "and i end  up being right? mostly",
+    "isProject": false
+  },
+  {
+    "message": "me",
+    "isProject": false
+  },
+  {
+    "message": "Actually an excellent idea for people who historically go against the advice of their therapist ",
+    "isProject": false
+  },
+  {
+    "message": "PI: ai therapist that intentionally gives you bad advice",
+    "isProject": false
+  }
+]

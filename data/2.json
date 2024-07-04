@@ -1,0 +1,202 @@
+[
+  {
+    "message": "Fine!",
+    "isProject": false
+  },
+  {
+    "message": "don't think i'll be able to commit to working on this project, but if u have any questions ask in here or <#C0EA9S0A0> and ill do my best to respond!",
+    "isProject": false
+  },
+  {
+    "message": "Hey <@U04G40QKAAD|samuel> wanna work with me ?? ",
+    "isProject": false
+  },
+  {
+    "message": "Yeah, I am going to work on this today on <#C06SBHMQU8G> found a good project idea",
+    "isProject": false
+  },
+  {
+    "message": "oh wait that would actually be pretty cool. just make sure you make people sign in so you're not leeking all the messages here outside the slack lol",
+    "isProject": false
+  },
+  {
+    "message": "Ok I’ll look into it !",
+    "isProject": false
+  },
+  {
+    "message": "I can share some code here in the morning, but yes there is. If you're interested look up slack bolt library",
+    "isProject": false
+  },
+  {
+    "message": "Is there any api for that?",
+    "isProject": false
+  },
+  {
+    "message": "Slack app!",
+    "isProject": false
+  },
+  {
+    "message": "This is interesting but how we are going to get data from this channel? I can do frontend if anyone is ready to do backend ",
+    "isProject": false
+  },
+  {
+    "message": "PI: A website that gives you a random idea from this channel.",
+    "isProject": false
+  },
+  {
+    "message": "<https://hackclub.slack.com/archives/C0EA9S0A0/p1719054338268389>",
+    "isProject": false
+  },
+  {
+    "message": "this is an amazing idea",
+    "isProject": false
+  },
+  {
+    "message": "PI - Have you ever been told, \"look at the pinned messages\" and then when you Open up the menu you find it convoluted and overwhelming.\nHere is an idea to improve this: Pin cushion, a bot to take all of the current pin's in a channel &amp; display them as a nice webpage with labeled dropdowns for each one. Perhaps you could use AI to summarize for the dropdown title. Basically think of a FAQ format with dropdowns.",
+    "isProject": false
+  },
+  {
+    "message": "PI: A website that gets all your <#C01504DCLVD> and <#C06SBHMQU8G> data and turns it into a personal website that's customized to you",
+    "isProject": false
+  },
+  {
+    "message": "i used to do this but lost the script i used",
+    "isProject": false
+  },
+  {
+    "message": "you can use applescript on macos",
+    "isProject": false
+  },
+  {
+    "message": "this is a thing!",
+    "isProject": false
+  },
+  {
+    "message": "I have a <http://last.fm|last.fm> status Slack app (although it only works for the owner), I've been meaning to rewrite it for a while to let anyone use it",
+    "isProject": false
+  },
+  {
+    "message": "Is it easy to scrobble to lastfm with Apple Music?",
+    "isProject": false
+  },
+  {
+    "message": "Seriously would love to use this if someone built it!",
+    "isProject": false
+  },
+  {
+    "message": "PI: apple music slack status indicator ~ I love spotify’s, but don’t use spotify!",
+    "isProject": false
+  },
+  {
+    "message": "a LLM that can run pseudo code",
+    "isProject": false
+  },
+  {
+    "message": "also yabai if your into tiling window managers",
+    "isProject": false
+  },
+  {
+    "message": "skhd moment",
+    "isProject": false
+  },
+  {
+    "message": "i love it",
+    "isProject": false
+  },
+  {
+    "message": "that is the worst idea i’ve ever heard",
+    "isProject": false
+  },
+  {
+    "message": "Here's a script for Mac",
+    "isProject": false
+  },
+  {
+    "message": "<https://github.com/Arpan-206/mac-wallpaper-nasa>",
+    "isProject": false
+  },
+  {
+    "message": "<https://www.instagram.com/p/CLR5iKShWWV> blinky",
+    "isProject": false
+  },
+  {
+    "message": "LLVM-LLM, an LLM that can run LLVM-IR and theoretically run almost any language ",
+    "isProject": false
+  },
+  {
+    "message": "Project idea: Cursed CPU. Implement a CPU on top of an LLM, where every instruction is a prompt given to an LLM.",
+    "isProject": false
+  },
+  {
+    "message": "a tool to get your currently playing steam game and display it as status",
+    "isProject": false
+  },
+  {
+    "message": "What’s that",
+    "isProject": false
+  },
+  {
+    "message": "you could explore webrtc",
+    "isProject": false
+  },
+  {
+    "message": "build a reactor in react",
+    "isProject": false
+  },
+  {
+    "message": "i want one of these ^",
+    "isProject": false
+  },
+  {
+    "message": "Give me NodeJS project ideas please……",
+    "isProject": false
+  },
+  {
+    "message": "Blot with <https://youtube.com/shorts/6gBEjThVi2E?si=2npi7job0nzaSkLP|https://youtube.com/shorts/6gBEjThVi2E?si=2npi7job0nzaSkLP>",
+    "isProject": false
+  },
+  {
+    "message": "Idea: an advanced handwriting recognition ML model so you can actually read what people write in your yearbook",
+    "isProject": false
+  },
+  {
+    "message": "make a contribution to the linux kernel :trollface:",
+    "isProject": false
+  },
+  {
+    "message": "write your own linux distro :trollface:",
+    "isProject": false
+  },
+  {
+    "message": "Same",
+    "isProject": false
+  },
+  {
+    "message": "curious :face_with_monocle:  ",
+    "isProject": false
+  },
+  {
+    "message": "cat /etc/nginx/nginx.conf",
+    "isProject": false
+  },
+  {
+    "message": "oh yeah lol",
+    "isProject": false
+  },
+  {
+    "message": " Especially that refresh token",
+    "isProject": false
+  },
+  {
+    "message": "It’s confusing to get the tokens but it’s the rest is easy",
+    "isProject": false
+  },
+  {
+    "message": "Spotify api is confusing but easy",
+    "isProject": false
+  },
+  {
+    "message": "Hmm true",
+    "isProject": false
+  }
+]

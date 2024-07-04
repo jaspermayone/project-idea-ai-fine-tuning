@@ -1,0 +1,202 @@
+[
+  {
+    "message": "basically devzat",
+    "isProject": false
+  },
+  {
+    "message": "damn! how's it going <@UN6C43287|json>?",
+    "isProject": false
+  },
+  {
+    "message": "that's not a vpn, that's a fucking time machine",
+    "isProject": false
+  },
+  {
+    "message": "PI: grow a TARDIS irl so we all can go to the train",
+    "isProject": false
+  },
+  {
+    "message": "PI: a VPN that lets you change your time so that you can skip forward a week to see if you are going on the train before the nervous anticipation and likely inevitable disappointment kills you ",
+    "isProject": false
+  },
+  {
+    "message": "PPN :smiley-twemoji:",
+    "isProject": false
+  },
+  {
+    "message": "YES",
+    "isProject": false
+  },
+  {
+    "message": ":earthquakyeyes:",
+    "isProject": false
+  },
+  {
+    "message": "ayo :eyes: now i just need to pipe it into their player somehow",
+    "isProject": false
+  },
+  {
+    "message": "Interested to hear more",
+    "isProject": false
+  },
+  {
+    "message": "There was an idea that could make Aaryan's idea better but it's hard to implement",
+    "isProject": false
+  },
+  {
+    "message": "idk that feels a lot like github's explore page",
+    "isProject": false
+  },
+  {
+    "message": "and you'd have methods to contact them and stuff",
+    "isProject": false
+  },
+  {
+    "message": "like you can have a feed with projects people are working on",
+    "isProject": false
+  },
+  {
+    "message": "PI: SOCIAL MEDIA FOR DEVELOPERS!!!!!!!!!!",
+    "isProject": false
+  },
+  {
+    "message": "if i dont sleep i could get a super rough thing working rn",
+    "isProject": false
+  },
+  {
+    "message": "omg i can literally use the asciinema cli which writes events (in realtime!!!) to a .cast file which is json and then i can just watch the file for changes and stream that",
+    "isProject": false
+  },
+  {
+    "message": "then nextjs frontend and profit :eyes:",
+    "isProject": false
+  },
+  {
+    "message": "ok so it looks like i can yeet some things from asciinema and stream their events over websockets",
+    "isProject": false
+  },
+  {
+    "message": ":bwush: ",
+    "isProject": false
+  },
+  {
+    "message": "lowkey might do this sometime",
+    "isProject": false
+  },
+  {
+    "message": "and it had cli chat for the creator",
+    "isProject": false
+  },
+  {
+    "message": "yoooooo this would be kinda cool :eyes: but what if it had your whole terminal output <https://hackclub.slack.com/archives/C01SSCEU3P1/p1621387711000300>",
+    "isProject": false
+  },
+  {
+    "message": "That would take a lot of work",
+    "isProject": false
+  },
+  {
+    "message": "PI: image-based pings, where you can get pinged if someone posts an image with one of your ping words",
+    "isProject": false
+  },
+  {
+    "message": "carykh goated :yeah:",
+    "isProject": false
+  },
+  {
+    "message": "Like it tags sutff?",
+    "isProject": false
+  },
+  {
+    "message": "gooooooood",
+    "isProject": false
+  },
+  {
+    "message": "whoa",
+    "isProject": false
+  },
+  {
+    "message": "apparently theres a port now too :eyes: <https://popclom.github.io/GOLAD/>",
+    "isProject": false
+  },
+  {
+    "message": "<https://www.youtube.com/watch?v=JkGZ2Hl1l8c>",
+    "isProject": false
+  },
+  {
+    "message": "its called Game of Life and Death",
+    "isProject": false
+  },
+  {
+    "message": "this actually exists",
+    "isProject": false
+  },
+  {
+    "message": "not sure what you mean",
+    "isProject": false
+  },
+  {
+    "message": "I have a feeling the <S01J3NW85JA> would like this",
+    "isProject": false
+  },
+  {
+    "message": "PI: A system to add arbitrary files to \"collections\" regardless of path, and tag them and then search, like this:\n```$ tagger add yukino.png --tags cute,oregairu --collection images\n$ tagger get -c images\n<all images>\n$ tagger search -t oregairu\n<all oregairu stuff>```\n(May do this myself)",
+    "isProject": false
+  },
+  {
+    "message": "like you post a file with the name of the emoji as the message text, then it automatically crops/uploads it",
+    "isProject": false
+  },
+  {
+    "message": "PI: a Slack channel that lets you quickly upload custom emoji",
+    "isProject": false
+  },
+  {
+    "message": "that would be amazing; right now i use block kit builder to do that and it's not intuitive lol",
+    "isProject": false
+  },
+  {
+    "message": "yes please!",
+    "isProject": false
+  },
+  {
+    "message": "PI: a slack oauth app that does the timezone thing directly in your message. if you put a time in between some kind of syntax, for example {{6:00pm}}, and then send it, it will edit the message to display in the other person's time for them",
+    "isProject": false
+  },
+  {
+    "message": "ah lol",
+    "isProject": false
+  },
+  {
+    "message": "I just opened a PR to hackclub/summer-scrapbook",
+    "isProject": false
+  },
+  {
+    "message": "<@U013B6CPV62|Caleb> how did you make it an official hack club project",
+    "isProject": false
+  },
+  {
+    "message": "pi: unicode2, a new standard that supports custom emotes somehow :lfg:",
+    "isProject": false
+  },
+  {
+    "message": "<https://hackclub.slack.com/archives/C01504DCLVD/p1617907841427900>",
+    "isProject": false
+  },
+  {
+    "message": "YESSS",
+    "isProject": false
+  },
+  {
+    "message": "it's really not that hard to click that button lol",
+    "isProject": false
+  },
+  {
+    "message": "What about user tokens",
+    "isProject": false
+  },
+  {
+    "message": "what about an RSS feed for scrapbooks?",
+    "isProject": false
+  }
+]

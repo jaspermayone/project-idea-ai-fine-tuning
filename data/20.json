@@ -1,0 +1,202 @@
+[
+  {
+    "message": "Not too sure if this is the right place for this but I am just looking to validate an idea before potentially building it. Is this something you would consider signing up for? A daily or weekly newsletter pulling information from many places (your calendar, to do list, news, local weather...). Any other thoughts? Thank you!",
+    "isProject": false
+  },
+  {
+    "message": "that’d be really cool",
+    "isProject": false
+  },
+  {
+    "message": "so is it collaborative in the same way as <#CDJMS683D>?",
+    "isProject": false
+  },
+  {
+    "message": "<https://hackclub.slack.com/archives/C01FXNNF6F2/p1657326437428079>",
+    "isProject": false
+  },
+  {
+    "message": "Yelp for Yelp reviews",
+    "isProject": false
+  },
+  {
+    "message": "lol",
+    "isProject": false
+  },
+  {
+    "message": "thanks for the tip pranav ",
+    "isProject": false
+  },
+  {
+    "message": "lol",
+    "isProject": false
+  },
+  {
+    "message": "yeah that's what I'll probably do ",
+    "isProject": false
+  },
+  {
+    "message": "(dont do this)",
+    "isProject": false
+  },
+  {
+    "message": "drink two cups of coffee, fake you’re asleep, and act like you got up early",
+    "isProject": false
+  },
+  {
+    "message": "Help. I'm still awake and it's 5am and it's getting light outside and the birds are chirping ",
+    "isProject": false
+  },
+  {
+    "message": "this has been on my ideas list since so long",
+    "isProject": false
+  },
+  {
+    "message": "Imma do that tammarew",
+    "isProject": false
+  },
+  {
+    "message": "You should open an issue in vercel/vercel so that it can be closed by a PR :) :)",
+    "isProject": false
+  },
+  {
+    "message": "yes!! that would be amazing",
+    "isProject": false
+  },
+  {
+    "message": "Would you like this added to the vercel cli?",
+    "isProject": false
+  },
+  {
+    "message": "project idea: a shell that tells bash to go asleep when its past 1am",
+    "isProject": false
+  },
+  {
+    "message": "Project idea: a CLI for setting up a Next repo. Frameworks like Angular and Nuxt have official CLIs with options for CSS frameworks, linting configuration, state libraries, etc. that are opinionated but generally make for a quicker &amp; more fun experience bootstrapping a project than with Next templates. Not sure why next doesn’t have this yet.",
+    "isProject": false
+  },
+  {
+    "message": "yea, try building something with the turtle library, something like a cool animation",
+    "isProject": false
+  },
+  {
+    "message": "anyone have any ideas for beginner-internediate python projects?",
+    "isProject": false
+  },
+  {
+    "message": "Hmm, I can do it <@U01PNGGBBT5|tej> DM me",
+    "isProject": false
+  },
+  {
+    "message": "yeah",
+    "isProject": false
+  },
+  {
+    "message": "like <http://docs.rs|docs.rs>? <@U01PNGGBBT5|tej>",
+    "isProject": false
+  },
+  {
+    "message": "rust docs or deno docs-like thing for node packages. would make life so much easier for everyone. im up for collaborating with someone on this",
+    "isProject": false
+  },
+  {
+    "message": "<https://hackclub.slack.com/archives/C01FXNNF6F2/p1646068429450649>",
+    "isProject": false
+  },
+  {
+    "message": "also <https://hackclub.slack.com/archives/C0M8PUPU6/p1614132030095500|cough cough>",
+    "isProject": false
+  },
+  {
+    "message": "<https://hackclub.slack.com/archives/CNMU9L92Q/p1630325004303300?thread_ts=1630303105.420400&amp;cid=CNMU9L92Q>",
+    "isProject": false
+  },
+  {
+    "message": "That's not a locker?",
+    "isProject": false
+  },
+  {
+    "message": "<@U0184R221A7>?",
+    "isProject": false
+  },
+  {
+    "message": "lol ",
+    "isProject": false
+  },
+  {
+    "message": "me who doesn’t participate in dumpster fires :cooll-thumbs:",
+    "isProject": false
+  },
+  {
+    "message": "me who left <#CNMU9L92Q> a while ago: :cooll-thumbs: ",
+    "isProject": false
+  },
+  {
+    "message": "i wonder too :thinking:",
+    "isProject": false
+  },
+  {
+    "message": "i wonder why this was suggested",
+    "isProject": false
+  },
+  {
+    "message": "PI: a thread locker which locks the thread and prevents from any further messages in that thread",
+    "isProject": false
+  },
+  {
+    "message": "done <#C017YL1NMU0> -",
+    "isProject": false
+  },
+  {
+    "message": "Consider it doen",
+    "isProject": false
+  },
+  {
+    "message": "PI: a PI tracker??",
+    "isProject": false
+  },
+  {
+    "message": "An website to just browse through ideas for inspiration of new features. (and a way to collect these ideas and organize them)",
+    "isProject": false
+  },
+  {
+    "message": "Im up for the challenge",
+    "isProject": false
+  },
+  {
+    "message": "Oh boy",
+    "isProject": false
+  },
+  {
+    "message": "PI: Wordle but Emojis",
+    "isProject": false
+  },
+  {
+    "message": "there’s a few of them, so you can have a semi-decentralized service (by picking the most common result) but that’s not much of a difference\nalso centralized CDNs are just much more performant if I understand correctly",
+    "isProject": false
+  },
+  {
+    "message": "my bad",
+    "isProject": false
+  },
+  {
+    "message": "ooooooooo yeaa ://",
+    "isProject": false
+  },
+  {
+    "message": "yeah but anirudh’s point is that if you use a resolver, it’s now a centralized service",
+    "isProject": false
+  },
+  {
+    "message": "example <https://ipfs.infura.io/ipfs/QmeGAVddnBSnKc1DLE7DLV9uuTqo5F7QbaveTjr45JUdQn|https://ipfs.infura.io/ipfs/QmeGAVddnBSnKc1DLE7DLV9uuTqo5F7QbaveTjr45JUdQn>",
+    "isProject": false
+  },
+  {
+    "message": "like goes like this <https://ipfs.infura.io/%3CYOUR-IPFS-HASH%3E|https://ipfs.infura.io/<YOUR-IPFS-HASH>>",
+    "isProject": false
+  },
+  {
+    "message": "like infura",
+    "isProject": false
+  }
+]

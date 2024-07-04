@@ -1,0 +1,202 @@
+[
+  {
+    "message": "until beat drop",
+    "isProject": false
+  },
+  {
+    "message": "it starts checking the time",
+    "isProject": false
+  },
+  {
+    "message": "when we get below like 1k ft",
+    "isProject": false
+  },
+  {
+    "message": "Manual input",
+    "isProject": false
+  },
+  {
+    "message": "ok yeah",
+    "isProject": false
+  },
+  {
+    "message": "uhhhh",
+    "isProject": false
+  },
+  {
+    "message": "oh but we need the beat drop",
+    "isProject": false
+  },
+  {
+    "message": "yeye",
+    "isProject": false
+  },
+  {
+    "message": "Calibrated altitude",
+    "isProject": false
+  },
+  {
+    "message": "start monitoring",
+    "isProject": false
+  },
+  {
+    "message": "when the plane gets below a certain ft",
+    "isProject": false
+  },
+  {
+    "message": "get the airport elevation",
+    "isProject": false
+  },
+  {
+    "message": "no here is what you do",
+    "isProject": false
+  },
+  {
+    "message": "but ML might be wrong",
+    "isProject": false
+  },
+  {
+    "message": "hmm true",
+    "isProject": false
+  },
+  {
+    "message": "We need down to the second",
+    "isProject": false
+  },
+  {
+    "message": "They give it down to the minute",
+    "isProject": false
+  },
+  {
+    "message": "why dont we pull from existing APIs",
+    "isProject": false
+  },
+  {
+    "message": "Not a massive one",
+    "isProject": false
+  },
+  {
+    "message": "An ML model",
+    "isProject": false
+  },
+  {
+    "message": ":expanding_brain_4: ",
+    "isProject": false
+  },
+  {
+    "message": "historical data or sum",
+    "isProject": false
+  },
+  {
+    "message": "Given only the plane’s data",
+    "isProject": false
+  },
+  {
+    "message": "How do they get that",
+    "isProject": false
+  },
+  {
+    "message": "How",
+    "isProject": false
+  },
+  {
+    "message": "flight radar gives an estimate",
+    "isProject": false
+  },
+  {
+    "message": "Yes how do you think they get their estimate",
+    "isProject": false
+  },
+  {
+    "message": "Just an ML model",
+    "isProject": false
+  },
+  {
+    "message": "we can just track the flight lmfao",
+    "isProject": false
+  },
+  {
+    "message": "why do we need AI for this",
+    "isProject": false
+  },
+  {
+    "message": "sounds fun!",
+    "isProject": false
+  },
+  {
+    "message": "yeah",
+    "isProject": false
+  },
+  {
+    "message": "that sounds good. could we also use channel activity, like what channels have the most (non-bot) messages sent recently/",
+    "isProject": false
+  },
+  {
+    "message": "yeah",
+    "isProject": false
+  },
+  {
+    "message": "thats... an interesting idea. so the app would use the ml model?",
+    "isProject": false
+  },
+  {
+    "message": "well we could use that + members as a metric for how “popular” channels are and the more popular / big ones could be at the center. It’d also be cool to see a video of how this changes over time / “grows”",
+    "isProject": false
+  },
+  {
+    "message": "i mean i think it would be a pretty cool graph to see which channels are being mentioned, im just not sure if thats what we want to aim for with the purpose of the map. what do you think?",
+    "isProject": false
+  },
+  {
+    "message": "PI: An ML model trained on <http://flightradar24.com|flightradar24.com> data that predicts how far a way a plane is from landing given the altitude, airspeed, airport, and location. Then an app that estimates how long it is until your plane lands so that it can play a song where the beat drops exactly when you land.",
+    "isProject": false
+  },
+  {
+    "message": "> that would mean that the graph changes a lot... not sure if we want that\nis that a bad thing? /genq",
+    "isProject": false
+  },
+  {
+    "message": "maybe a tagging system?",
+    "isProject": false
+  },
+  {
+    "message": "that would mean that the graph changes a lot... not sure if we want that",
+    "isProject": false
+  },
+  {
+    "message": "and they could be directional, too",
+    "isProject": false
+  },
+  {
+    "message": "maybe the links between could be when the channel was mentioned like “<#C0266FRGV>\"",
+    "isProject": false
+  },
+  {
+    "message": "Hmm maybe!",
+    "isProject": false
+  },
+  {
+    "message": "Maybe it could be kind of like the message that slackbot gives \"people also join #other-channel, ...\"",
+    "isProject": false
+  },
+  {
+    "message": "I still need to figure that out :sphere:",
+    "isProject": false
+  },
+  {
+    "message": "ooh thats fun! what would the links between the channels represent?",
+    "isProject": false
+  },
+  {
+    "message": "> Force-directed graph drawing algorithms are a class of <https://en.wikipedia.org/wiki/Algorithm|algorithms> for <https://en.wikipedia.org/wiki/Graph_drawing|drawing graphs> in an aesthetically-pleasing way. Their purpose is to position the nodes of a <https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)|graph> in two-dimensional or three-dimensional space so that all the edges are of more or less equal length and there are as few crossing edges as possible, by assigning forces among the set of edges and the set of nodes, based on their relative positions, and then using these forces either to simulate the motion of the edges and nodes or to minimize their energy",
+    "isProject": false
+  },
+  {
+    "message": "It's like the thing that Obsidian has for linking notes",
+    "isProject": false
+  },
+  {
+    "message": "This is an example <@U04G40QKAAD|samuel> <https://vasturiano.github.io/force-graph/example/directional-links-particles/>",
+    "isProject": false
+  }
+]

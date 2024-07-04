@@ -1,0 +1,202 @@
+[
+  {
+    "message": "This is a cool idea! Maybe like Jupyter but language-agnostic. Or a plugin for Obsidian that lets you run code blocks and see the output with <https://tio.run/#>",
+    "isProject": false
+  },
+  {
+    "message": "PI: notetaking software for coding (made by learners for learners)\nMaybe integrate to coding environments or have mini-code runners\nreply or @me if you know how to or are interested",
+    "isProject": false
+  },
+  {
+    "message": "Add a “hi ___, I’m Orpheus” response to <@UM1L1C38X>! It should have a chance of happening whenever someone says “i’m ___”",
+    "isProject": false
+  },
+  {
+    "message": "*and the activation energy too",
+    "isProject": false
+  },
+  {
+    "message": "PI:chemistry dynamics simulator\nuse a 2d pde solver plus an ode solver to simulate some chemistry thermodynamics,given the possble reactions and the enthalpy",
+    "isProject": false
+  },
+  {
+    "message": "this would be so useful",
+    "isProject": false
+  },
+  {
+    "message": "PI: gnome workspace lock\nbasically, i keep all of my windows that tend to distract me from the work i need to do in a separate workspace (virtual desktop). it would be nice if I could activate a lock on that workspace, which would make it so that I can't switch to it, and all notifications from the windows contained in it would be silenced. probably would just make it so that I need to enter my password to unlock.",
+    "isProject": false
+  },
+  {
+    "message": "<https://www.bilibili.com/video/BV1ud4y1r73U/?spm_id_from=333.788&amp;vd_source=abd940b43b7e6826e376ef1c8d7b6d99>\nPI:Use the aforementioned methods to make a \"console\" based game(user will have to write js code,inevitably,they will be able to cheat,but using modules and closures can evade that problem)",
+    "isProject": false
+  },
+  {
+    "message": ":sotrue:",
+    "isProject": false
+  },
+  {
+    "message": "I can help you from here",
+    "isProject": false
+  },
+  {
+    "message": "or or or",
+    "isProject": false
+  },
+  {
+    "message": "so people can send us \"fax\"",
+    "isProject": false
+  },
+  {
+    "message": "next time i go to hq i should set that up",
+    "isProject": false
+  },
+  {
+    "message": "yes",
+    "isProject": false
+  },
+  {
+    "message": "so essentially a thermal printer",
+    "isProject": false
+  },
+  {
+    "message": "those things are terrible",
+    "isProject": false
+  },
+  {
+    "message": "you could do it with a receipt printer!",
+    "isProject": false
+  },
+  {
+    "message": "only thing stopping me is lack of unlimited ink",
+    "isProject": false
+  },
+  {
+    "message": "Zach has a project a bit like this which you could repurpose ",
+    "isProject": false
+  },
+  {
+    "message": "oooo",
+    "isProject": false
+  },
+  {
+    "message": "this is fun! ",
+    "isProject": false
+  },
+  {
+    "message": "sorta like \"send me a fun message!\"",
+    "isProject": false
+  },
+  {
+    "message": "no but this is fun",
+    "isProject": false
+  },
+  {
+    "message": "i think some printers come with that feature, I remember mine had a paper that said you could send documents to an email",
+    "isProject": false
+  },
+  {
+    "message": "PI: email-fax machine\n\nevery time someone sends an email to a certain email address, print it out!",
+    "isProject": false
+  },
+  {
+    "message": "#2 success",
+    "isProject": false
+  },
+  {
+    "message": "yeah I saw",
+    "isProject": false
+  },
+  {
+    "message": "there's this for cli: <https://hackclub.slack.com/archives/C017YL1NMU0/p1690171699946399>",
+    "isProject": false
+  },
+  {
+    "message": "hmm what if I remake my currently very out of date website",
+    "isProject": false
+  },
+  {
+    "message": "could be cool to do smth else tho",
+    "isProject": false
+  },
+  {
+    "message": "idk I usually do more cli type stuff",
+    "isProject": false
+  },
+  {
+    "message": "there's lots in here! want to make an ooc leaderboard? maybe help out with <#C056TUPSR34>? (me biased)",
+    "isProject": false
+  },
+  {
+    "message": "I need project ideas :eyeses:",
+    "isProject": false
+  },
+  {
+    "message": "after painstakingly trying for 3 hours,#3 does not work because vector spaces tend to have words with the same prefix/suffix instead of a close meaning.",
+    "isProject": false
+  },
+  {
+    "message": "lol yeah",
+    "isProject": false
+  },
+  {
+    "message": "that's just a list of all the channels, not a map",
+    "isProject": false
+  },
+  {
+    "message": "PI:New artificial language\n1. We all know that using special and big words such as <https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/pneumonoultramicroscopicsilicovolcanoconiosis|pneumonoultramicroscopicsilicovolcanoconiosis> our speech gets faster and conciser.Why not try to make an entire language out of latin or greek prefixes(or maybe add some grammar symbols)\n2. Or,after my three attempts at inventing new languages all fall into the type of  \"codecs\",maybe use like base 28 on odd digits and 20 on even ones,and build words out of THAT instead of 4 bit multiplexing(i.e hexadecimal)\n3. AIs have vector clouds to store words,maybe use the K-means algorithm to pick out the central ones",
+    "isProject": false
+  },
+  {
+    "message": "this is basically autogpt",
+    "isProject": false
+  },
+  {
+    "message": "there is already one,<https://app.slack.com/client/T0266FRGM/browse-channels>",
+    "isProject": false
+  },
+  {
+    "message": "PI:Browser plugin to not show Slack posts containing some words",
+    "isProject": false
+  },
+  {
+    "message": "btw,Selenium NEVER works on my computer.Should give it some fish.",
+    "isProject": false
+  },
+  {
+    "message": "I do like this emoji a lot",
+    "isProject": false
+  },
+  {
+    "message": "but it might just be :wave-pikachu-2:",
+    "isProject": false
+  },
+  {
+    "message": "hmm, i think it actually might be :upvote:",
+    "isProject": false
+  },
+  {
+    "message": "for you, it's probably :wave-pikachu-2: ",
+    "isProject": false
+  },
+  {
+    "message": "PI: A bot or website that lets you see what reactions you used the most, and how many times you've used it! Should be able to be done using the Slack API!",
+    "isProject": false
+  },
+  {
+    "message": "Project idea: Hook up a webdriver / Selenium browser with ChatGPT for automated web browsing on tasks.\n\n1. Use JavaScript to identify all the “clickable buttons” on a page\n2. Use 3.5-turbo to summarize page text\n3. Feed page text and potential buttons to GPT-4 to make a decision\n4. Click that button, then repeat until the given task is done",
+    "isProject": false
+  },
+  {
+    "message": "(look at the message in context for more!)",
+    "isProject": false
+  },
+  {
+    "message": "<https://hackclub.slack.com/archives/C01270P3XFV/p1687137927658449>",
+    "isProject": false
+  },
+  {
+    "message": "<http://haxdrummer.hackclub.com|haxdrummer.hackclub.com>",
+    "isProject": false
+  }
+]

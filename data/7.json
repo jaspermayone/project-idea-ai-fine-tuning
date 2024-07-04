@@ -1,0 +1,202 @@
+[
+  {
+    "message": "<#C054FA87K8C> ",
+    "isProject": false
+  },
+  {
+    "message": "Bad PI: Organize a huge hackathon but don't have WiFi",
+    "isProject": false
+  },
+  {
+    "message": "that's the joke",
+    "isProject": false
+  },
+  {
+    "message": "Just use modulus ",
+    "isProject": false
+  },
+  {
+    "message": "Oh wow, amazing!",
+    "isProject": false
+  },
+  {
+    "message": "structured, in the xml",
+    "isProject": false
+  },
+  {
+    "message": "dunno, looks like it might be there",
+    "isProject": false
+  },
+  {
+    "message": "```<ContributionControllerInd>false</ContributionControllerInd>\n   <PersonTitleTxt>Controller</PersonTitleTxt>\n    <TitleTxt>Controller</TitleTxt>\n    <ContributionControllerInd>false</ContributionControllerInd>\n    <TitleTxt>Secretary, Controller</TitleTxt>\n    <TitleTxt>Secretary, Controller</TitleTxt>\n    <TitleTxt>Controller</TitleTxt>\n    <ContributionControllerInd>0</ContributionControllerInd>\n    <ContributionControllerInd>false</ContributionControllerInd>\n    <ContributionControllerInd>false</ContributionControllerInd>\n    <ContributionControllerInd>false</ContributionControllerInd>\n    <ContributionControllerInd>false</ContributionControllerInd>\n    <ContributionControllerInd>false</ContributionControllerInd>\n    <ContributionControllerInd>false</ContributionControllerInd>\n    <ContributionControllerInd>false</ContributionControllerInd>\n    <ContributionControllerInd>false</ContributionControllerInd>\n   <PersonTitleTxt>Controller</PersonTitleTxt>\n    <ContributionControllerInd>false</ContributionControllerInd>\n    <ContributionControllerInd>false</ContributionControllerInd>\n    <ContributionControllerInd>0</ContributionControllerInd>\n    <ContributionControllerInd>0</ContributionControllerInd>\n    <ContributionControllerInd>0</ContributionControllerInd>\n    <ContributionControllerInd>false</ContributionControllerInd>\n    <ContributionControllerInd>0</ContributionControllerInd>\n    <ContributionControllerInd>false</ContributionControllerInd>\n    <ContributionControllerInd>0</ContributionControllerInd>\n    <ContributionControllerInd>0</ContributionControllerInd>\n    <ContributionControllerInd>false</ContributionControllerInd>\n    <TitleTxt>Controller</TitleTxt>\n    <ExplanationTxt>The Form 990 is prepared by an independent CPA firm and is reviewed in detail by the Controller and the President/CEO. Then it is reviewed by board members and the finance committee prior to filing with the IRS.</ExplanationTxt>```\ngrep shows some ppl with Controller as their titletxt so",
+    "isProject": false
+  },
+  {
+    "message": "lemme search for controller",
+    "isProject": false
+  },
+  {
+    "message": "for the executive director there?",
+    "isProject": false
+  },
+  {
+    "message": "ReportableComp?",
+    "isProject": false
+  },
+  {
+    "message": "PI: make a program that generates a program that tells you if a number is even or false by using if(number == 1) then print odd, if number == 2 then print even, and so on",
+    "isProject": false
+  },
+  {
+    "message": "isn't this it?",
+    "isProject": false
+  },
+  {
+    "message": "I dunno",
+    "isProject": false
+  },
+  {
+    "message": "I think the XML doesn’t have much of the structured data",
+    "isProject": false
+  },
+  {
+    "message": "dling one of the tarballs to see what the exact format is and if its trivial to map",
+    "isProject": false
+  },
+  {
+    "message": "this is what you're talking about <https://www.irs.gov/charities-non-profits/form-990-series-downloads> if I understand correctly?",
+    "isProject": false
+  },
+  {
+    "message": "that would be so nice",
+    "isProject": false
+  },
+  {
+    "message": "like ctrl + arrow keys but for stage manager too",
+    "isProject": false
+  },
+  {
+    "message": "good keyboard navigation for my entire mac",
+    "isProject": false
+  },
+  {
+    "message": "it doesn’t have things like how much leadership is paid, etc",
+    "isProject": false
+  },
+  {
+    "message": "i see",
+    "isProject": false
+  },
+  {
+    "message": "like they link to the IRS website where you can get the summary of financials, but that is only very broad strokes income and expenses",
+    "isProject": false
+  },
+  {
+    "message": "i think the raw data is not fully structured though",
+    "isProject": false
+  },
+  {
+    "message": "but yeah not a full sql db",
+    "isProject": false
+  },
+  {
+    "message": "<https://projects.propublica.org/nonprofits/>",
+    "isProject": false
+  },
+  {
+    "message": "and an api",
+    "isProject": false
+  },
+  {
+    "message": "wait they have the raw data",
+    "isProject": false
+  },
+  {
+    "message": "ooh",
+    "isProject": false
+  },
+  {
+    "message": "For example - I would love to search and see how much an average Controller at a nonprofit with a budget over $1M makes, but I don’t think it’s possible to do this with the Propublica Explorer",
+    "isProject": false
+  },
+  {
+    "message": "Kind of! I want the raw data though. As far as I know, you can’t get raw structured data from them",
+    "isProject": false
+  },
+  {
+    "message": "propublica nonprofit explorer does this!",
+    "isProject": false
+  },
+  {
+    "message": "Project idea: Scrape all 990 public finance filings from nonprofits and organize them into a publicly queryable SQL database.",
+    "isProject": false
+  },
+  {
+    "message": "aram that's what I was thinking",
+    "isProject": false
+  },
+  {
+    "message": "Then people aren’t recommended ",
+    "isProject": false
+  },
+  {
+    "message": "What about a confession website instead of channel",
+    "isProject": false
+  },
+  {
+    "message": "how would you improve it?",
+    "isProject": false
+  },
+  {
+    "message": "make your own better confessions",
+    "isProject": false
+  },
+  {
+    "message": "I mean, saving it as binary is easier ",
+    "isProject": false
+  },
+  {
+    "message": "maybe get hired by Figma as a bonus",
+    "isProject": false
+  },
+  {
+    "message": ":whoa:",
+    "isProject": false
+  },
+  {
+    "message": "whoa",
+    "isProject": false
+  },
+  {
+    "message": "max suffering: figma but in the terminal",
+    "isProject": false
+  },
+  {
+    "message": "this is kinda how sprig does it too!",
+    "isProject": false
+  },
+  {
+    "message": "Check out <https://tools.suckless.org/farbfeld/|https://tools.suckless.org/farbfeld/>, the idea is similar",
+    "isProject": false
+  },
+  {
+    "message": "that's just evil",
+    "isProject": false
+  },
+  {
+    "message": "the json file is just an array of rgb values",
+    "isProject": false
+  },
+  {
+    "message": "storing an image in a json file",
+    "isProject": false
+  },
+  {
+    "message": "Can we make something that is a game console in a few years?",
+    "isProject": false
+  },
+  {
+    "message": "Yeah",
+    "isProject": false
+  }
+]

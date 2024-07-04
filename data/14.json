@@ -1,0 +1,202 @@
+[
+  {
+    "message": "If you choose to have rubric-based judging, or a generic theme like \"tech to help humanity\", it's an instant loss",
+    "isProject": false
+  },
+  {
+    "message": "rollercoaster tycoon but make it hackathon tycoon lol",
+    "isProject": false
+  },
+  {
+    "message": "<https://hackclub.slack.com/archives/C04JNDSMXKP/p1697683000037189>\nbasically a game that simulates organizing a hackathon!",
+    "isProject": false
+  },
+  {
+    "message": "well it's really just the .cow file and a bash alias...",
+    "isProject": false
+  },
+  {
+    "message": "hm",
+    "isProject": false
+  },
+  {
+    "message": "you should make this into a pacjage",
+    "isProject": false
+  },
+  {
+    "message": "<https://hackclub.slack.com/files/U04G40QKAAD/F0615R17V50/image.png>",
+    "isProject": false
+  },
+  {
+    "message": "update: unsuprisingly not there",
+    "isProject": false
+  },
+  {
+    "message": "i can see if its in the hc figma",
+    "isProject": false
+  },
+  {
+    "message": "i have a manifesto, too lazy to type it out lol so wondering if you have access to the text",
+    "isProject": false
+  },
+  {
+    "message": "buuut ill try to find another one",
+    "isProject": false
+  },
+  {
+    "message": "my manifesto is taped to my wall",
+    "isProject": false
+  },
+  {
+    "message": "so uh",
+    "isProject": false
+  },
+  {
+    "message": "ooh could you send that ascii in here? i can make the .cow file :eyes:",
+    "isProject": false
+  },
+  {
+    "message": "was talking to dieter about this- i dont understand how dinosay doesnt exist. we literally have an ascii orpheus on our manifesto's",
+    "isProject": false
+  },
+  {
+    "message": ".cow file :skull-ios:",
+    "isProject": false
+  },
+  {
+    "message": "because the program accepts different art",
+    "isProject": false
+  },
+  {
+    "message": "do we have an ascii orpheus",
+    "isProject": false
+  },
+  {
+    "message": "I am interested.  What music infra is justifiably HC infrastructure?",
+    "isProject": false
+  },
+  {
+    "message": "PI:a game on diff equations disguised as a clicker(you have to work out how you handle those pesky exponentials)",
+    "isProject": false
+  },
+  {
+    "message": "PI: Dinosay - cowsay but instead of a cow it's orpheus\nmay be used for <#C056WDR3MQR> ",
+    "isProject": false
+  },
+  {
+    "message": ":soreal:",
+    "isProject": false
+  },
+  {
+    "message": "i love it sm but the only downside is getting all your friends to pay 15 dollars for something, and they need to have a PC to join",
+    "isProject": false
+  },
+  {
+    "message": "it also makes prototyping your own board games really easy!",
+    "isProject": false
+  },
+  {
+    "message": ">  you can make pieces\n\nit makes basically turning any board game into a playable game online so long as you have a copy of the rulebook. it has a mod for almost every board game ever",
+    "isProject": false
+  },
+  {
+    "message": "and a \"flip the table\" button",
+    "isProject": false
+  },
+  {
+    "message": "yeah there's a throw feature lol",
+    "isProject": false
+  },
+  {
+    "message": ":eyeses:",
+    "isProject": false
+  },
+  {
+    "message": "throw pieces??",
+    "isProject": false
+  },
+  {
+    "message": "tabletop sim is a literal simulation of a tabletop, you can make and throw around pieces",
+    "isProject": false
+  },
+  {
+    "message": "ooh interesting! i didn't know that existed. but im not sure it's exactly what i was thinking",
+    "isProject": false
+  },
+  {
+    "message": "and is foss",
+    "isProject": false
+  },
+  {
+    "message": "<https://www.freeboardgames.org/en> uses it",
+    "isProject": false
+  },
+  {
+    "message": "<https://boardgame.io/> is a library to use",
+    "isProject": false
+  },
+  {
+    "message": "PI: foss web alternative to tabletop simulator so you can play board games with hackclubbers",
+    "isProject": false
+  },
+  {
+    "message": "Like no more DNs and CNs and DCs and OUs, no 10 different auth methods, software that wasn't last updated in 2010, ability to just autocreate homedirs and import ssh keys",
+    "isProject": false
+  },
+  {
+    "message": "That's not specific!!!",
+    "isProject": false
+  },
+  {
+    "message": "Like not so complex",
+    "isProject": false
+  },
+  {
+    "message": "Better in what specific way, though?",
+    "isProject": false
+  },
+  {
+    "message": "PI: better LDAP alternative (polypam), because LDAP is trash but it's the only option for directory access stuffs",
+    "isProject": false
+  },
+  {
+    "message": "kinda like a zipline",
+    "isProject": false
+  },
+  {
+    "message": "and then have the chair on like a long pulley",
+    "isProject": false
+  },
+  {
+    "message": "ok so you could make like casters that fold up",
+    "isProject": false
+  },
+  {
+    "message": "Jupyter notebooks perhaps?",
+    "isProject": false
+  },
+  {
+    "message": "PI: Geometry Dash but for plane nerds where you build absolutely crazy airports that are hard to land on (see convo here for context <https://hackclub.slack.com/archives/C027Y33B93L/p1693969327569559|https://hackclub.slack.com/archives/C027Y33B93L/p1693969327569559>)",
+    "isProject": false
+  },
+  {
+    "message": ":duck-dance:",
+    "isProject": false
+  },
+  {
+    "message": "cc <@U014E8132DB|DevIos>",
+    "isProject": false
+  },
+  {
+    "message": "that also supports other streaming services!",
+    "isProject": false
+  },
+  {
+    "message": "PI: Replacement for the /spotify slack bot, since it is broken and gone :pensive:",
+    "isProject": false
+  },
+  {
+    "message": "seems super cool! i ran into a similar problem when taking my first courses, would struggle writing out blocks of code, ended up using obsidian and notion for it though. would def be an interesting project, and would love to help out!",
+    "isProject": false
+  }
+]

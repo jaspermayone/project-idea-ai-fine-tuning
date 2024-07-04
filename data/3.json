@@ -1,0 +1,202 @@
+[
+  {
+    "message": "Nice idea lol:skull:",
+    "isProject": false
+  },
+  {
+    "message": "<https://auto-commit.netlify.app/>\nfor newbies who want to get the thread id fast",
+    "isProject": false
+  },
+  {
+    "message": "cc <@U04QD71QWS0|manitej> heres how it works!",
+    "isProject": false
+  },
+  {
+    "message": ":O",
+    "isProject": false
+  },
+  {
+    "message": "too much of a security risk though, like how will you know that it'll be only used for free trails and returned",
+    "isProject": false
+  },
+  {
+    "message": "but i want to wait for manitej to get back",
+    "isProject": false
+  },
+  {
+    "message": "yea",
+    "isProject": false
+  },
+  {
+    "message": "that is a feature that is quite easy to add i guess",
+    "isProject": false
+  },
+  {
+    "message": "ok",
+    "isProject": false
+  },
+  {
+    "message": "ive not automated anything yet since hakuun is in ts and this is node",
+    "isProject": false
+  },
+  {
+    "message": "does it auto detect threads",
+    "isProject": false
+  },
+  {
+    "message": "basically it uses a github webhook and thread id",
+    "isProject": false
+  },
+  {
+    "message": "thats quite cool",
+    "isProject": false
+  },
+  {
+    "message": "ooh nice",
+    "isProject": false
+  },
+  {
+    "message": "here!",
+    "isProject": false
+  },
+  {
+    "message": "didnt add the bot to the channel",
+    "isProject": false
+  },
+  {
+    "message": "<@U07B1A5B333>",
+    "isProject": false
+  },
+  {
+    "message": "i can try it out here",
+    "isProject": false
+  },
+  {
+    "message": "not gonna go into depth; but its quite easy to do.",
+    "isProject": false
+  },
+  {
+    "message": "a CLI with brainrot because gen alpha needs to learn to use terminals like back in the old days",
+    "isProject": false
+  },
+  {
+    "message": "but you could use BINs",
+    "isProject": false
+  },
+  {
+    "message": "uh so grey area",
+    "isProject": false
+  },
+  {
+    "message": "and we'll add it to hakuun (maybe) in like a week or two",
+    "isProject": false
+  },
+  {
+    "message": "nice",
+    "isProject": false
+  },
+  {
+    "message": "you'll need to host it youself on glitch (for now)",
+    "isProject": false
+  },
+  {
+    "message": "<@U078N1M1J6Q|ImNoah> working on the last bits of the readme for now",
+    "isProject": false
+  },
+  {
+    "message": "im waiting for manitej to circle back so we can integrate into hakuun",
+    "isProject": false
+  },
+  {
+    "message": "plz send a link",
+    "isProject": false
+  },
+  {
+    "message": "i made this two days ago :sob:",
+    "isProject": false
+  },
+  {
+    "message": "idk I would probably need someone to help me with the project ",
+    "isProject": false
+  },
+  {
+    "message": "i am making it use a slack bot to post the commits. hopefully that doesnt affect the ticket review process at all",
+    "isProject": false
+  },
+  {
+    "message": "the virtual debit card",
+    "isProject": false
+  },
+  {
+    "message": "Wdym",
+    "isProject": false
+  },
+  {
+    "message": "how would you generate the card tho",
+    "isProject": false
+  },
+  {
+    "message": "I could do something similar on a website?",
+    "isProject": false
+  },
+  {
+    "message": "Ooh true",
+    "isProject": false
+  },
+  {
+    "message": "verification for free trials and free tiers and stuff id assume\nidt this is possible because it'd be against the stripe ToC",
+    "isProject": false
+  },
+  {
+    "message": "ooh I'm going to try this as my next project, ty for the idea",
+    "isProject": false
+  },
+  {
+    "message": "i was trying to build this into a tool i was making but the hack club apis are giving me a headache",
+    "isProject": false
+  },
+  {
+    "message": "Verification for what?",
+    "isProject": false
+  },
+  {
+    "message": "a service that creates very limited (10c) virtual debit cards to use for verification purposes",
+    "isProject": false
+  },
+  {
+    "message": "honestly I was going to make a webpage that let's you put in a github repo and it'll automatically create a github compare link with the commits for you to copy within the last hour when you refocus it\nand it'd store the state in url parameters so you can bookmark it\na bit more manual but also simple to implement",
+    "isProject": false
+  },
+  {
+    "message": "ooooh very useful!",
+    "isProject": false
+  },
+  {
+    "message": "a thing that scans my github and my arcade sessions and posts to my active or most recent session when i commit on github",
+    "isProject": false
+  },
+  {
+    "message": "idk how you'd do it",
+    "isProject": false
+  },
+  {
+    "message": "making a physical stack language would be cool",
+    "isProject": false
+  },
+  {
+    "message": "<https://hackclub.slack.com/archives/C06MHT1TEE5/p1719249565670739>",
+    "isProject": false
+  },
+  {
+    "message": "+ references to people who have implemented those project ideas",
+    "isProject": false
+  },
+  {
+    "message": "Hack Club project ideas directory sounds pretty cool",
+    "isProject": false
+  },
+  {
+    "message": "Fine!",
+    "isProject": false
+  }
+]

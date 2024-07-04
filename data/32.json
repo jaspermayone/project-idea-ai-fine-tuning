@@ -1,0 +1,202 @@
+[
+  {
+    "message": "Spinoff threads?",
+    "isProject": false
+  },
+  {
+    "message": "PI: A feature so we can start a thread inside of a thread",
+    "isProject": false
+  },
+  {
+    "message": "you fools, those are new tabs, wanna see a window with around 700 tabs?",
+    "isProject": false
+  },
+  {
+    "message": "some…somebody b..b..ring me ww…at..er",
+    "isProject": false
+  },
+  {
+    "message": "take 21 more :eggsdee:",
+    "isProject": false
+  },
+  {
+    "message": "“I” not “my computer” btw",
+    "isProject": false
+  },
+  {
+    "message": "I’ll get a stroke if I have more than 20 tabs open",
+    "isProject": false
+  },
+  {
+    "message": "this is AWESOME",
+    "isProject": false
+  },
+  {
+    "message": "!!!",
+    "isProject": false
+  },
+  {
+    "message": "cool name",
+    "isProject": false
+  },
+  {
+    "message": "oh lol",
+    "isProject": false
+  },
+  {
+    "message": "oh i have a github repo but i need to commit my recent changes <https://github.com/jasonappah/liveterm>",
+    "isProject": false
+  },
+  {
+    "message": "Me curious",
+    "isProject": false
+  },
+  {
+    "message": "When’s the code going public",
+    "isProject": false
+  },
+  {
+    "message": "Oh good!",
+    "isProject": false
+  },
+  {
+    "message": "thats the goal",
+    "isProject": false
+  },
+  {
+    "message": "yep",
+    "isProject": false
+  },
+  {
+    "message": "(Probably easy to do, right?)",
+    "isProject": false
+  },
+  {
+    "message": "Is there a way to make a single command that starts asciinema, points to the file and starts a stream in one go?",
+    "isProject": false
+  },
+  {
+    "message": "That’s nice",
+    "isProject": false
+  },
+  {
+    "message": "Oooooo",
+    "isProject": false
+  },
+  {
+    "message": "each new line in the cast is a new 'event' so liveterm is just watching that file for new lines and sending that to the webpage via socket io",
+    "isProject": false
+  },
+  {
+    "message": "the whole reason this is somewhat feasible for me to do is cause of their v2 file format",
+    "isProject": false
+  },
+  {
+    "message": "so... once you get everything downloaded and set up, you:\n• start a regular asciinema recording\n• point liveterm to that file\n• run liveterm\n• profit",
+    "isProject": false
+  },
+  {
+    "message": "Wait so walk me through I how a user starts a stream after installing",
+    "isProject": false
+  },
+  {
+    "message": "Huh",
+    "isProject": false
+  },
+  {
+    "message": "im just gonna clean it up so people can actually use it lol",
+    "isProject": false
+  },
+  {
+    "message": "this is like a very very bare mvp",
+    "isProject": false
+  },
+  {
+    "message": "it works but its very hacky and there's multiple folders of external dependencies that i need to move to their proper location",
+    "isProject": false
+  },
+  {
+    "message": "It works tho why rewrite",
+    "isProject": false
+  },
+  {
+    "message": "Walk me through it",
+    "isProject": false
+  },
+  {
+    "message": "actually i need to rewrite everything cause its very jank",
+    "isProject": false
+  },
+  {
+    "message": "Wait so how do I start a stream",
+    "isProject": false
+  },
+  {
+    "message": "Ooooo",
+    "isProject": false
+  },
+  {
+    "message": "might rewrite in go tho",
+    "isProject": false
+  },
+  {
+    "message": "it's in typescript rn",
+    "isProject": false
+  },
+  {
+    "message": "This is definitely going on gh trending",
+    "isProject": false
+  },
+  {
+    "message": "What Lang did you make this in",
+    "isProject": false
+  },
+  {
+    "message": "yoo thanks",
+    "isProject": false
+  },
+  {
+    "message": "It’s so good",
+    "isProject": false
+  },
+  {
+    "message": "Definitely put this on product hunt and Reddit",
+    "isProject": false
+  },
+  {
+    "message": "That’s like, asciinema level ground breaking",
+    "isProject": false
+  },
+  {
+    "message": "No idea how you did it",
+    "isProject": false
+  },
+  {
+    "message": "That looks sick",
+    "isProject": false
+  },
+  {
+    "message": "Json are you kidding me",
+    "isProject": false
+  },
+  {
+    "message": "ill clean up my mess and commit to my gh repo in a sec",
+    "isProject": false
+  },
+  {
+    "message": "almost 4 weeks later... it kinda works",
+    "isProject": false
+  },
+  {
+    "message": "Plus clicking on 100s of yt vids is annoying too lolol",
+    "isProject": false
+  },
+  {
+    "message": "Other sites are there too",
+    "isProject": false
+  },
+  {
+    "message": "youtube has a watch later feature",
+    "isProject": false
+  }
+]

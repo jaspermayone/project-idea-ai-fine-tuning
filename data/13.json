@@ -1,0 +1,202 @@
+[
+  {
+    "message": "seems fun",
+    "isProject": false
+  },
+  {
+    "message": "i added so many safety features ok",
+    "isProject": false
+  },
+  {
+    "message": ":eyes_shaking: ",
+    "isProject": false
+  },
+  {
+    "message": "that being said i find the idea very amusing and definitely not a risk",
+    "isProject": false
+  },
+  {
+    "message": "unfortunately i do not think my skillset would be very relevant to this project",
+    "isProject": false
+  },
+  {
+    "message": "would you like to help shawn",
+    "isProject": false
+  },
+  {
+    "message": "clarified",
+    "isProject": false
+  },
+  {
+    "message": "i wrote it like one lol",
+    "isProject": false
+  },
+  {
+    "message": "yea me too",
+    "isProject": false
+  },
+  {
+    "message": "i thought this was a ship post :sob:",
+    "isProject": false
+  },
+  {
+    "message": "Would love to contribute, this is AMAZING",
+    "isProject": false
+  },
+  {
+    "message": ":hammer_and_wrench: PROJECT IDEA :hammer_and_wrench:\n:among_us: ImpostorKit - An all-in-one toolkit for impersonating people on Slack! With ImpostorKit, you can simply run /impostorkit <slack mention> and ImpostorKit will immediately download a copy of your current Slack profile before replacing it with that of the person you wish to impersonate. As a safety feature, ImpostorKit will DM the user you wish to impersonate a request asking for permission, which they will be able to approve or deny. You can allow anyone to impersonate you without asking permission by running /impostorkit alwaysapprove!\n\nAdditionally, ImpostorKit will include :amogus_pov: ImpostorAI - a custom AI that's trained on a sample of messages sent by the person you wish to impersonate! With ImpostorAI, you can be sure that nobody will ever notice that you're an impostor! ImpostorAI will be an opt-in feature - users will have to allow ImpostorAI to be trained on their messages by running /impostorai allow.\n\nIf you're ready to contribute to the :sus: future of the Hack Club Slack, join <#C06672302BH>! ImpostorKit should be ready for production by April 1st, 2024. ImpostorAI should be in Beta by the same date.",
+    "isProject": false
+  },
+  {
+    "message": "are u having shipping problems :skull-ios:",
+    "isProject": false
+  },
+  {
+    "message": "u cld make a sim game like this",
+    "isProject": false
+  },
+  {
+    "message": "funny",
+    "isProject": false
+  },
+  {
+    "message": "I was thinking of trying to make one myself....",
+    "isProject": false
+  },
+  {
+    "message": "undependabot",
+    "isProject": false
+  },
+  {
+    "message": "A app that adds as many problems to shipments to delay them so much it is the true snail mail",
+    "isProject": false
+  },
+  {
+    "message": "Also like, not everyone owns a Domain name, which kinda makes indieauth sort of redundant as soon as your application leaves the tech space",
+    "isProject": false
+  },
+  {
+    "message": "it's more to replace social login",
+    "isProject": false
+  },
+  {
+    "message": "what?",
+    "isProject": false
+  },
+  {
+    "message": "If you don't trust the website owner with their own authentication system, you probably just shouldn't use that site",
+    "isProject": false
+  },
+  {
+    "message": "I don't see the point in making it decentralized tbh. I've noticed that things like this being decentralized actually make it harder to use. Especially when it's easy to just self host something",
+    "isProject": false
+  },
+  {
+    "message": "<https://indieauth.net/>",
+    "isProject": false
+  },
+  {
+    "message": "indielogin + gpg",
+    "isProject": false
+  },
+  {
+    "message": "<http://dexidp.io|dexidp.io>",
+    "isProject": false
+  },
+  {
+    "message": "It ideally would also support 2FA in some form",
+    "isProject": false
+  },
+  {
+    "message": "cc <@U0162MDUP7C|reesericci>",
+    "isProject": false
+  },
+  {
+    "message": "this would be pretty cool",
+    "isProject": false
+  },
+  {
+    "message": "I might do this now",
+    "isProject": false
+  },
+  {
+    "message": "And a easy integration with any Linux system, including ssh public keys (<#C056WDR3MQR> :eyes:)\n\nLDAP is not and will never be supported. LET IT DIE",
+    "isProject": false
+  },
+  {
+    "message": "great reference, thanks!",
+    "isProject": false
+  },
+  {
+    "message": "PI: Your own authentication provider (Which allows authentication via any method you can think of) and exposes an OAUTH2 provider",
+    "isProject": false
+  },
+  {
+    "message": "If you can handle storage etc, I would love to help",
+    "isProject": false
+  },
+  {
+    "message": "<https://github.com/devramsean0/wikipedia-crawler> It's bad code, and it was designed to allow me to generate a graph of how the internet links together starting at <http://wikipedia.org|wikipedia.org>",
+    "isProject": false
+  },
+  {
+    "message": "i have a decent amount of storage to spare",
+    "isProject": false
+  },
+  {
+    "message": "could you send it? i want to build on it",
+    "isProject": false
+  },
+  {
+    "message": "i see",
+    "isProject": false
+  },
+  {
+    "message": "I actually almost did this, and I have some mostly working scraper code But I ran into a small issue which was db size",
+    "isProject": false
+  },
+  {
+    "message": "run a few crawlers",
+    "isProject": false
+  },
+  {
+    "message": "might as well utilize that",
+    "isProject": false
+  },
+  {
+    "message": "i mean hey, i’m geting gigabit connectivity soon",
+    "isProject": false
+  },
+  {
+    "message": "idea: building a search engine yourself to learn how they work, but the twist is that it only adds page to its index when it determines that it has amogus related content",
+    "isProject": false
+  },
+  {
+    "message": "PI: slack bot to list an image on OpenSea automatically",
+    "isProject": false
+  },
+  {
+    "message": "ah i see. I didn't actually know that existed but it looks like they just have rules about abbreviations and it's more of a find and replace certain words, but more complex rules couldn't be implemented with grammarly? like Ohio can't be abbreviated to OH unless I write the city first. Ex. I live in OH (wrong) I live in Columbus, OH (correct). I don't know if they'd be able to implement that",
+    "isProject": false
+  },
+  {
+    "message": "Style guides are a feature in business",
+    "isProject": false
+  },
+  {
+    "message": "<https://www.grammarly.com/business/free-trial|https://www.grammarly.com/business/free-trial>",
+    "isProject": false
+  },
+  {
+    "message": "i love this idea dearly",
+    "isProject": false
+  },
+  {
+    "message": "grammarly but for journalists/anyone with a style guide to enforce a customizable set of rules",
+    "isProject": false
+  },
+  {
+    "message": "Attendees will revolt if no Celsius is present. Attendees will murder organizers if there is not sufficient caffiene",
+    "isProject": false
+  }
+]

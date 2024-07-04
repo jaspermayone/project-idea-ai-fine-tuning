@@ -1,0 +1,202 @@
+[
+  {
+    "message": "OMG yes",
+    "isProject": false
+  },
+  {
+    "message": "A calendar that stores all your data in a human-readable file format. You can move the file across computers and still have a view of all of your past events.",
+    "isProject": false
+  },
+  {
+    "message": "honestly this would be way better than current anticheats",
+    "isProject": false
+  },
+  {
+    "message": "horrible ideas with kokonico #3:\n\nan anti cheat system that just lags out your game (5-6 fps) if you are cheating\n\nalso put cryptic messages in the log about the cheats mining crypto",
+    "isProject": false
+  },
+  {
+    "message": "this is more what I’m thinking:\n• X_H is a clock that triggers every hour to shift the johnson counter\n• SW_H is a button you can use to override that and trigger the hour early (for setting the clock)\n• X_H_SPK is a clock to drive a speaker when you press the button, giving audio feedback\n\nI need 3 of these circuits, for hours/minutes/seconds",
+    "isProject": false
+  },
+  {
+    "message": "also, they’re using ATmega168 too",
+    "isProject": false
+  },
+  {
+    "message": "nah, I want this to be my own thing",
+    "isProject": false
+  },
+  {
+    "message": "Look at how evil mad scientist did their kit",
+    "isProject": false
+  },
+  {
+    "message": "Wait, think I found an answer <https://www.falstad.com/circuit/e-johnsonctr.html|https://www.falstad.com/circuit/e-johnsonctr.html>",
+    "isProject": false
+  },
+  {
+    "message": "This is really cool! I see he’s doing it with an atmega, but is there a simple way to do this with analog components? How would I shift from one LED being on to the next. Is there some cheap shift register component I can use for that?",
+    "isProject": false
+  },
+  {
+    "message": "<#C056AMWSFKJ> idea: <https://ironicsans.beehiiv.com/p/life-death-bulbdial-clock>",
+    "isProject": false
+  },
+  {
+    "message": "in our house we don't have natural gas service at all",
+    "isProject": false
+  },
+  {
+    "message": "in texas it's pretty common to not have a furnace",
+    "isProject": false
+  },
+  {
+    "message": "<https://youtu.be/DTsQjiPlksA?feature=shared&amp;t=1510> mr. technology connections :technology-connections: :connections: himself seems to have a project idea... a guided/easy <https://www.acca.org/standards/technical-manuals/manual-j|manual j calculator>! \"there should be an app for that\"",
+    "isProject": false
+  },
+  {
+    "message": "wakatime but much wow, so cool",
+    "isProject": false
+  },
+  {
+    "message": "sorry I thought you were saying it already existed lmao",
+    "isProject": false
+  },
+  {
+    "message": "thats what it would be called",
+    "isProject": false
+  },
+  {
+    "message": "the what now? ",
+    "isProject": false
+  },
+  {
+    "message": "the slacklist...",
+    "isProject": false
+  },
+  {
+    "message": "horrible ideas with kokonico #2:\n\nmake a machine that detects if a video has copyrighted music, and if so add another copyrighted song on top of it until it can't detect the copyrighted music anymore.",
+    "isProject": false
+  },
+  {
+    "message": "PI: Combine all the songs (songlink) posted onto the slack into one massive playlist",
+    "isProject": false
+  },
+  {
+    "message": "(reffering to the pi i posted yesterday)",
+    "isProject": false
+  },
+  {
+    "message": "basically isomorphic",
+    "isProject": false
+  },
+  {
+    "message": "it is called text game of babel",
+    "isProject": false
+  },
+  {
+    "message": "wait ive already did this before",
+    "isProject": false
+  },
+  {
+    "message": "This gonna be so helpful with my nieces and nephews if somebody builds it",
+    "isProject": false
+  },
+  {
+    "message": "basically isomorphic to thief simulator without the money system and you get caught immediately when an alarm is raised,and saves only happen at the beginning of each quest,instead of when you exit your car",
+    "isProject": false
+  },
+  {
+    "message": "pi:a game where you have to explore a complex finite state machine by inputting stuff and observing the output,causing that particular path being drawn into the notebook.after you know how to go from initial state to halting state,you have to try to do it in the least amount of steps.easy mode:stuff resets when you request it,hard mode:stuff resets once,when you submit your answer",
+    "isProject": false
+  },
+  {
+    "message": "I will buy :)",
+    "isProject": false
+  },
+  {
+    "message": "YES",
+    "isProject": false
+  },
+  {
+    "message": "Overly complex mechanical hourglass (not gravity driven but still gives hourglass vibes)",
+    "isProject": false
+  },
+  {
+    "message": "not really an idea but maybe a project that can use LTI? <https://en.wikipedia.org/wiki/Learning_Tools_Interoperability>",
+    "isProject": false
+  },
+  {
+    "message": "horrible ideas with kokonico #1:\n\nan app for vision pro that changes everyone to be exact clones of you\n\ndiscrimination be damned",
+    "isProject": false
+  },
+  {
+    "message": "Oh okay, thanks Aarya! ",
+    "isProject": false
+  },
+  {
+    "message": "We used to have a bot that did that, but we moved off it and now let people report by sending a Dm to a commie team member or sending a email to <mailto:conduct@hackclub.com|conduct@hackclub.com>",
+    "isProject": false
+  },
+  {
+    "message": "If you find something that breaks HC rules",
+    "isProject": false
+  },
+  {
+    "message": "Reporting for what?",
+    "isProject": false
+  },
+  {
+    "message": "Not sure if this already exists but a private report option in the slack. If it doesn’t exist, I’ll try coming out with a demo soon ",
+    "isProject": false
+  },
+  {
+    "message": "Clever",
+    "isProject": false
+  },
+  {
+    "message": "for feather 32u4 + bluefruit",
+    "isProject": false
+  },
+  {
+    "message": "I can send you the code or throw it up there in a bit",
+    "isProject": false
+  },
+  {
+    "message": "Haha nice",
+    "isProject": false
+  },
+  {
+    "message": "Didn’t post it anywhere but it just used Bluetooth hid commands for play/pause controlled by the wheel rotation",
+    "isProject": false
+  },
+  {
+    "message": "Github or otherwise link?",
+    "isProject": false
+  },
+  {
+    "message": "Time for cross-domain scaling <@U05H8RXQPS8|tori>",
+    "isProject": false
+  },
+  {
+    "message": "<@U05H8RXQPS8|tori> just built this, but for exercise! it blocks your TV unless you are pedaling a bike!",
+    "isProject": false
+  },
+  {
+    "message": "A device that blocks a toddlers vision of a TV screen (somehow) unless they eat their darned food",
+    "isProject": false
+  },
+  {
+    "message": "some parts",
+    "isProject": false
+  },
+  {
+    "message": "I dunno, I'd include <#CNMU9L92Q>, just leave some parts of it out, yk?",
+    "isProject": false
+  },
+  {
+    "message": "haha lmao",
+    "isProject": false
+  }
+]

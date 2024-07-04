@@ -1,0 +1,202 @@
+[
+  {
+    "message": "lol instead of copying the link and pasting we can share that message in ooc with 2 clicks",
+    "isProject": false
+  },
+  {
+    "message": "LINKS",
+    "isProject": false
+  },
+  {
+    "message": "Tbh it’s pretty obvious how the bot will know",
+    "isProject": false
+  },
+  {
+    "message": ":thonkzoom: ",
+    "isProject": false
+  },
+  {
+    "message": "what",
+    "isProject": false
+  },
+  {
+    "message": "where",
+    "isProject": false
+  },
+  {
+    "message": "> Ishan:  /ooc\n> bot: :thonkzoom: ",
+    "isProject": false
+  },
+  {
+    "message": "like how the bot will know which message to be ooc’d",
+    "isProject": false
+  },
+  {
+    "message": "lol it won’t work",
+    "isProject": false
+  },
+  {
+    "message": "Like <@UH50T81A6>",
+    "isProject": false
+  },
+  {
+    "message": "anywhere",
+    "isProject": false
+  },
+  {
+    "message": "cc: <@U01C21G88QM|Khushraj> who develops stuff crazy fast",
+    "isProject": false
+  },
+  {
+    "message": "PI: OOCerBot, slash command to instantly ooc a message",
+    "isProject": false
+  },
+  {
+    "message": "1. Still a veeeeeeeeeery tiny risk\n2. Some things don't revoke",
+    "isProject": false
+  },
+  {
+    "message": "It's never good to commit one anyways",
+    "isProject": false
+  },
+  {
+    "message": "But still",
+    "isProject": false
+  },
+  {
+    "message": "Most API providers (like Slack) automatically revoke tokens pretty quickly when you commit them",
+    "isProject": false
+  },
+  {
+    "message": "Pretty sure that will make me get screamed at",
+    "isProject": false
+  },
+  {
+    "message": "you want me to make a PR to make a default global gitignore containing .env?",
+    "isProject": false
+  },
+  {
+    "message": "very intimidating <https://github.com/git/git/blob/master/Documentation/SubmittingPatches>",
+    "isProject": false
+  },
+  {
+    "message": "Let me get screamed at. For open source! And security!",
+    "isProject": false
+  },
+  {
+    "message": "but okay let me see",
+    "isProject": false
+  },
+  {
+    "message": "pretty sure they'll scream at me",
+    "isProject": false
+  },
+  {
+    "message": "okay no Linus Torvalds is scary man",
+    "isProject": false
+  },
+  {
+    "message": "It could even maybe recommend the people to delete all history of that file",
+    "isProject": false
+  },
+  {
+    "message": "so maybe dependabot is good for now",
+    "isProject": false
+  },
+  {
+    "message": "But their actual github stuff isn't open source",
+    "isProject": false
+  },
+  {
+    "message": "lol yeah",
+    "isProject": false
+  },
+  {
+    "message": "imo when you push it should just say no no no you be adding a .env",
+    "isProject": false
+  },
+  {
+    "message": "hmmm",
+    "isProject": false
+  },
+  {
+    "message": "it should be, don't you think?",
+    "isProject": false
+  },
+  {
+    "message": "thing",
+    "isProject": false
+  },
+  {
+    "message": "not sure if this is a dependabot",
+    "isProject": false
+  },
+  {
+    "message": "If so, PR time",
+    "isProject": false
+  },
+  {
+    "message": "do they have a repo for dependabot?",
+    "isProject": false
+  },
+  {
+    "message": "this should be a dependabot thing",
+    "isProject": false
+  },
+  {
+    "message": "what the heck",
+    "isProject": false
+  },
+  {
+    "message": "Wait yeah it should",
+    "isProject": false
+  },
+  {
+    "message": "sadly not it seems",
+    "isProject": false
+  },
+  {
+    "message": "(I was reminded of DMs)",
+    "isProject": false
+  },
+  {
+    "message": "lol sam you were the reason I made this PI",
+    "isProject": false
+  },
+  {
+    "message": "AHAHAHHAHA I”d be no 1",
+    "isProject": false
+  },
+  {
+    "message": "PI: A bot that scours hack clubbers repos (or all repos) for committed .envs and automatically makes issues or sends messages to that hack clubber",
+    "isProject": false
+  },
+  {
+    "message": "I'm trying out Next.js + Vercel + Apollo GraphQL + FaunaDB\n\nSo I'm writing it in TypeScript :ts:",
+    "isProject": false
+  },
+  {
+    "message": "What you writing it in",
+    "isProject": false
+  },
+  {
+    "message": "Cool you hadn't made any commits when I last saw",
+    "isProject": false
+  },
+  {
+    "message": "maybe",
+    "isProject": false
+  },
+  {
+    "message": "<@UH50T81A6> balance <@U01C21G88QM|Khushraj>",
+    "isProject": false
+  },
+  {
+    "message": "<@UH50T81A6> balance",
+    "isProject": false
+  },
+  {
+    "message": "you did it in 2 minutes",
+    "isProject": false
+  }
+]

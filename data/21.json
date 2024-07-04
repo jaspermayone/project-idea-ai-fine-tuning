@@ -1,0 +1,202 @@
+[
+  {
+    "message": "there are many ipfs clients thats supports on regular browser ",
+    "isProject": false
+  },
+  {
+    "message": "This seems cool but what's the practical benefit to this as 1) we already have a file host and 2) browsers don't support ipfs natively so you can't reap the benefits without a resolver (centralization)",
+    "isProject": false
+  },
+  {
+    "message": "yeaa once I tried with their JS Library",
+    "isProject": false
+  },
+  {
+    "message": "recommend the IPFS hello world CLI tutorial. i got it installed and hosted a file within 10 minutes following it!",
+    "isProject": false
+  },
+  {
+    "message": "I think I need to study more about this",
+    "isProject": false
+  },
+  {
+    "message": "using ipfs desktop client ",
+    "isProject": false
+  },
+  {
+    "message": "ohh yes we can",
+    "isProject": false
+  },
+  {
+    "message": "but is it possible to host it locally?",
+    "isProject": false
+  },
+  {
+    "message": "if noone requests the file it'll eventually be garbage collected, we can prevent that by pinning the file (hosting it locally)",
+    "isProject": false
+  },
+  {
+    "message": "<https://ipfs.io|https://ipfs.io>",
+    "isProject": false
+  },
+  {
+    "message": "upto my knowledge IPFS is decentralised so files will be hosted on different nodes",
+    "isProject": false
+  },
+  {
+    "message": "would the files be hosted on zephyrnet or something?",
+    "isProject": false
+  },
+  {
+    "message": "that'd be sick!",
+    "isProject": false
+  },
+  {
+    "message": "Actually it is easy to implement ",
+    "isProject": false
+  },
+  {
+    "message": "PI: decentralised <#C016DEDUL87> using IPFS",
+    "isProject": false
+  },
+  {
+    "message": "terraform is cool but not stateless which is my issue with it",
+    "isProject": false
+  },
+  {
+    "message": "> Terraform codifies cloud APIs into declarative configuration files.\npogg",
+    "isProject": false
+  },
+  {
+    "message": "nice",
+    "isProject": false
+  },
+  {
+    "message": "whoaa",
+    "isProject": false
+  },
+  {
+    "message": "I am actually thinking about moving my dns config over to terraform",
+    "isProject": false
+  },
+  {
+    "message": "<@U0261EB1EG7|Dev> check out terraform: <https://www.terraform.io/>",
+    "isProject": false
+  },
+  {
+    "message": "honestly a LOT of software/platforms need something like octodns",
+    "isProject": false
+  },
+  {
+    "message": "PI:",
+    "isProject": false
+  },
+  {
+    "message": "but…",
+    "isProject": false
+  },
+  {
+    "message": "‎ =  =\n\\___/",
+    "isProject": false
+  },
+  {
+    "message": "<@U014PSX0H2T>",
+    "isProject": false
+  },
+  {
+    "message": "PI: a bday calendar slack bot that keeps track of birthdays and sends a happy birthday to birthday person",
+    "isProject": false
+  },
+  {
+    "message": "ooo that would be pretty cool",
+    "isProject": false
+  },
+  {
+    "message": "online version of gource that can load from a URL, so repos can have a \"see gource\" tag that's just a link",
+    "isProject": false
+  },
+  {
+    "message": "like a warning",
+    "isProject": false
+  },
+  {
+    "message": "also when i say this i just mean like “STOP! before you ask a question in <#C0EA9S0A0>, have you tried searching it first???”",
+    "isProject": false
+  },
+  {
+    "message": "<#C01SPNUEF8F>",
+    "isProject": false
+  },
+  {
+    "message": "PI: stack overflow but for <#C0EA9S0A0>",
+    "isProject": false
+  },
+  {
+    "message": "has renamed the channel from ‘projectideas’ to ‘project-ideas’",
+    "isProject": false
+  },
+  {
+    "message": "we could probably use some sort of gan thing",
+    "isProject": false
+  },
+  {
+    "message": "and their names",
+    "isProject": false
+  },
+  {
+    "message": "is there somewhere we can get all the emoji",
+    "isProject": false
+  },
+  {
+    "message": "aye",
+    "isProject": false
+  },
+  {
+    "message": "alr got the post-processing automated, now do the preprocessing :bigbrain:",
+    "isProject": false
+  },
+  {
+    "message": "this is huge brain idea",
+    "isProject": false
+  },
+  {
+    "message": "Oh nice, I didn't see this before",
+    "isProject": false
+  },
+  {
+    "message": "what is it this time?",
+    "isProject": false
+  },
+  {
+    "message": "Bruh ",
+    "isProject": false
+  },
+  {
+    "message": "idk it doesn’t have to be ai",
+    "isProject": false
+  },
+  {
+    "message": "sure ill do that",
+    "isProject": false
+  },
+  {
+    "message": "Can't you say \"idk it doesn't have to be ai\"",
+    "isProject": false
+  },
+  {
+    "message": "well ive usually just man regardless of gender, and it feels socially awkward to say “idk girl it doesn’t have to be ai”",
+    "isProject": false
+  },
+  {
+    "message": "Why does it feel weird to call me a girl",
+    "isProject": false
+  },
+  {
+    "message": "well it feels weird to call you girl, and i was called out and brutally cancelled when i said woman",
+    "isProject": false
+  },
+  {
+    "message": "It's still gendered",
+    "isProject": false
+  }
+]

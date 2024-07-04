@@ -1,0 +1,202 @@
+[
+  {
+    "message": "something like telegram or whatsapp",
+    "isProject": false
+  },
+  {
+    "message": "i mean",
+    "isProject": false
+  },
+  {
+    "message": "<#C01819D4L23> :eyes:",
+    "isProject": false
+  },
+  {
+    "message": "<@U0130G4049Y|adrian> no just use slack",
+    "isProject": false
+  },
+  {
+    "message": "PI: a secure chat platform",
+    "isProject": false
+  },
+  {
+    "message": "i actually searched how to make a terminal emulator",
+    "isProject": false
+  },
+  {
+    "message": "install dependencies for your terminal emulator",
+    "isProject": false
+  },
+  {
+    "message": "PI: a terminal emulator inside a terminal emulator :mindblown:",
+    "isProject": false
+  },
+  {
+    "message": "you made it",
+    "isProject": false
+  },
+  {
+    "message": "what?",
+    "isProject": false
+  },
+  {
+    "message": "it happened",
+    "isProject": false
+  },
+  {
+    "message": "cuz i'm doing my homework in md",
+    "isProject": false
+  },
+  {
+    "message": "then why md",
+    "isProject": false
+  },
+  {
+    "message": "but i don’t get md to txt",
+    "isProject": false
+  },
+  {
+    "message": "i compile md to html",
+    "isProject": false
+  },
+  {
+    "message": "<@UKX34GEC8|ken>",
+    "isProject": false
+  },
+  {
+    "message": "<#C0150AA5MHD> would be more suitable",
+    "isProject": false
+  },
+  {
+    "message": "...... this doesn't look like a project idea",
+    "isProject": false
+  },
+  {
+    "message": "<https://devpost.com/software/animal-kingdoom>\nHello Guys, I am participating in the Alexa skills conversation challenge. So guys please see like and comment on the devpost. You can also test my Alexa skill, I have the link of my skill.",
+    "isProject": false
+  },
+  {
+    "message": "<#C01819D4L23> :eyes:",
+    "isProject": false
+  },
+  {
+    "message": "pi: a cli tool that can change the name of a project you are working on by changing all names of files and directories and also allowing you to change all the references to that name in your files ( you get to pick which ones get change so you dont screw up real words ).\nI assume it exists but Im prob gonna work on one anyway.",
+    "isProject": false
+  },
+  {
+    "message": "¯\\_(ツ)_/¯",
+    "isProject": false
+  },
+  {
+    "message": "well",
+    "isProject": false
+  },
+  {
+    "message": "yeah but energy drink has way more sugar",
+    "isProject": false
+  },
+  {
+    "message": "i don't really drink caffeine anyway because it doesn't help me that much and just comes with mostly downsides",
+    "isProject": false
+  },
+  {
+    "message": "your average cup of coffee will have more caffeine than an energy drink anyway - most people just don't admit that to themselves lmao",
+    "isProject": false
+  },
+  {
+    "message": "i wouldn't suggest having energy drinks in the morning",
+    "isProject": false
+  },
+  {
+    "message": "¯\\_(ツ)_/¯",
+    "isProject": false
+  },
+  {
+    "message": "oh",
+    "isProject": false
+  },
+  {
+    "message": "nah i don't drink coffee",
+    "isProject": false
+  },
+  {
+    "message": "go drink some coffee luke",
+    "isProject": false
+  },
+  {
+    "message": "lol",
+    "isProject": false
+  },
+  {
+    "message": "sorry zsh in general not oh my zsh... i am not awake enough today lol",
+    "isProject": false
+  },
+  {
+    "message": "i'm not using oh-my-zsh",
+    "isProject": false
+  },
+  {
+    "message": "yeah it's a completion function for pandoc, if you're using oh-my-zsh",
+    "isProject": false
+  },
+  {
+    "message": "yeah zsh is my default shell",
+    "isProject": false
+  },
+  {
+    "message": "i think _pandoc is like a thing for zsh",
+    "isProject": false
+  },
+  {
+    "message": "hm idk",
+    "isProject": false
+  },
+  {
+    "message": "i mean you're on a relatively lightweight linux distro so it may well not be installed if you haven't used it before, but it's a yay -S pandoc away lol",
+    "isProject": false
+  },
+  {
+    "message": "but if i type _pandoc it says it's right",
+    "isProject": false
+  },
+  {
+    "message": "if i type pandoc it says it's wrong",
+    "isProject": false
+  },
+  {
+    "message": "lemme check",
+    "isProject": false
+  },
+  {
+    "message": "oh ok",
+    "isProject": false
+  },
+  {
+    "message": "i'm just telling you that pandoc is a tool that does this that is likely already installed on your system",
+    "isProject": false
+  },
+  {
+    "message": "so i have to install pandoc",
+    "isProject": false
+  },
+  {
+    "message": "i might've gotten syntax wrong tho",
+    "isProject": false
+  },
+  {
+    "message": "pandoc -f markdown -t plain -input.md -o file.txt should work i think",
+    "isProject": false
+  },
+  {
+    "message": "maybe i'll use them",
+    "isProject": false
+  },
+  {
+    "message": "Yeah man",
+    "isProject": false
+  },
+  {
+    "message": "¯\\_(ツ)_/¯",
+    "isProject": false
+  }
+]
