@@ -73,7 +73,7 @@
   },
   {
     "message": "A Twitter client that alters your perception of certain threads to make you believe you're winning arguments",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "hacker news? /s",
@@ -169,7 +169,7 @@
   },
   {
     "message": "An app using an already existing DB to locate the books in the school library. It's been 5 years I'm in the same school, and I still don't know how books are sorted in this room, so that's be cool to automate the tedious process of \"thinking\". This would allow students to: (a) search a book, (b): locate it with some fancy three.js map.\n\nI would reverse engineer the existing service to get the data, but I'm afraid that wouldn't be good for my nerves",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "This isnt as much a project idea as just an idea. Like some form of DND that hackclub can do that doesnt devolve due to incosistent people weekly. Not sure how to exectute that though where the people who join will come mostly weekly or whenever",
@@ -177,7 +177,7 @@
   },
   {
     "message": "A program that predicts when the damn DVD logo is going to hit the corner, assigning it a velocity vector and calculating its bounces. Then add some AR magic to identify the moving object in the screen, its movement and the screen dimensions, and that's good, you've got an useless app.",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "\"A VPN SO HEAVY IT BENDS SPACE-TIME\" could be a pretty cool tagline along with the traditional \"MILITARY-GRADE ENCRYPTION\" of most VPN ads",
