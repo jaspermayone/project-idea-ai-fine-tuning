@@ -26,8 +26,8 @@ For prokects that contain PI as an indicator, duplicate object and have one with
 - [ ] 13 - 
 - [ ] 14 - 
 - [ ] 15 - 
-- [ ] 16 - 
-- [ ] 17 - 
+- [ ] 16 - smashmaster0045
+- [ ] 17 - smashmaster0045
 - [ ] 18 - 
 - [ ] 19 - 
 - [ ] 20 - 

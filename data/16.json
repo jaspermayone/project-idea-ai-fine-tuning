@@ -1,7 +1,7 @@
 [
   {
     "message": "Hackable drums",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Looks like a cool project\n<https://www.instagram.com/reel/CsQ-Pa1u104/?igshid=YmM0MjE2YWMzOA==|https://www.instagram.com/reel/CsQ-Pa1u104/?igshid=YmM0MjE2YWMzOA==>",
@@ -9,7 +9,11 @@
   },
   {
     "message": "Project Idea (that I’m going to work on tomorrow, probably): Set operations on slack channels with users as set elements, i.e. union, intersection, set subtraction",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "Set operations on slack channels with users as set elements, i.e. union, intersection, set subtraction",
+    "isProject": true
   },
   {
     "message": "<@U022XFD2TML|ian> orange county reference ",
@@ -29,7 +33,7 @@
   },
   {
     "message": "lol wut google fog of war?",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Ferb I know what we're doing today",
@@ -109,7 +113,11 @@
   },
   {
     "message": "PI: Wakatime but for Hack Clubbers, without the pesky 3-person leaderboard limit!",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "Wakatime but for Hack Clubbers, without the pesky 3-person leaderboard limit!",
+    "isProject": true
   },
   {
     "message": "maybe for points (like [gas co points] )",
@@ -121,7 +129,7 @@
   },
   {
     "message": "Create a panel to control the ac timings/to put it into 'sleep' mode for those acs that don't offer this facility",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "thatd be a lot of ads",
@@ -153,7 +161,7 @@
   },
   {
     "message": "Store every action you take in a given day &amp; store your location over a given day &amp; your mood while doing every given action at every given location &amp; create continents based on location and color coordinate all sections of the continent based on the mood at that given time and make the action a part of the continent (size dependent on how long it took) &amp; finally wrap it around a globe and BOOM you have Arpan world ",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "I also need to build something super cool with appwrite (appwrite is like firebase)",
@@ -181,7 +189,11 @@
   },
   {
     "message": "PI: A quick vscode extension that somehow automatically manages my cloud changes, since sometimes I close vscode on my laptop and forget to store my changes in cloud, and then try to open up a codespace in the browser and discover that I don't have my changes",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "A quick vscode extension that somehow automatically manages my cloud changes, since sometimes I close vscode on my laptop and forget to store my changes in cloud, and then try to open up a codespace in the browser and discover that I don't have my changes",
+    "isProject": true
   },
   {
     "message": "Just made a channel for this <#C056TUPSR34>",
@@ -193,7 +205,11 @@
   },
   {
     "message": "PI: Fix <@U016RGVRPDM> (the bot in <#CDJMS683D>) to actually work with new goals, host it, and combine it with <@U01HJ78R466> so that there's not two different counting bots",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "Fix <@U016RGVRPDM> (the bot in <#CDJMS683D>) to actually work with new goals, host it, and combine it with <@U01HJ78R466> so that there's not two different counting bots",
+    "isProject": true
   },
   {
     "message": "and until landing",
