@@ -180,6 +180,10 @@
     "isProject": true
   },
   {
+    "message": "an IDE in Slack",
+    "isProject": true
+  },
+  {
     "message": "Noooooo I don't want to descend into Reddit hell",
     "isProject": false
   },
