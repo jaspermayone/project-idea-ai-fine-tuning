@@ -5,11 +5,11 @@
   },
   {
     "message": "pi:\na machine learning model that tells u which ml model to use on ur project",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "pi: a mobile app that easily let's you track what you eat (e.g. ux is something like: the app opens to a camera on default so when ur about to eat all you have to do is take a pic of the food, and add data later)",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "wait lunar magic as in the Lunar Magic? Do you play smw romhacks??",
@@ -65,15 +65,15 @@
   },
   {
     "message": "pi: a spotify client that prompts for a playlist name when you select New Playlist on a song, bc I can't think of ONE person on god's green earth that said \"hmm .. i definitely want this playlist to be called the name of the first song\"",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "pi: a spotify client with a button on the bottom bar to instantly convert all the current songs in ur queue into a brand new playlists (for all those times when u add a bunch of ur songs to ur queue and inevitably realize, \"damn these all got a really cohesive vibe\" but don't want to manually add em all to a new playlist)",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "pi: a spotify client that lets u categorize ur playlists into dropdown hierarchical folders, and would display them on the left-hand bar like notion",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "ohh shitt that's big brain",
@@ -89,11 +89,11 @@
   },
   {
     "message": "PI turn slack into a virtual machine",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "pi linux but in slack",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "actually tbh that’s already there in the comments section of Polly. It just needs threading and the other like 100 features of slack and we’re good to go",
@@ -105,11 +105,11 @@
   },
   {
     "message": "pi: typeracer but in slack",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "<http://protobowl.com|protobowl.com> but in slack",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "^ same",
@@ -125,7 +125,7 @@
   },
   {
     "message": "Project idea: A Kahoot-like game, but in Slack :slack:",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "<https://hackclub.slack.com/archives/C0266FRGV/p1596747608385100>",
@@ -197,6 +197,6 @@
   },
   {
     "message": "PI: a website that allows students to compare schedules that they get, almost building up a virtual classroom",
-    "isProject": false
+    "isProject": true
   }
 ]
