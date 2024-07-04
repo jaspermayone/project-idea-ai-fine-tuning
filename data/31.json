@@ -41,7 +41,7 @@
   },
   {
     "message": "webapp that lets you listen to custom swing percentages",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Something easy",
@@ -61,7 +61,7 @@
   },
   {
     "message": "Make a lang that can use XML and compile it to flutter code",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Very unsimple",
@@ -77,7 +77,7 @@
   },
   {
     "message": "pluggable markdown-to-latex",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Nothing is too small",
@@ -177,7 +177,7 @@
   },
   {
     "message": "PI: an IDE in Slack",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Noooooo I don't want to descend into Reddit hell",
@@ -197,6 +197,6 @@
   },
   {
     "message": "Threaded threads",
-    "isProject": false
+    "isProject": true
   }
 ]
