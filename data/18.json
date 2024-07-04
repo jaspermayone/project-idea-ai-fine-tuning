@@ -9,11 +9,15 @@
   },
   {
     "message": "Ooh this is a cool idea! I'm thinking on a hack club slack channels map that uses a force-directed graph view",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "PI: An actual map of all the slack channels, on a website somewhere",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "An actual map of all the slack channels, on a website somewhere",
+    "isProject": true
   },
   {
     "message": "I don't think that apps can set your status though, just your presence ",
@@ -29,11 +33,19 @@
   },
   {
     "message": "Project idea: We make a bot under an admin user account that removes anyone's :verified-red: Verified status if they aren't actually verified. Then we charge $14.99/month. Profit :money-printer:",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "We make a bot under an admin user account that removes anyone's :verified-red: Verified status if they aren't actually verified. Then we charge $14.99/month. Profit :money-printer:",
+    "isProject": true
   },
   {
     "message": "PI: A Raycast extension that lets you share what’s on your screen (current window, current website, tab, etc.) with anyone (across Messages, Slack, Discord, Element, etc.) kind of like Shottr but more general",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "A Raycast extension that lets you share what’s on your screen (current window, current website, tab, etc.) with anyone (across Messages, Slack, Discord, Element, etc.) kind of like Shottr but more general",
+    "isProject": true
   },
   {
     "message": "yesss",
@@ -53,7 +65,11 @@
   },
   {
     "message": "PI: desktop app that randomly takes over your screen and launches you into a 30-second typing race with other hack clubbers (against your will)",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "desktop app that randomly takes over your screen and launches you into a 30-second typing race with other hack clubbers (against your will)",
+    "isProject": true
   },
   {
     "message": "interesting: <https://github.com/anderspitman/awesome-tunneling>",
@@ -81,7 +97,7 @@
   },
   {
     "message": "hack club should host it’s own ngrok that’s 100% for hack clubbers",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "LMAOOOI LOVE THIS",
@@ -105,7 +121,7 @@
   },
   {
     "message": "fmbot basically fetches data from <http://last.fm|last.fm> which is a music tracking service",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "like just fun type of thing, here's what fmbot does",
@@ -121,11 +137,15 @@
   },
   {
     "message": "make a website where you enter your <http://last.fm|last.fm> username or connect your spotify/apple music/anything and it judges your music taste",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "PI: App that syncs your discord status with your most recent unfixed compiler error/typescript error to shame you into fixing it",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "App that syncs your discord status with your most recent unfixed compiler error/typescript error to shame you into fixing it",
+    "isProject": true
   },
   {
     "message": "I’m just looking to tinker around",
@@ -137,7 +157,11 @@
   },
   {
     "message": "Project way: A way to automate Slack Channel Organzation",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "A way to automate Slack Channel Organzation",
+    "isProject": true
   },
   {
     "message": "<https://hackclub.slack.com/archives/CNMU9L92Q/p1679851026578179?thread_ts=1679850956.817709&amp;cid=CNMU9L92Q>",
