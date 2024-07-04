@@ -1,7 +1,7 @@
 [
   {
     "message": "decentralized identity provider thing",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "no problem!",
@@ -29,7 +29,7 @@
   },
   {
     "message": "Thesaurus raycast extension",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Yeahh",
@@ -145,7 +145,7 @@
   },
   {
     "message": "PI: A slack bot that shows the compliment of two channels (what users are in both)",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "thx bois",
