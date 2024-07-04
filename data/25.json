@@ -20,7 +20,15 @@
     "isProject": true
   },
   {
+    "message": "a bot that responds to every single post in a channel with a duplicate of the same post so that no one can edit/delete their messages :eyes:",
+    "isProject": true
+  },
+  {
     "message": "PI: a slack bot that allows you to enable notifications for the first couple top-level messages that follow one you post, in case someone doesn’t respond to you in a thread",
+    "isProject": true
+  },
+  {
+    "message": "a slack bot that allows you to enable notifications for the first couple top-level messages that follow one you post, in case someone doesn’t respond to you in a thread",
     "isProject": true
   },
   {
@@ -37,6 +45,10 @@
   },
   {
     "message": "PI: Lightning Delete but for other people, so when you type d it deletes the last message posted by someone else",
+    "isProject": true
+  },
+  {
+    "message": "Lightning Delete but for other people, so when you type d it deletes the last message posted by someone else",
     "isProject": true
   },
   {
@@ -112,6 +124,10 @@
     "isProject": true
   },
   {
+    "message": "a bot that deletes every message from user UM1L1C38X that contains the text \"wahoo\"",
+    "isProject": true
+  },
+  {
     "message": "Uses VPN to flex on everyone",
     "isProject": false
   },
@@ -169,6 +185,10 @@
   },
   {
     "message": "PI: stonkify, open to interpretation",
+    "isProject": true
+  },
+  {
+    "message": "stonkify, open to interpretation",
     "isProject": true
   },
   {
