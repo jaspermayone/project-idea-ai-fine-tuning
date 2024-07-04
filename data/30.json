@@ -36,6 +36,10 @@
     "isProject": true
   },
   {
+    "message": "a spotify tool that generates a playlist of the last 10 or 20 songs you liked, and automatically updates whenever you like a new song, because I want to shuffle the songs I like but not all of the songs I like",
+    "isProject": true
+  },
+  {
     "message": "Virtualbox is supposed to but it never works for me",
     "isProject": false
   },
@@ -60,7 +64,15 @@
     "isProject": true
   },
   {
+    "message": "a program that takes source code and compiles it for macos",
+    "isProject": true
+  },
+  {
     "message": "pi: a windows vm that only shows 1 window so it’s like ur running a windows in macos but u just get the window instead of the whole vm and you can run x64 apps on m1",
+    "isProject": true
+  },
+  {
+    "message": "a windows vm that only shows 1 window so it’s like ur running a windows in macos but u just get the window instead of the whole vm and you can run x64 apps on m1",
     "isProject": true
   },
   {
@@ -96,11 +108,19 @@
     "isProject": true
   },
   {
+    "message": "a 3D cad program that has Linux support",
+    "isProject": true
+  },
+  {
     "message": "fusion kills my computer, and both fusion and onshape have no offline support smh my head",
     "isProject": false
   },
   {
     "message": "PI: a 3d cad program that has mac support please im begging i don't want to have to bootcamp or use a vm for inventor or solidworks :crydeath:",
+    "isProject": true
+  },
+  {
+    "message": "a 3d cad program that has mac support please im begging i don't want to have to bootcamp or use a vm for inventor or solidworks :crydeath:",
     "isProject": true
   },
   {
@@ -152,7 +172,15 @@
     "isProject": true
   },
   {
+    "message": "a website about the many ways to program \"hello world\" in different languages, the history of \"hello world\" and programming, and gather public hello world projects and ideas.",
+    "isProject": true
+  },
+  {
     "message": "pi: an AI based chrome extension that fills out your application forms for you",
+    "isProject": true
+  },
+  {
+    "message": "an AI based chrome extension that fills out your application forms for you",
     "isProject": true
   },
   {
@@ -181,6 +209,10 @@
   },
   {
     "message": "pi: a feature like discord's spotify rich presence except on slack",
+    "isProject": true
+  },
+  {
+    "message": "a feature like discord's spotify rich presence except on slack",
     "isProject": true
   },
   {
