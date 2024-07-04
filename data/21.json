@@ -57,7 +57,7 @@
   },
   {
     "message": "PI: decentralised <#C016DEDUL87> using IPFS",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "terraform is cool but not stateless which is my issue with it",
@@ -85,11 +85,7 @@
   },
   {
     "message": "honestly a LOT of software/platforms need something like octodns",
-    "isProject": false
-  },
-  {
-    "message": "PI:",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "but…",
@@ -105,7 +101,7 @@
   },
   {
     "message": "PI: a bday calendar slack bot that keeps track of birthdays and sends a happy birthday to birthday person",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "ooo that would be pretty cool",
@@ -129,7 +125,7 @@
   },
   {
     "message": "PI: stack overflow but for <#C0EA9S0A0>",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "has renamed the channel from ‘projectideas’ to ‘project-ideas’",
