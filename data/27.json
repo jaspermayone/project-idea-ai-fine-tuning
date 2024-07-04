@@ -12,6 +12,10 @@
     "isProject": true
   },
   {
+    "message": "calendly for hack club onboardings",
+    "isProject": true
+  },
+  {
     "message": "oh damn",
     "isProject": false
   },
@@ -25,6 +29,10 @@
   },
   {
     "message": "PI: make an open source version of Bluink Key (password manager with phone app that stores all of the encrypted passwords and physical USB dongle that connects over bluetooth to type out the passwords as if it were a keyboard), Bluink's support and updates have been dwindling and it's the only product of its kind on the market. It would be a cool software/hardware/embedded/cryptography project",
+    "isProject": true
+  },
+  {
+    "message": "make an open source version of Bluink Key (password manager with phone app that stores all of the encrypted passwords and physical USB dongle that connects over bluetooth to type out the passwords as if it were a keyboard), Bluink's support and updates have been dwindling and it's the only product of its kind on the market. It would be a cool software/hardware/embedded/cryptography project",
     "isProject": true
   },
   {
@@ -133,6 +141,10 @@
   },
   {
     "message": "PI: script to automatically sort my channel sidebar thing based on how active the channels are",
+    "isProject": true
+  },
+  {
+    "message": "script to automatically sort my channel sidebar thing based on how active the channels are",
     "isProject": true
   },
   {
