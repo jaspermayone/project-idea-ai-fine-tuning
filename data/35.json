@@ -16,6 +16,10 @@
     "isProject": true
   },
   {
+    "message": "Slack bot that automatically mirrors new <#C01504DCLVD> posts to the OP's personal channel? is this a thing? this should be a thing",
+    "isProject": true
+  },
+  {
     "message": "alright",
     "isProject": false
   },
@@ -80,11 +84,19 @@
     "isProject": true
   },
   {
+    "message": "<https://runjs.dev|runjs.dev> but inside VS Code",
+    "isProject": true
+  },
+  {
     "message": "pi: ping me every time ben awad sends a message :circle:",
     "isProject": false
   },
   {
     "message": "pi : a browser extension that converts other timezones to your native Time on websites",
+    "isProject": true
+  },
+  {
+    "message": "a browser extension that converts other timezones to your native Time on websites",
     "isProject": true
   },
   {
@@ -109,6 +121,10 @@
   },
   {
     "message": "PI: Discord bot which automatically changes role color depending on the time - e.g. this purple would get lighter over time, reaching its lightest at noon, then get darker as the afternoon progresses, reaching its darkest when the sun goes down",
+    "isProject": true
+  },
+  {
+    "message": "Discord bot which automatically changes role color depending on the time - e.g. this purple would get lighter over time, reaching its lightest at noon, then get darker as the afternoon progresses, reaching its darkest when the sun goes down",
     "isProject": true
   },
   {
@@ -161,6 +177,10 @@
   },
   {
     "message": "PI: power + volume down on iOS triggers a Shortcut that takes a screenshot and deletes it after 5 min, so you can do/send whatever u need and it won’t hog ur cam roll",
+    "isProject": true
+  },
+  {
+    "message": "power + volume down on iOS triggers a Shortcut that takes a screenshot and deletes it after 5 min, so you can do/send whatever u need and it won’t hog ur cam roll",
     "isProject": true
   },
   {
