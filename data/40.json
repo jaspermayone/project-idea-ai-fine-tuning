@@ -9,7 +9,7 @@
   },
   {
     "message": "crazy idea incoming: build something that, on keyboard command, detects all open IDE's/text editors and sends ctrl+s to the code tabs. im thinking if i add that command to a short shutdown script for my laptop i can mitigate all the code loss lmao",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": ":hyperfastparrot:",
@@ -21,7 +21,7 @@
   },
   {
     "message": "Hear me out: what if we organized a custom emoji competition for Slack workspaces? Basically any workspace (like Vercel, GitHub, or Raycast) could submit their best (original) custom emoji, then the top 5 or whatever would get some prize",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Plus you could discover people new to you",
@@ -29,7 +29,7 @@
   },
   {
     "message": "I don’t think there’s a central list of online users, so that would be awesome!",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "That could be a PI",
@@ -37,7 +37,7 @@
   },
   {
     "message": "Do we have a way to see current online users like in discord?",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": ":bongo:",
@@ -49,7 +49,7 @@
   },
   {
     "message": "PI: a Giphy clone that only shows :gopher: GIFs",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "it's only visible to me",
@@ -69,7 +69,7 @@
   },
   {
     "message": "PI: slash command for <@U01LDR8CB7D> that says in which channel the cow is currently in",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "whoa good idea",
@@ -93,7 +93,7 @@
   },
   {
     "message": "make colored text by making an emoji for each color of every letter",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "lol",
@@ -113,7 +113,7 @@
   },
   {
     "message": "/lolcat, posts an image of rainbow-ed arguments",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "I believe this is done",
@@ -129,7 +129,7 @@
   },
   {
     "message": "And people can add custom channel-specific responses so that when you ping it you can have a conversation",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "moo",
@@ -137,7 +137,7 @@
   },
   {
     "message": "A bot that has a list of channels, every 30 minutes it leaves the one it’s in and joins a new one, and introduces itself with a moo",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Not a workflow",

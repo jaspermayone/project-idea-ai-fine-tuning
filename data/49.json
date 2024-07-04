@@ -45,7 +45,7 @@
   },
   {
     "message": "pi an application that takes some arguments, and outputs the exact arguments to stdout, with a few options, like -n, -e, and -E",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": ":oof:",
