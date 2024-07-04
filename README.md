@@ -7,15 +7,15 @@ Please add your name by the file number in this readme to claim it when you PR s
 --
 # Files: 
 
-- [ ] 1 - 
-- [ ] 2 - 
-- [ ] 3 - 
-- [ ] 4 - 
-- [ ] 5 - 
-- [ ] 6 - 
-- [ ] 7 - 
-- [ ] 8 - 
-- [ ] 9 - 
+- [x] 1 - Colin
+- [x] 2 - Colin
+- [x] 3 - Colin
+- [x] 4 - Colin
+- [x] 5 - Colin
+- [x] 6 - Colin
+- [x] 7 - Colin
+- [x] 8 - Colin
+- [x] 9 - Colin
 - [x] 10 - Colin
 - [x] 11 - Colin
 - [x] 12 - Colin
