@@ -60,6 +60,10 @@
     "isProject": true
   },
   {
+    "message": "decentralised <#C016DEDUL87> using IPFS",
+    "isProject": true
+  },
+  {
     "message": "terraform is cool but not stateless which is my issue with it",
     "isProject": false
   },
@@ -104,6 +108,10 @@
     "isProject": true
   },
   {
+    "message": "a bday calendar slack bot that keeps track of birthdays and sends a happy birthday to birthday person",
+    "isProject": true
+  },
+  {
     "message": "ooo that would be pretty cool",
     "isProject": false
   },
@@ -125,6 +133,10 @@
   },
   {
     "message": "PI: stack overflow but for <#C0EA9S0A0>",
+    "isProject": true
+  },
+  {
+    "message": "stack overflow but for <#C0EA9S0A0>",
     "isProject": true
   },
   {
