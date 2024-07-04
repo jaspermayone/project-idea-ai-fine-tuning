@@ -9,7 +9,7 @@
   },
   {
     "message": "PI: a way to design pdfs using html + css + (build-time) javascript\nthis is so that you can easily update parts of a document (e.g. a Resume) over time and also looks nice compared to latex which looks like something from the 1990s",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Just need to break some science",
@@ -25,7 +25,7 @@
   },
   {
     "message": "PI: Some kind of device that can help you go back in time",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "non-cryptic-chmod",
@@ -65,7 +65,7 @@
   },
   {
     "message": "PI: shell command with interactive UI to help you use chmod",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "LOL",
@@ -101,11 +101,11 @@
   },
   {
     "message": "PI: A Slack client that generates unique usernames based on a hash of users' IDs (to prevent switcheroo confusion) /hj",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "grindr for hackclub",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "sooo",
@@ -157,7 +157,7 @@
   },
   {
     "message": "PI: a chrome extension which plays your videos directly in chrome instead of downloading them when you click on an mp4 link.",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "4head",
