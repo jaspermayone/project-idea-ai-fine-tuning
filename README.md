@@ -16,12 +16,12 @@ Please add your name by the file number in this readme to claim it when you PR s
 - [ ] 7 - 
 - [ ] 8 - 
 - [ ] 9 - 
-- [ ] 10 - Colin
-- [ ] 11 - Colin
-- [ ] 12 - Colin
-- [ ] 13 - 
-- [ ] 14 - 
-- [ ] 15 - 
+- [x] 10 - Colin
+- [x] 11 - Colin
+- [x] 12 - Colin
+- [x] 13 - Colin
+- [x] 14 - Colin
+- [x] 15 - Colin
 - [ ] 16 - 
 - [ ] 17 - 
 - [ ] 18 - 
