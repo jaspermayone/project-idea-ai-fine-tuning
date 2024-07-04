@@ -1,7 +1,7 @@
 [
   {
     "message": "PI I’m making; looking for validation and/or feedback: collaborative brainstorming, idea organization, and note taking app. Kind of like Pinterest, but a flexible grid/graph instead with support for images, video, text, links, quotes, markdown, and more. Nodes can be grouped together or connected to form associations. Automatic text node summarization generation, deep search, customizable colors, and more.",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "well <@U01D9DWGEB0|ani'>",
@@ -37,11 +37,11 @@
   },
   {
     "message": "PI: English to Pig Latin CLI",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "PI: An extension that let's you \"alias\" URLs so I can type in \"gh\" in the bar and it will expand to \"<http://github.com|github.com>\" when I hit enter. This is possible because browsers do let you change where the user is taken to based on the contents of the bar. I bet a lot of people would love this.",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "<https://hackclub.slack.com/archives/C0M8PUPU6/p1615688734460600>",
@@ -169,7 +169,7 @@
   },
   {
     "message": "so all I want is, the site has an input box for me to put in how much BTC I have and you display the history of its worth (which you can calculate simply by multiplying the BTC to USD price by the amount of BTC)",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Put it on Product Hunt and you'll definitely get at least 40 upvotes for sure",
