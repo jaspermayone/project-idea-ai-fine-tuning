@@ -13,7 +13,7 @@
   },
   {
     "message": "PI: If I have pings in a channel, Slack should have a button that jumps to the message with the ping, so I can quickly and easily read context around it. I don’t consider “Mentions &amp; Reactions” to be enough for this since it can be easily pushed down that list by other mentions or reactions. I want a button for that specific channel that jumps to the ping.",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "dea",
@@ -33,7 +33,7 @@
   },
   {
     "message": "PI: build a cryptocurrency but use really old/legacy technologies like <http://ASP.NET|ASP.NET> Webforms, SOAP, visual basic, jQuery, etc",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "i just realized im really glad i didn’t add “pi” to my ping list and only “pie”",
@@ -57,7 +57,7 @@
   },
   {
     "message": "PI (but not PI): a semi-standard HTTP header for linking to a website's source repository",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "This is nix",
@@ -73,7 +73,7 @@
   },
   {
     "message": "pi: homebrew but for hackclub hackers’ projects",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "yeah that's what I'm thinking I'll probably end up doing also, we'll see",
@@ -157,7 +157,7 @@
   },
   {
     "message": "PI: WakaTime but for life. So you'd like set goals for how long you should be working on file X/doc X/task X/app X/etc, and the tool would automatically track your productivity, and help build positive habits\nsorta like how toggl lets you auto track time spent in certain apps, and how wakatime lets you set weekly/daily time goals for programming, and sends you weekly summaries for how you did towards achieving that goal",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "(and I havent seen if there are any updates)",
