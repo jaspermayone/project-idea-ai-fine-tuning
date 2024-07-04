@@ -96,6 +96,10 @@
     "isProject": true
   },
   {
+    "message": "a chrome extension where if it finds any arousing content it removes it. like ANY, be it ads or webpages that have stuff like women in the beach or men in their underwear, or just outright p!@#.\n\nwhy? well the first reason would be it would prevent any really bad content. the second reason is that some people are religiously obligated not to look at that kind of content (muslims for example).",
+    "isProject": true
+  },
+  {
     "message": "Like as a \"nice touch\"",
     "isProject": false
   },
@@ -132,7 +136,15 @@
     "isProject": true
   },
   {
+    "message": "something that uses the user's pronoun field when it says \"$X has paused their notifications\", like \"Penny has paused her notifications\"",
+    "isProject": true
+  },
+  {
     "message": "PI: candy dispenser that dispenses a bit of candy a minimum of once a day and only dispenses more when you push a GitHub commit",
+    "isProject": true
+  },
+  {
+    "message": "candy dispenser that dispenses a bit of candy a minimum of once a day and only dispenses more when you push a GitHub commit",
     "isProject": true
   },
   {
@@ -141,6 +153,10 @@
   },
   {
     "message": "PI: An extension that stops slack from doing stupid things with the message compose field and wasting space.",
+    "isProject": true
+  },
+  {
+    "message": "An extension that stops slack from doing stupid things with the message compose field and wasting space.",
     "isProject": true
   },
   {
@@ -168,6 +184,10 @@
     "isProject": true
   },
   {
+    "message": "Slack channel #create-emoji where you send an image and a name and it automatically makes it an emoji, so you don't have to go into the annoying web interface on mobile",
+    "isProject": true
+  },
+  {
     "message": "would be cool to have this as part of its own set of specialized tools though instead of being buried inside of clipboard history",
     "isProject": false
   },
@@ -181,6 +201,10 @@
   },
   {
     "message": "PI: color tools for raycast. random color generator, display a color given a hex code, etc",
+    "isProject": true
+  },
+  {
+    "message": "color tools for raycast. random color generator, display a color given a hex code, etc",
     "isProject": true
   },
   {
