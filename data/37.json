@@ -20,7 +20,15 @@
     "isProject": true
   },
   {
+    "message": "A website that takes in a BTC amount that shows you the history of how much the amount was worth.",
+    "isProject": true
+  },
+  {
     "message": "PI: plot cow's frequency of words overtime to see how its vocabulary has (d)evolved",
+    "isProject": true
+  },
+  {
+    "message": "plot cow's frequency of words overtime to see how its vocabulary has (d)evolved",
     "isProject": true
   },
   {
@@ -40,11 +48,19 @@
     "isProject": true
   },
   {
+    "message": "A website that lets you draw images and then makes a list of equations that will result in the image when plotted.",
+    "isProject": true
+  },
+  {
     "message": "Not a PI, kind of an announcement: 20 gp bounty (I'm broke) from me for every CLI tool shipped. Tag me to get your gp. (I'd like to see more CLI tools)",
     "isProject": false
   },
   {
     "message": "pi: a chrome extension that turns this eyesore into something with a decent ui",
+    "isProject": true
+  },
+  {
+    "message": "a chrome extension that turns this eyesore into something with a decent ui",
     "isProject": true
   },
   {
@@ -57,6 +73,10 @@
   },
   {
     "message": "PI: Figma Pong",
+    "isProject": true
+  },
+  {
+    "message": "Figma Pong",
     "isProject": true
   },
   {
@@ -120,6 +140,10 @@
     "isProject": true
   },
   {
+    "message": "Pop cat online using mic input :pop_pop_cat::microphone:",
+    "isProject": true
+  },
+  {
     "message": "All I remember is that dustin rouillard worked on it",
     "isProject": false
   },
@@ -164,7 +188,15 @@
     "isProject": true
   },
   {
+    "message": "i just got the dumbest idea :eggsdee: A private slack channel where you get automatically removed if u dont post something that u made once we a week. You get reinvited when the next week begins.",
+    "isProject": true
+  },
+  {
     "message": "PI: a browser extension that keeps you from getting rickrolled (but who would ever want anything like that)",
+    "isProject": true
+  },
+  {
+    "message": "a browser extension that keeps you from getting rickrolled (but who would ever want anything like that)",
     "isProject": true
   },
   {
@@ -189,6 +221,10 @@
   },
   {
     "message": "PI: An App that allows you to text with people that use other messaging apps. Example: I like using Imessage but my friend likes whatsapp, but I can still communicate with my friend through imessage and he can too through whatsapp",
+    "isProject": true
+  },
+  {
+    "message": "An App that allows you to text with people that use other messaging apps. Example: I like using Imessage but my friend likes whatsapp, but I can still communicate with my friend through imessage and he can too through whatsapp",
     "isProject": true
   },
   {
