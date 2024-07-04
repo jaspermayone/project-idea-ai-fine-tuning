@@ -73,15 +73,15 @@
   },
   {
     "message": "PROJECT IDEA: a slack channel with a bot that automates signing each other's gpg keys. i want every hack clubber to sign my key so i can have hella signatures uploaded to the keyservers hehehe",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "PROJECT IDEA: <@U022FMN61SB|leo>’s muse should generate music for hold music for dialpad",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "PI: ssh-agent and $SSH_AUTH_SOCK but for neovim\n\nnvim-agent, nvim-add, $NVIM_AUTH_SOCK\n\nIt will run my local neovim on my macbook headless, and whenever i ssh and open nvim on ssh it will use the gui on the sshbox but actually it's just using my neovim instance on my machine, OVER the ssh socket",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "podcasts i would listen to for sure",
@@ -121,7 +121,7 @@
   },
   {
     "message": "PI: \"Sis Calls\" a podcast where two sysadmin sisters talk about low level operating system access",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "awwww",
@@ -169,7 +169,7 @@
   },
   {
     "message": "PI: A Git-based chat system (I think somebody mentioned this here a while ago)",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "^",
@@ -189,7 +189,7 @@
   },
   {
     "message": "PI: the slack “all unreads” thingy except it only does it for a specific sidebar section",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "technically it’s a pluggable identity provider spec but anyone can run their own oauth2/oidc-conforming provider so it’s effectively decentralized",
