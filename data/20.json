@@ -72,7 +72,15 @@
     "isProject": true
   },
   {
+    "message": "a shell that tells bash to go asleep when its past 1am",
+    "isProject": true
+  },
+  {
     "message": "Project idea: a CLI for setting up a Next repo. Frameworks like Angular and Nuxt have official CLIs with options for CSS frameworks, linting configuration, state libraries, etc. that are opinionated but generally make for a quicker &amp; more fun experience bootstrapping a project than with Next templates. Not sure why next doesn’t have this yet.",
+    "isProject": true
+  },
+  {
+    "message": "a CLI for setting up a Next repo. Frameworks like Angular and Nuxt have official CLIs with options for CSS frameworks, linting configuration, state libraries, etc. that are opinionated but generally make for a quicker &amp; more fun experience bootstrapping a project than with Next templates. Not sure why next doesn’t have this yet.",
     "isProject": true
   },
   {
@@ -144,6 +152,10 @@
     "isProject": true
   },
   {
+    "message": "a thread locker which locks the thread and prevents from any further messages in that thread",
+    "isProject": true
+  },
+  {
     "message": "done <#C017YL1NMU0> -",
     "isProject": false
   },
@@ -153,6 +165,10 @@
   },
   {
     "message": "PI: a PI tracker??",
+    "isProject": true
+  },
+  {
+    "message": "a PI tracker??",
     "isProject": true
   },
   {
@@ -169,6 +185,10 @@
   },
   {
     "message": "PI: Wordle but Emojis",
+    "isProject": true
+  },
+  {
+    "message": "Wordle but Emojis",
     "isProject": true
   },
   {
