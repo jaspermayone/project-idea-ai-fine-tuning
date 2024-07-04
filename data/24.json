@@ -148,6 +148,10 @@
     "isProject": true
   },
   {
+    "message": "A slack bot that shows the compliment of two channels (what users are in both)",
+    "isProject": true
+  },
+  {
     "message": "thx bois",
     "isProject": false
   },
