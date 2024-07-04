@@ -9,7 +9,7 @@
   },
   {
     "message": "API to use for ^: <https://www.coindesk.com/coindesk-api>",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "should be easy?",
@@ -17,11 +17,11 @@
   },
   {
     "message": "PI: A website that takes in a BTC amount that shows you the history of how much the amount was worth.",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "PI: plot cow's frequency of words overtime to see how its vocabulary has (d)evolved",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "do libs count :pleading:",
@@ -37,7 +37,7 @@
   },
   {
     "message": "PI Inspired by the photo: A website that lets you draw images and then makes a list of equations that will result in the image when plotted.",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Not a PI, kind of an announcement: 20 gp bounty (I'm broke) from me for every CLI tool shipped. Tag me to get your gp. (I'd like to see more CLI tools)",
@@ -45,7 +45,7 @@
   },
   {
     "message": "pi: a chrome extension that turns this eyesore into something with a decent ui",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "figma pog, but figma pong also pog",
@@ -57,7 +57,7 @@
   },
   {
     "message": "PI: Figma Pong",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "yep",
@@ -113,11 +113,11 @@
   },
   {
     "message": "PI: <https://hackclub.slack.com/archives/C01LXMUL29H/p1615059610194200?thread_ts=1615059115.188400&amp;cid=C01LXMUL29H>",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "PI: Pop cat online using mic input :pop_pop_cat::microphone:",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "All I remember is that dustin rouillard worked on it",
@@ -161,11 +161,11 @@
   },
   {
     "message": "pi: i just got the dumbest idea :eggsdee: A private slack channel where you get automatically removed if u dont post something that u made once we a week. You get reinvited when the next week begins.",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "PI: a browser extension that keeps you from getting rickrolled (but who would ever want anything like that)",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "they provide an api for bridges from whatsapp/signal/etc. to matrix, and so connecting two of the bridges should be super easy",
@@ -189,7 +189,7 @@
   },
   {
     "message": "PI: An App that allows you to text with people that use other messaging apps. Example: I like using Imessage but my friend likes whatsapp, but I can still communicate with my friend through imessage and he can too through whatsapp",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "good luck with exams",
