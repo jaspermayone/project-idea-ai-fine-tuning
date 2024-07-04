@@ -52,6 +52,10 @@
     "isProject": true
   },
   {
+    "message": "a Giphy clone that only shows :gopher: GIFs",
+    "isProject": true
+  },
+  {
     "message": "it's only visible to me",
     "isProject": false
   },
@@ -69,6 +73,10 @@
   },
   {
     "message": "PI: slash command for <@U01LDR8CB7D> that says in which channel the cow is currently in",
+    "isProject": true
+  },
+  {
+    "message": "slash command for <@U01LDR8CB7D> that says in which channel the cow is currently in",
     "isProject": true
   },
   {
@@ -161,6 +169,10 @@
   },
   {
     "message": "PI:",
+    "isProject": false
+  },
+  {
+    "message": ":",
     "isProject": false
   },
   {

@@ -168,6 +168,10 @@
     "isProject": true
   },
   {
+    "message": "Oocbot. Either reacts to messages that got ooc-ed with some emoji or replies in the thread with “ooced!” or smth. Someone do this lol.",
+    "isProject": true
+  },
+  {
     "message": "Lol",
     "isProject": false
   },
@@ -177,6 +181,10 @@
   },
   {
     "message": "PI: a massive board where anyone can post, anything, then posts get upvoted/downvoted to determine order",
+    "isProject": true
+  },
+  {
+    "message": "a massive board where anyone can post, anything, then posts get upvoted/downvoted to determine order",
     "isProject": true
   },
   {
@@ -193,6 +201,10 @@
   },
   {
     "message": "PI",
+    "isProject": false
+  },
+  {
+    "message": "",
     "isProject": false
   },
   {

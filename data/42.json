@@ -52,6 +52,10 @@
     "isProject": true
   },
   {
+    "message": "OOCerBot, slash command to instantly ooc a message",
+    "isProject": true
+  },
+  {
     "message": "1. Still a veeeeeeeeeery tiny risk\n2. Some things don't revoke",
     "isProject": false
   },
@@ -169,6 +173,10 @@
   },
   {
     "message": "PI: A bot that scours hack clubbers repos (or all repos) for committed .envs and automatically makes issues or sends messages to that hack clubber",
+    "isProject": true
+  },
+  {
+    "message": "A bot that scours hack clubbers repos (or all repos) for committed .envs and automatically makes issues or sends messages to that hack clubber",
     "isProject": true
   },
   {

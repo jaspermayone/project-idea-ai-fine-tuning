@@ -40,6 +40,10 @@
     "isProject": false
   },
   {
+    "message": ".md to .txt  \"compiler\" that runs on the terminal",
+    "isProject": false
+  },
+  {
     "message": "Mattermost is cool!",
     "isProject": false
   },
@@ -60,7 +64,15 @@
     "isProject": true
   },
   {
+    "message": "something that's open source but like slack and free",
+    "isProject": true
+  },
+  {
     "message": "pi: portable sensor device where you can monitor environmental conditions in a small and light package",
+    "isProject": true
+  },
+  {
+    "message": "portable sensor device where you can monitor environmental conditions in a small and light package",
     "isProject": true
   },
   {
@@ -69,6 +81,10 @@
   },
   {
     "message": "Pi: laptop that ships with a hamster in Ferris wheel or something",
+    "isProject": true
+  },
+  {
+    "message": "laptop that ships with a hamster in Ferris wheel or something",
     "isProject": true
   },
   {
@@ -140,6 +156,10 @@
     "isProject": true
   },
   {
+    "message": "a laptop that has piezoelectric crystals in its keyboard, which can power up the laptop when user is typing",
+    "isProject": true
+  },
+  {
     "message": "doesn’t waze do this?",
     "isProject": false
   },
@@ -153,6 +173,10 @@
   },
   {
     "message": "pi: a program that can write notes based on the audio of a google meet",
+    "isProject": true
+  },
+  {
+    "message": "a program that can write notes based on the audio of a google meet",
     "isProject": true
   },
   {

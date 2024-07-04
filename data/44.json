@@ -48,6 +48,10 @@
     "isProject": true
   },
   {
+    "message": "When you select any text from anywhere, it automatically gets copied. I think this would be pretty hard to do (probably needs some os level stuff). This would be super useful tho.",
+    "isProject": true
+  },
+  {
     "message": "Inspired by a recent convo in <#C019RMWTECD>",
     "isProject": false
   },
@@ -56,7 +60,11 @@
     "isProject": false
   },
   {
-    "message": "pi: The Vim Virus: a malware that changes the icon of every application on your computer to the vim icon",
+    "message": "PI: The Vim Virus: a malware that changes the icon of every application on your computer to the vim icon",
+    "isProject": true
+  },
+  {
+    "message": "The Vim Virus: a malware that changes the icon of every application on your computer to the vim icon",
     "isProject": true
   },
   {
@@ -73,6 +81,10 @@
   },
   {
     "message": "PI: a version control system in the command line, what about calling it git?",
+    "isProject": true
+  },
+  {
+    "message": "a version control system in the command line, what about calling it git?",
     "isProject": true
   },
   {

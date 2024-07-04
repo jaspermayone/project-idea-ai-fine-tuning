@@ -28,7 +28,15 @@
     "isProject": true
   },
   {
+    "message": "lolsh, a shell in which every output is lolcat-ed",
+    "isProject": true
+  },
+  {
     "message": "PI: array oriented programming language",
+    "isProject": true
+  },
+  {
+    "message": "array oriented programming language",
     "isProject": true
   },
   {
@@ -57,6 +65,10 @@
   },
   {
     "message": "PI: A slack bot that makes bots that can reply to some word (that the user chooses) found in the messages of some channel (that the user chooses)",
+    "isProject": true
+  },
+  {
+    "message": "A slack bot that makes bots that can reply to some word (that the user chooses) found in the messages of some channel (that the user chooses)",
     "isProject": true
   },
   {
@@ -93,6 +105,10 @@
   },
   {
     "message": "PI: An AI called Metai which writes programs for you",
+    "isProject": false
+  },
+  {
+    "message": "An AI called Metai which writes programs for you",
     "isProject": false
   },
   {
@@ -148,6 +164,10 @@
     "isProject": true
   },
   {
+    "message": "HackNet™, an alternative internet for hack clubbers",
+    "isProject": true
+  },
+  {
     "message": "edit history sorta thing",
     "isProject": false
   },
@@ -156,11 +176,19 @@
     "isProject": true
   },
   {
+    "message": "the ability to un-edit slack messages, for times where u realize preserving the integrity of the og message is more important than whatever minor edits u ended up making. (not really important in 90% cases, but nice-to-have for debates, for posterity)",
+    "isProject": true
+  },
+  {
     "message": "stretch goal: auto-generated titles (via a text classification model)",
     "isProject": true
   },
   {
     "message": "PI: a chrome extension to easily name a browser window. so when you over over chrome in the taskbar, each window contains not only a site preview, but a meaningful name of all sites contained in the window (i.e. \"research,\" \"social,\" etc.)",
+    "isProject": true
+  },
+  {
+    "message": "a chrome extension to easily name a browser window. so when you over over chrome in the taskbar, each window contains not only a site preview, but a meaningful name of all sites contained in the window (i.e. \"research,\" \"social,\" etc.)",
     "isProject": true
   },
   {
@@ -180,11 +208,19 @@
     "isProject": true
   },
   {
+    "message": "super creepy-sounding: A Slack app that lets you (optionally) attach an audio pronunciation of your name to your profile",
+    "isProject": true
+  },
+  {
     "message": "jsut put gushers in there lol",
     "isProject": false
   },
   {
     "message": "PI: milk-tea filled boba, so this way when you get to the bottom of the drink and have extra boba but no tea, u still have bonus tea inside the boba when you eat them straight",
+    "isProject": false
+  },
+  {
+    "message": "milk-tea filled boba, so this way when you get to the bottom of the drink and have extra boba but no tea, u still have bonus tea inside the boba when you eat them straight",
     "isProject": false
   },
   {

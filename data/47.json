@@ -4,7 +4,15 @@
     "isProject": true
   },
   {
+    "message": "cheap smart home accessories",
+    "isProject": true
+  },
+  {
     "message": "PI: Ensio with spatial audio based on marker location (<@UJYDFQ2QL|neelr>)",
+    "isProject": true
+  },
+  {
+    "message": "Ensio with spatial audio based on marker location (<@UJYDFQ2QL|neelr>)",
     "isProject": true
   },
   {
@@ -88,6 +96,10 @@
     "isProject": true
   },
   {
+    "message": "a CLI to quickly generate @font-face rules for CSS based on font files in a directory",
+    "isProject": true
+  },
+  {
     "message": "<#C014S7UHZ17>\nand <@U013YSPHQ0P>",
     "isProject": false
   },
@@ -109,6 +121,10 @@
   },
   {
     "message": "PI: a bot that announces rocket launches in <#C012L2JJK9D>, would work similarly to <@U01571HNA0J>",
+    "isProject": true
+  },
+  {
+    "message": "a bot that announces rocket launches in <#C012L2JJK9D>, would work similarly to <@U01571HNA0J>",
     "isProject": true
   },
   {
@@ -145,6 +161,10 @@
   },
   {
     "message": "PI : a machine learning model that finds patterns in '' random key presses'' like givuhdaycjlbksskbkchllrdas",
+    "isProject": true
+  },
+  {
+    "message": "a machine learning model that finds patterns in '' random key presses'' like givuhdaycjlbksskbkchllrdas",
     "isProject": true
   },
   {
