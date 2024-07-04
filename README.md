@@ -16,9 +16,9 @@ Please add your name by the file number in this readme to claim it when you PR s
 - [ ] 7 - 
 - [ ] 8 - 
 - [ ] 9 - 
-- [ ] 10 - 
-- [ ] 11 - 
-- [ ] 12 - 
+- [ ] 10 - Colin
+- [ ] 11 - Colin
+- [ ] 12 - Colin
 - [ ] 13 - 
 - [ ] 14 - 
 - [ ] 15 - 
