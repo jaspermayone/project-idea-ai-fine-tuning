@@ -25,11 +25,19 @@
   },
   {
     "message": "PI: lolsh, a shell in which every output is lolcat-ed",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "lolsh, a shell in which every output is lolcat-ed",
+    "isProject": true
   },
   {
     "message": "PI: array oriented programming language",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "array oriented programming language",
+    "isProject": true
   },
   {
     "message": "Ohh that would be cool",
@@ -37,7 +45,7 @@
   },
   {
     "message": "A bot that makes slackbots ",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "sooo... slackbot but scoped to specific channels",
@@ -53,11 +61,15 @@
   },
   {
     "message": "PI: A bot that tracks different stats for everyone and has custom achievements. It could have achievements for number of messages sent, numbers counted in <#CDJMS683D>, scrapbook streak, etc.",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "PI: A slack bot that makes bots that can reply to some word (that the user chooses) found in the messages of some channel (that the user chooses)",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "A slack bot that makes bots that can reply to some word (that the user chooses) found in the messages of some channel (that the user chooses)",
+    "isProject": true
   },
   {
     "message": "open ai has an api too, right?",
@@ -93,6 +105,10 @@
   },
   {
     "message": "PI: An AI called Metai which writes programs for you",
+    "isProject": false
+  },
+  {
+    "message": "An AI called Metai which writes programs for you",
     "isProject": false
   },
   {
@@ -133,7 +149,7 @@
   },
   {
     "message": "a browser extension that renders Hack Club Slack emojis on other websites",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "GUYS I HAVE A PROJECT IDEA",
@@ -145,7 +161,11 @@
   },
   {
     "message": "PI: HackNet™, an alternative internet for hack clubbers",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "HackNet™, an alternative internet for hack clubbers",
+    "isProject": true
   },
   {
     "message": "edit history sorta thing",
@@ -153,15 +173,23 @@
   },
   {
     "message": "PI: the ability to un-edit slack messages, for times where u realize preserving the integrity of the og message is more important than whatever minor edits u ended up making. (not really important in 90% cases, but nice-to-have for debates, for posterity)",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "the ability to un-edit slack messages, for times where u realize preserving the integrity of the og message is more important than whatever minor edits u ended up making. (not really important in 90% cases, but nice-to-have for debates, for posterity)",
+    "isProject": true
   },
   {
     "message": "stretch goal: auto-generated titles (via a text classification model)",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "PI: a chrome extension to easily name a browser window. so when you over over chrome in the taskbar, each window contains not only a site preview, but a meaningful name of all sites contained in the window (i.e. \"research,\" \"social,\" etc.)",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a chrome extension to easily name a browser window. so when you over over chrome in the taskbar, each window contains not only a site preview, but a meaningful name of all sites contained in the window (i.e. \"research,\" \"social,\" etc.)",
+    "isProject": true
   },
   {
     "message": "lol",
@@ -177,7 +205,11 @@
   },
   {
     "message": "super creepy-sounding PI: A Slack app that lets you (optionally) attach an audio pronunciation of your name to your profile",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "super creepy-sounding: A Slack app that lets you (optionally) attach an audio pronunciation of your name to your profile",
+    "isProject": true
   },
   {
     "message": "jsut put gushers in there lol",
@@ -185,6 +217,10 @@
   },
   {
     "message": "PI: milk-tea filled boba, so this way when you get to the bottom of the drink and have extra boba but no tea, u still have bonus tea inside the boba when you eat them straight",
+    "isProject": false
+  },
+  {
+    "message": "milk-tea filled boba, so this way when you get to the bottom of the drink and have extra boba but no tea, u still have bonus tea inside the boba when you eat them straight",
     "isProject": false
   },
   {

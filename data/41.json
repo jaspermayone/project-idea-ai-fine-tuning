@@ -1,11 +1,15 @@
 [
   {
     "message": "PI: musical \"mint,\" for when you're feeling rlly icky after listening to the same music for a while, and need an auditory refresh. it's a dynamic playlist that'll find like the mathematical complement of your most recent songs and generate a fresh batch of musical mint.\n\ni.e. if u were listening to some banger heartfelt ballads for a solid hr but the pace was starting to bring u down, musical mint would find the complement and generate songs with faster tempo, upbeat pitch, etc.",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "musical \"mint,\" for when you're feeling rlly icky after listening to the same music for a while, and need an auditory refresh. it's a dynamic playlist that'll find like the mathematical complement of your most recent songs and generate a fresh batch of musical mint.\n\ni.e. if u were listening to some banger heartfelt ballads for a solid hr but the pace was starting to bring u down, musical mint would find the complement and generate songs with faster tempo, upbeat pitch, etc.",
+    "isProject": true
   },
   {
     "message": "I'm talking about ads about github repos made by hackclubbers",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Khushraj that's like legit ads",
@@ -37,7 +41,7 @@
   },
   {
     "message": "like a mini ship channel where you can remind people of stuff and just talk",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "hmm that isn't specifically for projects you made but okay I guess",
@@ -53,7 +57,11 @@
   },
   {
     "message": "PI: #shameless-ads/plugs/ads/advertisements/idk, a channel where you shamelessly plug your own projects.",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "#shameless-ads/plugs/ads/advertisements/idk, a channel where you shamelessly plug your own projects.",
+    "isProject": true
   },
   {
     "message": "Okay High Level High Idiot",
@@ -61,7 +69,11 @@
   },
   {
     "message": "PI: You know those tutorials showing you how to make a compiler for a language or a vm or something? Well, they always depend on some other language or assembly. When people first actually made a compiler, they coded in raw binary. Then, they wrote a new compiler in that language and fed it through the old one. Like this, they improved compilers into what they are now. Now, when people make compilers they depend on LLVM or another lang or something. I want someone to exactly simulate the absolute start, with raw binary and compilers being fed into compilers.",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "You know those tutorials showing you how to make a compiler for a language or a vm or something? Well, they always depend on some other language or assembly. When people first actually made a compiler, they coded in raw binary. Then, they wrote a new compiler in that language and fed it through the old one. Like this, they improved compilers into what they are now. Now, when people make compilers they depend on LLVM or another lang or something. I want someone to exactly simulate the absolute start, with raw binary and compilers being fed into compilers.",
+    "isProject": true
   },
   {
     "message": "lol on mobile, /me renders smol text",
@@ -81,7 +93,11 @@
   },
   {
     "message": "PI: A thing that lets me download other people's rices",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "A thing that lets me download other people's rices",
+    "isProject": true
   },
   {
     "message": "/me also shows up different in compact mode",
@@ -117,7 +133,11 @@
   },
   {
     "message": "PI: A slash command that italicizes your message or a slack thing that puts all your messages in italic.",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "A slash command that italicizes your message or a slack thing that puts all your messages in italic.",
+    "isProject": true
   },
   {
     "message": "for ascii artists",
@@ -145,7 +165,11 @@
   },
   {
     "message": "PI: a drawing app entirely in a terminal",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a drawing app entirely in a terminal",
+    "isProject": true
   },
   {
     "message": "sorry i don't make good conversation",
@@ -153,7 +177,7 @@
   },
   {
     "message": "maybe an addition to clippy? like during orientation, you ask them to fill those things out and then tell them, \"OOOOOH. So you like Imagine Dragons? Turns out Claire likes them too! Etc.\"",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "yessss",
@@ -165,7 +189,11 @@
   },
   {
     "message": "PI: a little thing (part of clippy?) that keeps track of people’s favorite things (bands, food, etc.) in their profile and when two people share a similar interest, it makes both people aware of each other. Inspired by a new club leader putting Imagine Dragons as their favorite band and then noticing that Claire also has Imagine Dragons",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a little thing (part of clippy?) that keeps track of people’s favorite things (bands, food, etc.) in their profile and when two people share a similar interest, it makes both people aware of each other. Inspired by a new club leader putting Imagine Dragons as their favorite band and then noticing that Claire also has Imagine Dragons",
+    "isProject": true
   },
   {
     "message": "Ah yes",
@@ -193,7 +221,7 @@
   },
   {
     "message": "An algorithm that takes your project idea and automatically creates it based on code pulled from stackoverflow",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "I disagree ",

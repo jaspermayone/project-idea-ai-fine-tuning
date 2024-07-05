@@ -45,7 +45,11 @@
   },
   {
     "message": "pi an application that takes some arguments, and outputs the exact arguments to stdout, with a few options, like -n, -e, and -E",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "an application that takes some arguments, and outputs the exact arguments to stdout, with a few options, like -n, -e, and -E",
+    "isProject": true
   },
   {
     "message": ":oof:",
@@ -61,6 +65,10 @@
   },
   {
     "message": "PI: an :edge::xmr::o2::j::information_source:-only slack channel",
+    "isProject": false
+  },
+  {
+    "message": "an :edge::xmr::o2::j::information_source:-only slack channel",
     "isProject": false
   },
   {

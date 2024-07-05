@@ -20,6 +20,10 @@
     "isProject": false
   },
   {
+    "message": "a secure chat platform",
+    "isProject": false
+  },
+  {
     "message": "i actually searched how to make a terminal emulator",
     "isProject": false
   },
@@ -29,7 +33,11 @@
   },
   {
     "message": "PI: a terminal emulator inside a terminal emulator :mindblown:",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a terminal emulator inside a terminal emulator :mindblown:",
+    "isProject": true
   },
   {
     "message": "you made it",
@@ -81,7 +89,11 @@
   },
   {
     "message": "pi: a cli tool that can change the name of a project you are working on by changing all names of files and directories and also allowing you to change all the references to that name in your files ( you get to pick which ones get change so you dont screw up real words ).\nI assume it exists but Im prob gonna work on one anyway.",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a cli tool that can change the name of a project you are working on by changing all names of files and directories and also allowing you to change all the references to that name in your files ( you get to pick which ones get change so you dont screw up real words ).\nI assume it exists but Im prob gonna work on one anyway.",
+    "isProject": true
   },
   {
     "message": "¯\\_(ツ)_/¯",

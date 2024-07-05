@@ -1,11 +1,19 @@
 [
   {
     "message": "PI: cheap smart home accessories",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "cheap smart home accessories",
+    "isProject": true
   },
   {
     "message": "PI: Ensio with spatial audio based on marker location (<@UJYDFQ2QL|neelr>)",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "Ensio with spatial audio based on marker location (<@UJYDFQ2QL|neelr>)",
+    "isProject": true
   },
   {
     "message": "not interested in touching swift sorry - though happy to help with APIs or integrating the not-public functionality of the official client\n\nIt's also fairly difficult to make a fully-featured discord custom messaging cilent because of the way their APIs work - Ripcord is likely the best you're going to find here. Not sure of FB messenger's practices in this area so I can't comment there",
@@ -45,7 +53,7 @@
   },
   {
     "message": "also try to make instagram dms lol",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "<@U011CFN98K1|Linus>",
@@ -77,7 +85,7 @@
   },
   {
     "message": "PLEASE PLEASE PLEASE: someone who knows swift ui make a unified slack + discord + fb messenger platform. If this already exists pls lemme know",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "^ i used <http://transfonter.org|transfonter.org> to generate css, and i know there's a cli, but i don't know how to use it",
@@ -85,7 +93,11 @@
   },
   {
     "message": "PI: a CLI to quickly generate @font-face rules for CSS based on font files in a directory",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a CLI to quickly generate @font-face rules for CSS based on font files in a directory",
+    "isProject": true
   },
   {
     "message": "<#C014S7UHZ17>\nand <@U013YSPHQ0P>",
@@ -109,7 +121,11 @@
   },
   {
     "message": "PI: a bot that announces rocket launches in <#C012L2JJK9D>, would work similarly to <@U01571HNA0J>",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a bot that announces rocket launches in <#C012L2JJK9D>, would work similarly to <@U01571HNA0J>",
+    "isProject": true
   },
   {
     "message": "Lol",
@@ -145,7 +161,11 @@
   },
   {
     "message": "PI : a machine learning model that finds patterns in '' random key presses'' like givuhdaycjlbksskbkchllrdas",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a machine learning model that finds patterns in '' random key presses'' like givuhdaycjlbksskbkchllrdas",
+    "isProject": true
   },
   {
     "message": ":joy::joy::joy:",

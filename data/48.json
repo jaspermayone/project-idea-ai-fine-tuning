@@ -1,7 +1,11 @@
 [
   {
     "message": "PI: a Slack tool that auto-suggests channels for new members to join based on their interests",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a Slack tool that auto-suggests channels for new members to join based on their interests",
+    "isProject": true
   },
   {
     "message": "Isn't there a new emoji or something idk",

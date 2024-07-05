@@ -13,7 +13,7 @@
   },
   {
     "message": "a bot or website or something that gives the status of <#CDJMS683D> and sets etiquette. for example, if it's been less than 30 seconds since the latest message, <#CDJMS683D> is in speedcounting mode and the expectation is that you don't hop in and you let the speedcounters count. then you can set up notifications for when speedcounting is done so that you can hop in",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Ohh this sounds pretty cool",
@@ -45,7 +45,11 @@
   },
   {
     "message": "PI: a bot that’s similar to cuckoo but for <#C012YMFQHUG>: you can open a productivity breakout room, and it starts a call (optional), a timer for 25 minutes and notifies the channel for updates",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a bot that’s similar to cuckoo but for <#C012YMFQHUG>: you can open a productivity breakout room, and it starts a call (optional), a timer for 25 minutes and notifies the channel for updates",
+    "isProject": true
   },
   {
     "message": "oh is that the app that ken made? Man props to him",
@@ -57,7 +61,7 @@
   },
   {
     "message": "omegle, but with a group dynamic (4 people or more inserted randomly into one chat room); yay or nay?",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "auto hotkey?",
@@ -101,11 +105,19 @@
   },
   {
     "message": "PI: a hotkey command to screenshot a portion of my screen, copy to clipboard, and automatically send the clipboard to myself via messenger",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a hotkey command to screenshot a portion of my screen, copy to clipboard, and automatically send the clipboard to myself via messenger",
+    "isProject": true
   },
   {
     "message": "PI: a new http verb called push , so you can bully servers into giving you files , just PUSH the poor sever and bam the file falls into your computers drive",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a new http verb called push , so you can bully servers into giving you files , just PUSH the poor sever and bam the file falls into your computers drive",
+    "isProject": true
   },
   {
     "message": "i can’t get this out of my head",
@@ -129,7 +141,11 @@
   },
   {
     "message": "PI: A CMS that runs on Vercel and Firestore (only through graphql) aimed at students (bc it costs v v v v little; in most cases it’s free lol) called Etude",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "A CMS that runs on Vercel and Firestore (only through graphql) aimed at students (bc it costs v v v v little; in most cases it’s free lol) called Etude",
+    "isProject": true
   },
   {
     "message": "yep!",
@@ -173,7 +189,11 @@
   },
   {
     "message": "PI: Stories but for trending repos on GitHub",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "Stories but for trending repos on GitHub",
+    "isProject": true
   },
   {
     "message": "emacs has one built in",
@@ -197,6 +217,10 @@
   },
   {
     "message": "PI: ai therapist that intentionally gives you bad advice",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "ai therapist that intentionally gives you bad advice",
+    "isProject": true
   }
 ]

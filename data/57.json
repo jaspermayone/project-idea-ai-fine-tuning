@@ -40,6 +40,10 @@
     "isProject": false
   },
   {
+    "message": ".md to .txt  \"compiler\" that runs on the terminal",
+    "isProject": false
+  },
+  {
     "message": "Mattermost is cool!",
     "isProject": false
   },
@@ -57,11 +61,19 @@
   },
   {
     "message": "pi: something that's open source but like slack and free",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "something that's open source but like slack and free",
+    "isProject": true
   },
   {
     "message": "pi: portable sensor device where you can monitor environmental conditions in a small and light package",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "portable sensor device where you can monitor environmental conditions in a small and light package",
+    "isProject": true
   },
   {
     "message": "the heck",
@@ -69,7 +81,11 @@
   },
   {
     "message": "Pi: laptop that ships with a hamster in Ferris wheel or something",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "laptop that ships with a hamster in Ferris wheel or something",
+    "isProject": true
   },
   {
     "message": "please don't tell me you can generate more energy easily than the energy you spent with your fingers",
@@ -137,7 +153,11 @@
   },
   {
     "message": "pi: a laptop that has piezoelectric crystals in its keyboard, which can power up the laptop when user is typing",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a laptop that has piezoelectric crystals in its keyboard, which can power up the laptop when user is typing",
+    "isProject": true
   },
   {
     "message": "doesn’t waze do this?",
@@ -145,15 +165,19 @@
   },
   {
     "message": "so you could run `yarn add carbon oxygen` and when you ran `element` or smth like that it shows you the compound",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "project idea: npm packages for all the elements",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "pi: a program that can write notes based on the audio of a google meet",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a program that can write notes based on the audio of a google meet",
+    "isProject": true
   },
   {
     "message": "LOLLLLLLLLLLLL",

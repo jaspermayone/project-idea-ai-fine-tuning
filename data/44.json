@@ -45,7 +45,11 @@
   },
   {
     "message": "PI: When you select any text from anywhere, it automatically gets copied. I think this would be pretty hard to do (probably needs some os level stuff). This would be super useful tho.",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "When you select any text from anywhere, it automatically gets copied. I think this would be pretty hard to do (probably needs some os level stuff). This would be super useful tho.",
+    "isProject": true
   },
   {
     "message": "Inspired by a recent convo in <#C019RMWTECD>",
@@ -56,8 +60,12 @@
     "isProject": false
   },
   {
-    "message": "pi: The Vim Virus: a malware that changes the icon of every application on your computer to the vim icon",
-    "isProject": false
+    "message": "PI: The Vim Virus: a malware that changes the icon of every application on your computer to the vim icon",
+    "isProject": true
+  },
+  {
+    "message": "The Vim Virus: a malware that changes the icon of every application on your computer to the vim icon",
+    "isProject": true
   },
   {
     "message": "lol",
@@ -73,15 +81,19 @@
   },
   {
     "message": "PI: a version control system in the command line, what about calling it git?",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a version control system in the command line, what about calling it git?",
+    "isProject": true
   },
   {
     "message": "A script to follow back all the people who follow you on GitHub",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "a query language for slack . We could call it SQL",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Lol",

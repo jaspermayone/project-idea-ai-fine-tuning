@@ -53,24 +53,24 @@ For projects that contain PI as an indicator, duplicate object and have one with
 - [x] 37 - Edna
 - [x] 38 - Edna
 - [x] 39 - Edna
-- [ ] 40 - 
-- [ ] 41 - 
-- [ ] 42 - 
-- [ ] 43 - 
-- [ ] 44 - 
-- [ ] 45 - 
-- [ ] 46 - 
-- [ ] 47 - 
-- [ ] 48 - 
-- [ ] 49 - 
-- [ ] 50 - 
-- [ ] 51 - 
-- [ ] 52 - 
-- [ ] 53 - 
-- [ ] 54 - 
-- [ ] 55 - 
-- [ ] 56 - 
-- [ ] 57 - 
+- [ ] 40 - Aaryan N
+- [ ] 41 - Aaryan N
+- [ ] 42 - Aaryan N
+- [ ] 43 - Aaryan N
+- [ ] 44 - Aaryan N
+- [ ] 45 - Aaryan N
+- [ ] 46 - Aaryan N
+- [ ] 47 - Aaryan N
+- [ ] 48 - Aaryan N
+- [ ] 49 - Aaryan N
+- [ ] 50 - Aaryan N
+- [ ] 51 - Aaryan N
+- [ ] 52 - Aaryan N
+- [ ] 53 - Aaryan N
+- [ ] 54 - Aaryan N
+- [ ] 55 - Aaryan N
+- [ ] 56 - Aaryan N
+- [ ] 57 - Aaryan N
 - [x] 58 - 
 - [x] 59 - 
 - [x] 60 - 
