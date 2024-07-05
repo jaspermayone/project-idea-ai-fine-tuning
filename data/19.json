@@ -25,7 +25,7 @@
   },
   {
     "message": "Project idea: a replit alternative that’s a nonprofit and open source",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "<https://hackclub.slack.com/archives/C01EZ2MNPTQ/p1677180902064459>",
@@ -41,7 +41,7 @@
   },
   {
     "message": "PI: A scribl made by Hack Clubbers to play during Hack Nights and other events",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "it doesn’t, but we’d totally use it for the next ama if it did!",
@@ -53,19 +53,19 @@
   },
   {
     "message": "PI: A slack bot that generates images with midjourney",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "A cs50/leetcode/ds&amp;a hackclub project similar to SAR",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "perhaps better is a vim plugin instead of a vscode extension",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "maybe a vscode extension that allows you to communicate in Slack?",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "there is a bot in slack that does exactly that",
@@ -81,11 +81,11 @@
   },
   {
     "message": "vscode extension that can order coffee for me",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "project idea: have a mini plane that attaches to a magnet. move the magnet around on an XY grid (a world map). the specific XY coordinate on the map is the location of elon's jet",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "lmao <@UHFEGV147|kombucha kothari>",
@@ -121,7 +121,7 @@
   },
   {
     "message": "project idea: a tool to manage your domain names from different sellers, and make it easier to have different domain names from different registrars",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "thank you!!",
@@ -165,7 +165,7 @@
   },
   {
     "message": "Idea: #upscale channel, where you can upload any image and it AI upscales it",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "I was recently looking for the same thing, and some folks here sent <https://github.com/codecrafters-io/build-your-own-x>!",
@@ -181,7 +181,7 @@
   },
   {
     "message": "premid for slack status",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Not sure",
