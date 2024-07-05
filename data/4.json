@@ -37,7 +37,11 @@
   },
   {
     "message": "PI: A website that gives you a random idea from this channel.",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "A website that gives you a random idea from this channel.",
+    "isProject": true
   },
   {
     "message": "<https://hackclub.slack.com/archives/C0EA9S0A0/p1719054338268389>",
@@ -48,12 +52,12 @@
     "isProject": false
   },
   {
-    "message": "PI - Have you ever been told, \"look at the pinned messages\" and then when you Open up the menu you find it convoluted and overwhelming.\nHere is an idea to improve this: Pin cushion, a bot to take all of the current pin's in a channel &amp; display them as a nice webpage with labeled dropdowns for each one. Perhaps you could use AI to summarize for the dropdown title. Basically think of a FAQ format with dropdowns.",
-    "isProject": false
+    "message": "Pin cushion, a bot to take all of the current pin's in a channel &amp; display them as a nice webpage with labeled dropdowns for each one. Perhaps you could use AI to summarize for the dropdown title.",
+    "isProject": true
   },
   {
-    "message": "PI: A website that gets all your <#C01504DCLVD> and <#C06SBHMQU8G> data and turns it into a personal website that's customized to you",
-    "isProject": false
+    "message": "A website that gets all your #scrapbook and session data and turns it into a personal website that's customized to you",
+    "isProject": true
   },
   {
     "message": "i used to do this but lost the script i used",
@@ -80,12 +84,16 @@
     "isProject": false
   },
   {
-    "message": "PI: apple music slack status indicator ~ I love spotify’s, but don’t use spotify!",
-    "isProject": false
+    "message": "PI: apple music slack status indicator",
+    "isProject": true
+  },
+  {
+    "message": "apple music slack status indicator",
+    "isProject": true
   },
   {
     "message": "a LLM that can run pseudo code",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "also yabai if your into tiling window managers",
@@ -117,11 +125,15 @@
   },
   {
     "message": "LLVM-LLM, an LLM that can run LLVM-IR and theoretically run almost any language ",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Project idea: Cursed CPU. Implement a CPU on top of an LLM, where every instruction is a prompt given to an LLM.",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "Cursed CPU. Implement a CPU on top of an LLM, where every instruction is a prompt given to an LLM.",
+    "isProject": true
   },
   {
     "message": "a tool to get your currently playing steam game and display it as status",
@@ -153,7 +165,11 @@
   },
   {
     "message": "Idea: an advanced handwriting recognition ML model so you can actually read what people write in your yearbook",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "an advanced handwriting recognition ML model so you can actually read what people write in your yearbook",
+    "isProject": true
   },
   {
     "message": "make a contribution to the linux kernel :trollface:",

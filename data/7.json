@@ -129,7 +129,11 @@
   },
   {
     "message": "Project idea: Scrape all 990 public finance filings from nonprofits and organize them into a publicly queryable SQL database.",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "Scrape all 990 public finance filings from nonprofits and organize them into a publicly queryable SQL database.",
+    "isProject": true
   },
   {
     "message": "aram that's what I was thinking",

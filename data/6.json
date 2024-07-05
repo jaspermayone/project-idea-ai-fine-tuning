@@ -16,8 +16,12 @@
     "isProject": false
   },
   {
-    "message": "PI: An tool to take the <https://www.nasa.gov/image-of-the-day/|NASA image of the day> and set it as your desktop wallpaper",
-    "isProject": false
+    "message": "PI: A tool to take the NASA image of the day and set it as your desktop wallpaper",
+    "isProject": true
+  },
+  {
+    "message": "A tool to take the NASA image of the day and set it as your desktop wallpaper",
+    "isProject": true
   },
   {
     "message": "I might rewrite <@U06TW2N6C5R> again, so yeah",
@@ -68,16 +72,16 @@
     "isProject": false
   },
   {
-    "message": "I had an idea for a \"hack sash\" that would let you bring your scrappy/hack hour/bag stats into one view",
-    "isProject": false
+    "message": "a \"hack sash\" that would let you bring your scrappy/hack hour/bag stats into one view",
+    "isProject": true
   },
   {
     "message": "<#C06V2GEV3MY>",
     "isProject": false
   },
   {
-    "message": "inspired from a twitter post: an app that measures how much time you've waisted on social media or platforms you don't want to waste time on and adds that on your calendar to shame you",
-    "isProject": false
+    "message": "an app that measures how much time you've waisted on social media or platforms you don't want to waste time on and adds that on your calendar to shame you",
+    "isProject": true
   },
   {
     "message": "give me ideas for a slack bot to make",
@@ -96,8 +100,8 @@
     "isProject": false
   },
   {
-    "message": "GNU replacement by hackclubers for hackclubbers. Stupid idea but could be fun.",
-    "isProject": false
+    "message": "GNU replacement by hackclubers for hackclubbers.",
+    "isProject": true
   },
   {
     "message": "Yeah, but that's like a quarter of the fun",
@@ -153,7 +157,11 @@
   },
   {
     "message": "PI: a teen-built git server for hackclubbers with similar feature compatibility to github that is easy to self-host",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a teen-built git server for hackclubbers with similar feature compatibility to github that is easy to self-host",
+    "isProject": true
   },
   {
     "message": "6ghz radio soon :crossed_fingers:",
@@ -184,8 +192,8 @@
     "isProject": false
   },
   {
-    "message": "someone should make a bot that checks if a message has 2 :star: and react to it so it can go to the hall of fame",
-    "isProject": false
+    "message": "make a bot that checks if a message has 2 :star: and react to it so it can go to the hall of fame",
+    "isProject": true
   },
   {
     "message": "i think <https://www.youtube.com/watch?v=2BID8_pGuqA>",

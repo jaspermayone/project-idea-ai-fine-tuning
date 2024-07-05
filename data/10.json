@@ -4,16 +4,20 @@
     "isProject": false
   },
   {
-    "message": "PI (which I'd be HIGHLY interested in doing if others are): Create a full-length (possibly theatrical) movie/documentary based off all the content posted on this slack.",
-    "isProject": false
+    "message": "Create a full-length (possibly theatrical) movie/documentary based off all the content posted on this slack.",
+    "isProject": true
+  },
+  {
+    "message": "PI: Create a full-length (possibly theatrical) movie/documentary based off all the content posted on this slack.",
+    "isProject": true
   },
   {
     "message": "You could even eventually make a PCB for it! Someone did that for onboard",
     "isProject": false
   },
   {
-    "message": "Have you considered making a simple TOTP app? :) Lots of fun stuff you could do there:\n\n• Add/display TOTP codes\n• Quick copying\n• Import from other applications\n• Authentication to protect it\n\nAlso can branch out too, you could build a browser extension which can:\n\n• Import TOTP codes by scanning the page for QR codes\n• Automatically fill in TOTP codes based on the webpage\n\nOr even make it into an application down the line :)",
-    "isProject": false
+    "message": "make a simple TOTP app? \n\n• Add/display TOTP codes\n• Quick copying\n• Import from other applications\n• Authentication to protect it\n\nAlso can branch out too, you could build a browser extension which can:\n\n• Import TOTP codes by scanning the page for QR codes\n• Automatically fill in TOTP codes based on the webpage\n\nOr even make it into an application down the line :)",
+    "isProject": true
   },
   {
     "message": "For web development",
@@ -25,11 +29,11 @@
   },
   {
     "message": "wakatime but better UI and more stats",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "use the babel image archives to make a file storage system",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "related: <https://hackclub.slack.com/archives/C056WDR3MQR/p1708990276483569>",
@@ -49,7 +53,11 @@
   },
   {
     "message": "PI: Live hackclub internet radio",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "Live hackclub internet radio",
+    "isProject": true
   },
   {
     "message": "we need this",
@@ -85,15 +93,15 @@
   },
   {
     "message": "linux distro targeted to gen alpha named skibidiOS",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "For further inspiration, check out DoodleChaos, who made a spin on this recently",
     "isProject": false
   },
   {
-    "message": "<https://www.twitch.tv/twitchplayspokemon> is one of my favorite projects of all time. idea: do something interesting with livestreaming interaction, now that livestreaming is so much faster and better than it was a few years ago",
-    "isProject": false
+    "message": "do something interesting with livestreaming interaction, now that livestreaming is so much faster and better than it was a few years ago",
+    "isProject": true
   },
   {
     "message": "lmao",
@@ -124,8 +132,8 @@
     "isProject": false
   },
   {
-    "message": "hear me out y'all\n\nMacSteam Enhancements\n\nEnhancements\n\n• Default MacOS windows\n• Extension Engine\n• Saler\n    ◦ Advanced info about sales\n    ◦ Include past sales, volatility, and risk.\n    ◦ Sale likelihood\n    ◦ Schedule purchases once games go below a certain price\n• Extensions/Themes\n• GPT (game porting toolkit) support built in. (Download and play windows games)\n\nProblems\n\n• Technically against the Steam Subscriber Agreement\n\nI have noticed how bad the vanilla client is for macOS, so this is an idea i came up with.",
-    "isProject": false
+    "message": "MacSteam Enhancements\n\nEnhancements\n\n• Default MacOS windows\n• Extension Engine\n• Saler\n    ◦ Advanced info about sales\n    ◦ Include past sales, volatility, and risk.\n    ◦ Sale likelihood\n    ◦ Schedule purchases once games go below a certain price\n• Extensions/Themes\n• GPT (game porting toolkit) support built in. (Download and play windows games)\n\nProblems\n\n• Technically against the Steam Subscriber Agreement",
+    "isProject": true
   },
   {
     "message": "(but that does not really matter)",
@@ -144,7 +152,11 @@
     "isProject": false
   },
   {
-    "message": "PI: programming game inspired by outer wilds(no lookie if has not played outer wilds with the dlc)\nYou've decided that you don't want to kill yourself or other hearthians even if that makes a new universe.\nYou've also found out that Gabbro is also stuck in a time loop.\nMission:\n• Fix the vessel(wall and warp core) and the stranger(dam and destroy the eye signal blocker,we don't need it:angry:)\n• Repopulate the nomai(go and tell hornfels) and the owlks(hal)\n• Stop all supernovas(and the game ends)\nYou've repurposed the ship log as a research tree.To research something new,someone has to get revelations by observing a certain place(the places where you get a ship log when you observe them) and the revelations have to go to someone who is also stuck in a time loop.There are some researches(such as the one for going back in time for 200 thousand years and the one for preventing time paradoxes)that you have to \"angrily object Solanum/the Prisoner\" to get the correct revelation(and then it should go to someone in a time loop)\nHornfels Feldspar Esker Riebeck and Chert can be invited into the time loop at some point(because there are 5 statues that have not been lit)\nEveryone has 22 time units in a loop.Hornfels does not have his signalscope or ship,so he does not go to space today.Feldspar does not need time to fly and can fly to the Sun station and places in ember twin without waiting.Going from one celestial body(by flying.does not include the eye of the universe) to another takes 1 time unit,getting a revelation takes 2 time units,talking takes 1 time unit,waiting 1 time unit takes 1 time unit.Some areas are not accessable before some time.\nOne can clone oneself by jumping into the black hole in ATP(the black hole is only accessable at the last time unit,although the project is accessable as long as the corresponding tower is).That person has to keep jumping into the black hole at the end of every loop until the research of time paradox stopping has been researched.\n(I'll probably make this after two projects)",
+    "message": "PI: programming game inspired by outer wilds\nYou've decided that you don't want to kill yourself or other hearthians even if that makes a new universe.\nYou've also found out that Gabbro is also stuck in a time loop.\nMission:\n• Fix the vessel(wall and warp core) and the stranger(dam and destroy the eye signal blocker,we don't need it:angry:)\n• Repopulate the nomai(go and tell hornfels) and the owlks(hal)\n• Stop all supernovas(and the game ends)\nYou've repurposed the ship log as a research tree.To research something new,someone has to get revelations by observing a certain place(the places where you get a ship log when you observe them) and the revelations have to go to someone who is also stuck in a time loop.There are some researches(such as the one for going back in time for 200 thousand years and the one for preventing time paradoxes)that you have to \"angrily object Solanum/the Prisoner\" to get the correct revelation(and then it should go to someone in a time loop)\nHornfels Feldspar Esker Riebeck and Chert can be invited into the time loop at some point(because there are 5 statues that have not been lit)\nEveryone has 22 time units in a loop.Hornfels does not have his signalscope or ship,so he does not go to space today.Feldspar does not need time to fly and can fly to the Sun station and places in ember twin without waiting.Going from one celestial body(by flying.does not include the eye of the universe) to another takes 1 time unit,getting a revelation takes 2 time units,talking takes 1 time unit,waiting 1 time unit takes 1 time unit.Some areas are not accessable before some time.\nOne can clone oneself by jumping into the black hole in ATP(the black hole is only accessable at the last time unit,although the project is accessable as long as the corresponding tower is).That person has to keep jumping into the black hole at the end of every loop until the research of time paradox stopping has been researched.\n(I'll probably make this after two projects)",
+    "isProject": false
+  },
+  {
+    "message": "programming game inspired by outer wilds\nYou've decided that you don't want to kill yourself or other hearthians even if that makes a new universe.\nYou've also found out that Gabbro is also stuck in a time loop.\nMission:\n• Fix the vessel(wall and warp core) and the stranger(dam and destroy the eye signal blocker,we don't need it:angry:)\n• Repopulate the nomai(go and tell hornfels) and the owlks(hal)\n• Stop all supernovas(and the game ends)\nYou've repurposed the ship log as a research tree.To research something new,someone has to get revelations by observing a certain place(the places where you get a ship log when you observe them) and the revelations have to go to someone who is also stuck in a time loop.There are some researches(such as the one for going back in time for 200 thousand years and the one for preventing time paradoxes)that you have to \"angrily object Solanum/the Prisoner\" to get the correct revelation(and then it should go to someone in a time loop)\nHornfels Feldspar Esker Riebeck and Chert can be invited into the time loop at some point(because there are 5 statues that have not been lit)\nEveryone has 22 time units in a loop.Hornfels does not have his signalscope or ship,so he does not go to space today.Feldspar does not need time to fly and can fly to the Sun station and places in ember twin without waiting.Going from one celestial body(by flying.does not include the eye of the universe) to another takes 1 time unit,getting a revelation takes 2 time units,talking takes 1 time unit,waiting 1 time unit takes 1 time unit.Some areas are not accessable before some time.\nOne can clone oneself by jumping into the black hole in ATP(the black hole is only accessable at the last time unit,although the project is accessable as long as the corresponding tower is).That person has to keep jumping into the black hole at the end of every loop until the research of time paradox stopping has been researched.\n(I'll probably make this after two projects)",
     "isProject": false
   },
   {
@@ -153,7 +165,7 @@
   },
   {
     "message": "dementia:\n\na browser extension that adds a random html element each day to the \"dementia list\", every time you visit a website, it deletes all elements that are on the \"dementia list\"",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "ooohhhh",
@@ -164,8 +176,8 @@
     "isProject": false
   },
   {
-    "message": "hear me out...\n\ntranslation layer for chrome extensions -> webkit",
-    "isProject": false
+    "message": "translation layer for chrome extensions -> webkit",
+    "isProject": true
   },
   {
     "message": "<@U0266FRGP|zrl> v.0.5 is up for review on github! <https://github.com/hackclub/sprig/pull/1422>",
@@ -189,11 +201,15 @@
   },
   {
     "message": "cookie clicker but in the slack",
-    "isProject": false
+    "isProject": true
   },
   {
-    "message": "project idea:\n\nMacOS/IOS widgets\n\nterminal running customizable command\n\nthink about it.\n\ncmatrix",
-    "isProject": false
+    "message": "project idea:\n\nMacOS/IOS widget terminal running customizable command",
+    "isProject": true
+  },
+  {
+    "message": "MacOS/IOS widget terminal running customizable command",
+    "isProject": true
   },
   {
     "message": "yea that's what i was thinking, handheld",
