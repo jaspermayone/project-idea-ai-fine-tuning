@@ -26,13 +26,10 @@ For projects that contain PI as an indicator, duplicate object and have one with
 - [x] 13 - Colin
 - [x] 14 - Colin
 - [x] 15 - Colin
-- [ ] 16 - 
-- [ ] 17 - 
-- [ ] 18 - 
-- [ ] 16 - smashmaster0045
-- [ ] 17 - smashmaster0045
-- [ ] 18 - smashmaster0045
-- [ ] 19 - 
+- [X] 16 - smashmaster0045
+- [X] 17 - smashmaster0045
+- [X] 18 - smashmaster0045
+- [X] 19 - dominic
 - [x] 20 - Edna
 - [x] 21 - Edna
 - [x] 22 - Edna
@@ -53,27 +50,27 @@ For projects that contain PI as an indicator, duplicate object and have one with
 - [x] 37 - Edna
 - [x] 38 - Edna
 - [x] 39 - Edna
-- [ ] 40 - Aaryan N
-- [ ] 41 - Aaryan N
-- [ ] 42 - Aaryan N
-- [ ] 43 - Aaryan N
-- [ ] 44 - Aaryan N
-- [ ] 45 - Aaryan N
-- [ ] 46 - Aaryan N
-- [ ] 47 - Aaryan N
-- [ ] 48 - Aaryan N
-- [ ] 49 - Aaryan N
-- [ ] 50 - Aaryan N
-- [ ] 51 - Aaryan N
-- [ ] 52 - Aaryan N
+- [X] 40 - Aaryan N
+- [X] 41 - Aaryan N
+- [X] 42 - Aaryan N
+- [X] 43 - Aaryan N
+- [X] 44 - Aaryan N
+- [X] 45 - Aaryan N
+- [X] 46 - Aaryan N
+- [X] 47 - Aaryan N
+- [X] 48 - Aaryan N
+- [X] 49 - Aaryan N
+- [X] 50 - Aaryan N
+- [X] 51 - Aaryan N
+- [X] 52 - Aaryan N
 - [ ] 53 - Aaryan N
 - [ ] 54 - Aaryan N
 - [ ] 55 - Aaryan N
-- [ ] 56 - Aaryan N
-- [ ] 57 - Aaryan N
+- [X] 56 - Aaryan N
+- [X] 57 - Aaryan N
 - [x] 58 - 
 - [x] 59 - 
 - [x] 60 - 
 - [x] 61 - 
 - [x] 62 - 
-- [ ] 63 - smashmaster0045
+- [X] 63 - smashmaster0045
