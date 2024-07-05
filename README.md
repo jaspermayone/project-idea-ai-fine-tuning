@@ -68,9 +68,9 @@ For projects that contain PI as an indicator, duplicate object and have one with
 - [ ] 55 - 
 - [ ] 56 - 
 - [ ] 57 - 
-- [ ] 58 - 
-- [ ] 59 - 
-- [ ] 60 - 
-- [ ] 61 - 
-- [ ] 62 - 
+- [x] 58 - 
+- [x] 59 - 
+- [x] 60 - 
+- [x] 61 - 
+- [x] 62 - 
 - [ ] 63 - smashmaster0045
