@@ -13,11 +13,19 @@
   },
   {
     "message": "PI: grow a TARDIS irl so we all can go to the train",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "grow a TARDIS irl so we all can go to the train",
+    "isProject": true
   },
   {
     "message": "PI: a VPN that lets you change your time so that you can skip forward a week to see if you are going on the train before the nervous anticipation and likely inevitable disappointment kills you ",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a VPN that lets you change your time so that you can skip forward a week to see if you are going on the train before the nervous anticipation and likely inevitable disappointment kills you ",
+    "isProject": true
   },
   {
     "message": "PPN :smiley-twemoji:",
@@ -57,7 +65,11 @@
   },
   {
     "message": "PI: SOCIAL MEDIA FOR DEVELOPERS!!!!!!!!!!",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "SOCIAL MEDIA FOR DEVELOPERS!!!!!!!!!!",
+    "isProject": true
   },
   {
     "message": "if i dont sleep i could get a super rough thing working rn",
@@ -97,7 +109,11 @@
   },
   {
     "message": "PI: image-based pings, where you can get pinged if someone posts an image with one of your ping words",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "image-based pings, where you can get pinged if someone posts an image with one of your ping words",
+    "isProject": true
   },
   {
     "message": "carykh goated :yeah:",
@@ -141,7 +157,11 @@
   },
   {
     "message": "PI: A system to add arbitrary files to \"collections\" regardless of path, and tag them and then search, like this:\n```$ tagger add yukino.png --tags cute,oregairu --collection images\n$ tagger get -c images\n<all images>\n$ tagger search -t oregairu\n<all oregairu stuff>```\n(May do this myself)",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "A system to add arbitrary files to \"collections\" regardless of path, and tag them and then search, like this:\n```$ tagger add yukino.png --tags cute,oregairu --collection images\n$ tagger get -c images\n<all images>\n$ tagger search -t oregairu\n<all oregairu stuff>```\n(May do this myself)",
+    "isProject": true
   },
   {
     "message": "like you post a file with the name of the emoji as the message text, then it automatically crops/uploads it",
@@ -149,7 +169,11 @@
   },
   {
     "message": "PI: a Slack channel that lets you quickly upload custom emoji",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a Slack channel that lets you quickly upload custom emoji",
+    "isProject": true
   },
   {
     "message": "that would be amazing; right now i use block kit builder to do that and it's not intuitive lol",
@@ -161,7 +185,11 @@
   },
   {
     "message": "PI: a slack oauth app that does the timezone thing directly in your message. if you put a time in between some kind of syntax, for example {{6:00pm}}, and then send it, it will edit the message to display in the other person's time for them",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a slack oauth app that does the timezone thing directly in your message. if you put a time in between some kind of syntax, for example {{6:00pm}}, and then send it, it will edit the message to display in the other person's time for them",
+    "isProject": true
   },
   {
     "message": "ah lol",
@@ -177,7 +205,11 @@
   },
   {
     "message": "pi: unicode2, a new standard that supports custom emotes somehow :lfg:",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "unicode2, a new standard that supports custom emotes somehow :lfg:",
+    "isProject": true
   },
   {
     "message": "<https://hackclub.slack.com/archives/C01504DCLVD/p1617907841427900>",

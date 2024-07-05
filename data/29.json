@@ -153,6 +153,10 @@
   },
   {
     "message": "PI: a GOOD Youtube alternative. (i hate google) DTube doesnt work either.",
+    "isProject": true
+  },
+  {
+    "message": "PI: a GOOD Youtube alternative. (i hate google) DTube doesnt work either.",
     "isProject": false
   },
   {
@@ -169,7 +173,11 @@
   },
   {
     "message": "maybe project idea: an app for hack clubbers to find other hack clubbers near them",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "an app for hack clubbers to find other hack clubbers near them",
+    "isProject": true
   },
   {
     "message": "omg thanks ily",

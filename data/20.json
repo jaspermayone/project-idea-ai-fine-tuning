@@ -1,7 +1,7 @@
 [
   {
     "message": "Not too sure if this is the right place for this but I am just looking to validate an idea before potentially building it. Is this something you would consider signing up for? A daily or weekly newsletter pulling information from many places (your calendar, to do list, news, local weather...). Any other thoughts? Thank you!",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "that’d be really cool",
@@ -69,15 +69,23 @@
   },
   {
     "message": "project idea: a shell that tells bash to go asleep when its past 1am",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a shell that tells bash to go asleep when its past 1am",
+    "isProject": true
   },
   {
     "message": "Project idea: a CLI for setting up a Next repo. Frameworks like Angular and Nuxt have official CLIs with options for CSS frameworks, linting configuration, state libraries, etc. that are opinionated but generally make for a quicker &amp; more fun experience bootstrapping a project than with Next templates. Not sure why next doesn’t have this yet.",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a CLI for setting up a Next repo. Frameworks like Angular and Nuxt have official CLIs with options for CSS frameworks, linting configuration, state libraries, etc. that are opinionated but generally make for a quicker &amp; more fun experience bootstrapping a project than with Next templates. Not sure why next doesn’t have this yet.",
+    "isProject": true
   },
   {
     "message": "yea, try building something with the turtle library, something like a cool animation",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "anyone have any ideas for beginner-internediate python projects?",
@@ -97,7 +105,7 @@
   },
   {
     "message": "rust docs or deno docs-like thing for node packages. would make life so much easier for everyone. im up for collaborating with someone on this",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "<https://hackclub.slack.com/archives/C01FXNNF6F2/p1646068429450649>",
@@ -141,7 +149,11 @@
   },
   {
     "message": "PI: a thread locker which locks the thread and prevents from any further messages in that thread",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a thread locker which locks the thread and prevents from any further messages in that thread",
+    "isProject": true
   },
   {
     "message": "done <#C017YL1NMU0> -",
@@ -153,11 +165,15 @@
   },
   {
     "message": "PI: a PI tracker??",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a PI tracker??",
+    "isProject": true
   },
   {
     "message": "An website to just browse through ideas for inspiration of new features. (and a way to collect these ideas and organize them)",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Im up for the challenge",
@@ -169,7 +185,11 @@
   },
   {
     "message": "PI: Wordle but Emojis",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "Wordle but Emojis",
+    "isProject": true
   },
   {
     "message": "there’s a few of them, so you can have a semi-decentralized service (by picking the most common result) but that’s not much of a difference\nalso centralized CDNs are just much more performant if I understand correctly",
