@@ -5,11 +5,19 @@
   },
   {
     "message": "PI: A bot that lets you find your ships in <#C0M8PUPU6> easily (using slack search shows you thread message replies too, which is undesirable) maybe by looking for messages longer than some limit?",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "A bot that lets you find your ships in <#C0M8PUPU6> easily (using slack search shows you thread message replies too, which is undesirable) maybe by looking for messages longer than some limit?",
+    "isProject": true
   },
   {
     "message": "PI: Prox2 sends a link to your confession as DM so you can easily find it later",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "Prox2 sends a link to your confession as DM so you can easily find it later",
+    "isProject": true
   },
   {
     "message": "oof",
@@ -73,7 +81,11 @@
   },
   {
     "message": "PI: /face-reveal and it updates all ur prox messages w ur actual name",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "/face-reveal and it updates all ur prox messages w ur actual name",
+    "isProject": true
   },
   {
     "message": "just put a beaker of water in a vacuum chamber",
@@ -93,7 +105,11 @@
   },
   {
     "message": "PI: water that boils instantly ",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "water that boils instantly ",
+    "isProject": true
   },
   {
     "message": ":eyes: ",
@@ -105,7 +121,11 @@
   },
   {
     "message": "PI: I loved <@U01ATRLRD8V>, but I think its biggest limitation was that it was entirely slack-based (submit via dm, posts to a channel) which made posts inherently short and sparse. What if......like a substack thingy but for hack clubbers. In the same way you join neighborhood channels, you can subscribe to neighborhood newsletters/blogs/journals/spaces/whatever",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "I loved <@U01ATRLRD8V>, but I think its biggest limitation was that it was entirely slack-based (submit via dm, posts to a channel) which made posts inherently short and sparse. What if......like a substack thingy but for hack clubbers. In the same way you join neighborhood channels, you can subscribe to neighborhood newsletters/blogs/journals/spaces/whatever",
+    "isProject": true
   },
   {
     "message": "based",
@@ -133,7 +153,11 @@
   },
   {
     "message": "PI: A site where I can see all my notifs on all social platforms",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "A site where I can see all my notifs on all social platforms",
+    "isProject": true
   },
   {
     "message": "<https://hackclub.slack.com/archives/C017MS0S4E6/p1612734170012600>\ngo brrrr",
@@ -141,7 +165,11 @@
   },
   {
     "message": "PI: an Emojicode evaluator in Slack :expanding_brain_4:",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "an Emojicode evaluator in Slack :expanding_brain_4:",
+    "isProject": true
   },
   {
     "message": "ah ok",
@@ -185,7 +213,11 @@
   },
   {
     "message": "PI: site that lets you take a 1-minute typing test on common English words, then asks you to make a micro poem or story restricted to only the words which you typed correctly",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "site that lets you take a 1-minute typing test on common English words, then asks you to make a micro poem or story restricted to only the words which you typed correctly",
+    "isProject": true
   },
   {
     "message": "Start HackMars",

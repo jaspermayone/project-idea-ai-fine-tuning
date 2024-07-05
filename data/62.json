@@ -37,11 +37,11 @@
   },
   {
     "message": "PI: a channel called #funfacts | <@UGTQ393RR|gleich> <@U013B6CPV62|Caleb> <@U0161JDSHGR|sarthak>",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "PI: a webscraper using BS4 (and a few more libraries) and python",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "set the channel topic: A channel where you can find and help others find projects ideas. Also don't forget to thread and write \"PI:\" before posting your idea",
@@ -61,11 +61,11 @@
   },
   {
     "message": "hacklabs github organization - since hackclub's github organization is full of official hackclub related repos, there should be an organization for the projects of hackclubbers naming hacklabs",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Project idea: skin generator that makes a skin out of an image",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Nope lol but maybe someday I will",
@@ -113,11 +113,11 @@
   },
   {
     "message": "PROJECT IDEA 2: a raspberry pi with a button, connected to domino's pizza api, and every time you press the button it will order Sam Poder a pizza",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "PROJECT IDEA: a raspberry pi with a button, connected to domino's pizza api, and every time you press the button it will order you a pizza",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "i mean something like understanding the essence of something so it knows what we are talking about",
@@ -133,11 +133,11 @@
   },
   {
     "message": "project idea a self compiling compiler that compiles a compiler (but not itself) for use as a compiler",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Project Idea: A dustbin which really has dust in it",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "when do you wanna start?",
@@ -189,11 +189,11 @@
   },
   {
     "message": "AI that reads doctors medicine prescription",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Project idea: A trash can that will do anything in it's power to avoid having trash thrown into it",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "well let's make a new one then",

@@ -1,7 +1,11 @@
 [
   {
     "message": "PI: HST( Hackclub Standard Time). Because timezones are confusing so why not solve it by creating yet another one",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "HST( Hackclub Standard Time). Because timezones are confusing so why not solve it by creating yet another one",
+    "isProject": true
   },
   {
     "message": "Although some names are very weird: \"Twitter\" (sounds good now but imagine not having heard of it)",
@@ -49,7 +53,11 @@
   },
   {
     "message": "PI: a hackclub for people who couldn't start one",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a hackclub for people who couldn't start one",
+    "isProject": true
   },
   {
     "message": "oh damn",
@@ -61,11 +69,15 @@
   },
   {
     "message": "PI: GitHub action that connects commit messages and issue task lists, e.g. if a commit has the message add error handling (1 x 3) it will edit the body of issue #1 and check off the 3rd task found there",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "GitHub action that connects commit messages and issue task lists, e.g. if a commit has the message add error handling (1 x 3) it will edit the body of issue #1 and check off the 3rd task found there",
+    "isProject": true
   },
   {
     "message": "A program to take in a program and convert it to pig latin",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "But instead of replying what you said, it just says \"lmao\" back",
@@ -81,7 +93,11 @@
   },
   {
     "message": "PI: ArseCheckerBot: A bot for any platform that checks for people saying \"lmao\" that then replies with \"Hmm, upon further investigation, we have found that your posterior is still connected to your body. Lying is bad.\"",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "ArseCheckerBot: A bot for any platform that checks for people saying \"lmao\" that then replies with \"Hmm, upon further investigation, we have found that your posterior is still connected to your body. Lying is bad.\"",
+    "isProject": true
   },
   {
     "message": "lol",
@@ -97,7 +113,11 @@
   },
   {
     "message": "PI: cow, but with a memory. knows how many times you’ve triggered the message “I hate you” or something like that and acts more salty and nasty when you talk to it",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "cow, but with a memory. knows how many times you’ve triggered the message “I hate you” or something like that and acts more salty and nasty when you talk to it",
+    "isProject": true
   },
   {
     "message": "wow",
@@ -128,8 +148,12 @@
     "isProject": false
   },
   {
-    "message": "PO: Uno, but a CLI :expanding_brain_4:",
-    "isProject": false
+    "message": "PI: Uno, but a CLI :expanding_brain_4:",
+    "isProject": true
+  },
+  {
+    "message": "Uno, but a CLI :expanding_brain_4:",
+    "isProject": true
   },
   {
     "message": "Way too less CLI ideas here",

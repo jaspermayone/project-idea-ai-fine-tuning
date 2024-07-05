@@ -29,7 +29,7 @@
   },
   {
     "message": "pi: google maps, but it screams the directions at you. like angry google maps",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "yeah",
@@ -61,7 +61,7 @@
   },
   {
     "message": "pi: hc's own line of MCU's for prizes and fundraising",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Unless fi you want to loop around the bridge, take a tram, go on the ferry, then take the subway back umm maybe it will take lots of time",
@@ -129,7 +129,7 @@
   },
   {
     "message": "My friends and I always take the longest route we can think of from english to german, but we can't take the same route twice and go to the same place twice\nPI: Something that generates a different map for your school everyday to do the same thing",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "YESS!!! i had this idea too for <#C012YMFQHUG>",
@@ -137,7 +137,7 @@
   },
   {
     "message": "PI: a bot that actually yells at you if you're online during a certain period",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "I literally had the sand idea :bulb: ",
@@ -153,7 +153,7 @@
   },
   {
     "message": "pi: a model that interprets your handwriting and can convert text to handwriting when your taking notes in a class and need to quickly type something but don't want to break the aesthetic of your handwritten notes",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "yeah lol i don’t really have time for this anyways w <#C01819D4L23>",
@@ -177,7 +177,7 @@
   },
   {
     "message": "pi: A catch-all automation system for <https://github.com/sindresorhus/awesome|awesome> repositories; linting, PR creation, and static site generation.",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": ".......",
