@@ -5,11 +5,11 @@
   },
   {
     "message": "rollercoaster tycoon but make it hackathon tycoon lol",
-    "isProject": false
+    "isProject": true
   },
   {
-    "message": "<https://hackclub.slack.com/archives/C04JNDSMXKP/p1697683000037189>\nbasically a game that simulates organizing a hackathon!",
-    "isProject": false
+    "message": "a game that simulates organizing a hackathon!",
+    "isProject": true
   },
   {
     "message": "well it's really just the .cow file and a bash alias...",
@@ -76,12 +76,20 @@
     "isProject": false
   },
   {
-    "message": "PI:a game on diff equations disguised as a clicker(you have to work out how you handle those pesky exponentials)",
-    "isProject": false
+    "message": "PI :a game on diff equations disguised as a clicker(you have to work out how you handle those pesky exponentials)",
+    "isProject": true
   },
   {
     "message": "PI: Dinosay - cowsay but instead of a cow it's orpheus\nmay be used for <#C056WDR3MQR> ",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a game on diff equations disguised as a clicker(you have to work out how you handle those pesky exponentials)",
+    "isProject": true
+  },
+  {
+    "message": "Dinosay - cowsay but instead of a cow it's orpheus\nmay be used for <#C056WDR3MQR> ",
+    "isProject": true
   },
   {
     "message": ":soreal:",
@@ -137,7 +145,11 @@
   },
   {
     "message": "PI: foss web alternative to tabletop simulator so you can play board games with hackclubbers",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "foss web alternative to tabletop simulator so you can play board games with hackclubbers",
+    "isProject": true
   },
   {
     "message": "Like no more DNs and CNs and DCs and OUs, no 10 different auth methods, software that wasn't last updated in 2010, ability to just autocreate homedirs and import ssh keys",
@@ -157,7 +169,11 @@
   },
   {
     "message": "PI: better LDAP alternative (polypam), because LDAP is trash but it's the only option for directory access stuffs",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "better LDAP alternative (polypam), because LDAP is trash but it's the only option for directory access stuffs",
+    "isProject": true
   },
   {
     "message": "kinda like a zipline",
@@ -176,8 +192,12 @@
     "isProject": false
   },
   {
-    "message": "PI: Geometry Dash but for plane nerds where you build absolutely crazy airports that are hard to land on (see convo here for context <https://hackclub.slack.com/archives/C027Y33B93L/p1693969327569559|https://hackclub.slack.com/archives/C027Y33B93L/p1693969327569559>)",
-    "isProject": false
+    "message": "Geometry Dash but for plane nerds where you build absolutely crazy airports that are hard to land on",
+    "isProject": true
+  },
+  {
+    "message": "PI: Geometry Dash but for plane nerds where you build absolutely crazy airports that are hard to land on",
+    "isProject": true
   },
   {
     "message": ":duck-dance:",
@@ -193,7 +213,11 @@
   },
   {
     "message": "PI: Replacement for the /spotify slack bot, since it is broken and gone :pensive:",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "Replacement for the /spotify slack bot",
+    "isProject": true
   },
   {
     "message": "seems super cool! i ran into a similar problem when taking my first courses, would struggle writing out blocks of code, ended up using obsidian and notion for it though. would def be an interesting project, and would love to help out!",

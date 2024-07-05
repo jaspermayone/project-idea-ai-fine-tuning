@@ -1,11 +1,15 @@
 [
   {
-    "message": "This is a cool idea! Maybe like Jupyter but language-agnostic. Or a plugin for Obsidian that lets you run code blocks and see the output with <https://tio.run/#>",
-    "isProject": false
+    "message": "A plugin for Obsidian that lets you run code blocks and see the output",
+    "isProject": true
   },
   {
-    "message": "PI: notetaking software for coding (made by learners for learners)\nMaybe integrate to coding environments or have mini-code runners\nreply or @me if you know how to or are interested",
-    "isProject": false
+    "message": "PI: notetaking software for coding. integrate to coding environments or have mini-code runners",
+    "isProject": true
+  },
+  {
+    "message": "notetaking software for coding. integrate to coding environments or have mini-code runners",
+    "isProject": true
   },
   {
     "message": "Add a “hi ___, I’m Orpheus” response to <@UM1L1C38X>! It should have a chance of happening whenever someone says “i’m ___”",
@@ -16,16 +20,24 @@
     "isProject": false
   },
   {
-    "message": "PI:chemistry dynamics simulator\nuse a 2d pde solver plus an ode solver to simulate some chemistry thermodynamics,given the possble reactions and the enthalpy",
-    "isProject": false
+    "message": "PI: chemistry dynamics simulator\nuse a 2d pde solver plus an ode solver to simulate some chemistry thermodynamics,given the possble reactions and the enthalpy",
+    "isProject": true
+  },
+  {
+    "message": "chemistry dynamics simulator\nuse a 2d pde solver plus an ode solver to simulate some chemistry thermodynamics,given the possble reactions and the enthalpy",
+    "isProject": true
   },
   {
     "message": "this would be so useful",
     "isProject": false
   },
   {
-    "message": "PI: gnome workspace lock\nbasically, i keep all of my windows that tend to distract me from the work i need to do in a separate workspace (virtual desktop). it would be nice if I could activate a lock on that workspace, which would make it so that I can't switch to it, and all notifications from the windows contained in it would be silenced. probably would just make it so that I need to enter my password to unlock.",
-    "isProject": false
+    "message": "PI: gnome workspace lock",
+    "isProject": true
+  },
+  {
+    "message": "gnome workspace lock",
+    "isProject": true
   },
   {
     "message": "<https://www.bilibili.com/video/BV1ud4y1r73U/?spm_id_from=333.788&amp;vd_source=abd940b43b7e6826e376ef1c8d7b6d99>\nPI:Use the aforementioned methods to make a \"console\" based game(user will have to write js code,inevitably,they will be able to cheat,but using modules and closures can evade that problem)",
@@ -97,7 +109,11 @@
   },
   {
     "message": "PI: email-fax machine\n\nevery time someone sends an email to a certain email address, print it out!",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "email-fax machine\n\nevery time someone sends an email to a certain email address, print it out!",
+    "isProject": true
   },
   {
     "message": "#2 success",
@@ -144,8 +160,12 @@
     "isProject": false
   },
   {
-    "message": "PI:New artificial language\n1. We all know that using special and big words such as <https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/pneumonoultramicroscopicsilicovolcanoconiosis|pneumonoultramicroscopicsilicovolcanoconiosis> our speech gets faster and conciser.Why not try to make an entire language out of latin or greek prefixes(or maybe add some grammar symbols)\n2. Or,after my three attempts at inventing new languages all fall into the type of  \"codecs\",maybe use like base 28 on odd digits and 20 on even ones,and build words out of THAT instead of 4 bit multiplexing(i.e hexadecimal)\n3. AIs have vector clouds to store words,maybe use the K-means algorithm to pick out the central ones",
-    "isProject": false
+    "message": "PI: New artificial language\n1. We all know that using special and big words such as <https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/pneumonoultramicroscopicsilicovolcanoconiosis|pneumonoultramicroscopicsilicovolcanoconiosis> our speech gets faster and conciser.Why not try to make an entire language out of latin or greek prefixes(or maybe add some grammar symbols)\n2. Or,after my three attempts at inventing new languages all fall into the type of  \"codecs\",maybe use like base 28 on odd digits and 20 on even ones,and build words out of THAT instead of 4 bit multiplexing(i.e hexadecimal)\n3. AIs have vector clouds to store words,maybe use the K-means algorithm to pick out the central ones",
+    "isProject": true
+  },
+  {
+    "message": "New artificial language\n1. We all know that using special and big words such as <https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/pneumonoultramicroscopicsilicovolcanoconiosis|pneumonoultramicroscopicsilicovolcanoconiosis> our speech gets faster and conciser.Why not try to make an entire language out of latin or greek prefixes(or maybe add some grammar symbols)\n2. Or,after my three attempts at inventing new languages all fall into the type of  \"codecs\",maybe use like base 28 on odd digits and 20 on even ones,and build words out of THAT instead of 4 bit multiplexing(i.e hexadecimal)\n3. AIs have vector clouds to store words,maybe use the K-means algorithm to pick out the central ones",
+    "isProject": true
   },
   {
     "message": "this is basically autogpt",
@@ -156,8 +176,12 @@
     "isProject": false
   },
   {
-    "message": "PI:Browser plugin to not show Slack posts containing some words",
-    "isProject": false
+    "message": "PI: Browser plugin to not show Slack posts containing some words",
+    "isProject": true
+  },
+  {
+    "message": "Browser plugin to not show Slack posts containing some words",
+    "isProject": true
   },
   {
     "message": "btw,Selenium NEVER works on my computer.Should give it some fish.",
@@ -180,12 +204,20 @@
     "isProject": false
   },
   {
-    "message": "PI: A bot or website that lets you see what reactions you used the most, and how many times you've used it! Should be able to be done using the Slack API!",
-    "isProject": false
+    "message": "PI: A bot or website that lets you see what reactions you used the most, and how many times you've used it!",
+    "isProject": true
   },
   {
     "message": "Project idea: Hook up a webdriver / Selenium browser with ChatGPT for automated web browsing on tasks.\n\n1. Use JavaScript to identify all the “clickable buttons” on a page\n2. Use 3.5-turbo to summarize page text\n3. Feed page text and potential buttons to GPT-4 to make a decision\n4. Click that button, then repeat until the given task is done",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "A bot or website that lets you see what reactions you used the most, and how many times you've used it!",
+    "isProject": true
+  },
+  {
+    "message": "Hook up a webdriver / Selenium browser with ChatGPT for automated web browsing on tasks.\n\n1. Use JavaScript to identify all the “clickable buttons” on a page\n2. Use 3.5-turbo to summarize page text\n3. Feed page text and potential buttons to GPT-4 to make a decision\n4. Click that button, then repeat until the given task is done",
+    "isProject": true
   },
   {
     "message": "(look at the message in context for more!)",

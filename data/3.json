@@ -77,7 +77,7 @@
   },
   {
     "message": "a CLI with brainrot because gen alpha needs to learn to use terminals like back in the old days",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "but you could use BINs",
@@ -161,11 +161,11 @@
   },
   {
     "message": "a service that creates very limited (10c) virtual debit cards to use for verification purposes",
-    "isProject": false
+    "isProject": true
   },
   {
-    "message": "honestly I was going to make a webpage that let's you put in a github repo and it'll automatically create a github compare link with the commits for you to copy within the last hour when you refocus it\nand it'd store the state in url parameters so you can bookmark it\na bit more manual but also simple to implement",
-    "isProject": false
+    "message": "a webpage that let's you put in a github repo and it'll automatically create a github compare link with the commits for you to copy within the last hour",
+    "isProject": true
   },
   {
     "message": "ooooh very useful!",

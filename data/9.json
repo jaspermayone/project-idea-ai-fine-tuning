@@ -12,8 +12,8 @@
     "isProject": false
   },
   {
-    "message": "horrible ideas with kokonico #3:\n\nan anti cheat system that just lags out your game (5-6 fps) if you are cheating\n\nalso put cryptic messages in the log about the cheats mining crypto",
-    "isProject": false
+    "message": "an anti cheat system that just lags out your game (5-6 fps) if you are cheating",
+    "isProject": true
   },
   {
     "message": "this is more what I’m thinking:\n• X_H is a clock that triggers every hour to shift the johnson counter\n• SW_H is a button you can use to override that and trigger the hour early (for setting the clock)\n• X_H_SPK is a clock to drive a speaker when you press the button, giving audio feedback\n\nI need 3 of these circuits, for hours/minutes/seconds",
@@ -76,12 +76,16 @@
     "isProject": false
   },
   {
-    "message": "horrible ideas with kokonico #2:\n\nmake a machine that detects if a video has copyrighted music, and if so add another copyrighted song on top of it until it can't detect the copyrighted music anymore.",
-    "isProject": false
+    "message": "make a machine that detects if a video has copyrighted music, and if so add another copyrighted song on top of it until it can't detect the copyrighted music anymore.",
+    "isProject": true
   },
   {
     "message": "PI: Combine all the songs (songlink) posted onto the slack into one massive playlist",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "Combine all the songs (songlink) posted onto the slack into one massive playlist",
+    "isProject": true
   },
   {
     "message": "(reffering to the pi i posted yesterday)",
@@ -108,8 +112,12 @@
     "isProject": false
   },
   {
-    "message": "pi:a game where you have to explore a complex finite state machine by inputting stuff and observing the output,causing that particular path being drawn into the notebook.after you know how to go from initial state to halting state,you have to try to do it in the least amount of steps.easy mode:stuff resets when you request it,hard mode:stuff resets once,when you submit your answer",
-    "isProject": false
+    "message": "PI: a game where you have to explore a complex finite state machine by inputting stuff and observing the output,causing that particular path being drawn into the notebook.after you know how to go from initial state to halting state,you have to try to do it in the least amount of steps.easy mode:stuff resets when you request it,hard mode:stuff resets once,when you submit your answer",
+    "isProject": true
+  },
+  {
+    "message": "a game where you have to explore a complex finite state machine by inputting stuff and observing the output,causing that particular path being drawn into the notebook.after you know how to go from initial state to halting state,you have to try to do it in the least amount of steps.easy mode:stuff resets when you request it,hard mode:stuff resets once,when you submit your answer",
+    "isProject": true
   },
   {
     "message": "I will buy :)",
@@ -185,7 +193,7 @@
   },
   {
     "message": "A device that blocks a toddlers vision of a TV screen (somehow) unless they eat their darned food",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "some parts",

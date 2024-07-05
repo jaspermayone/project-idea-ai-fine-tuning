@@ -29,7 +29,11 @@
   },
   {
     "message": "stupid (but funny) idea:\n\nself aiming nerf gun\n\nit would have a camera on the barrel, and use facial recognition to angle the barrel towards people.",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "self aiming nerf gun\n\nit would have a camera on the barrel, and use facial recognition to angle the barrel towards people.",
+    "isProject": true
   },
   {
     "message": "that would be so cool!",
@@ -45,7 +49,7 @@
   },
   {
     "message": "PCB Jigsaw puzzle",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "so an advantage to this would be the ability to work with new chip architechtures (lowering cost-of-entry)",
@@ -53,7 +57,11 @@
   },
   {
     "message": "PI: Some implementation of SparkFun's micromod with more exotic/ interesting chips. So this would break out say IO, SWD, and a USB-Serial.\nI'm thinking about building some unified system (not necessary plug-in), but with compatible pinouts.\n\nthis would have some initial cost, but these costs will reduce cost / chip: so instead of building a ton of peripherals / power / whatnot on a single chip, I can just breakout that chip + some passives",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "Some implementation of SparkFun's micromod with more exotic/ interesting chips. So this would break out say IO, SWD, and a USB-Serial.\nI'm thinking about building some unified system (not necessary plug-in), but with compatible pinouts.\n\nthis would have some initial cost, but these costs will reduce cost / chip: so instead of building a ton of peripherals / power / whatnot on a single chip, I can just breakout that chip + some passives",
+    "isProject": true
   },
   {
     "message": "I think this might exist? I remember looking for one",
@@ -69,15 +77,19 @@
   },
   {
     "message": "Project idea: CacheGPT\n\nA basic, open source caching layer for API requests to the ChatGPT API. It should be drop-in compatible, so it should have the exact same API format as ChatGPT’s API, take each request, store it in a database, and then if there isn’t already a response stored in the DB, send it to ChatGPT, get the response, and then store that response in the DB.\n\nThe purpose of this project is to save on API costs, because many API requests to ChatGPT are repetitive and don’t need to be regenerated each time.",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "A basic, open source caching layer for API requests to the ChatGPT API. It should be drop-in compatible, so it should have the exact same API format as ChatGPT’s API, take each request, store it in a database, and then if there isn’t already a response stored in the DB, send it to ChatGPT, get the response, and then store that response in the DB.\n\nThe purpose of this project is to save on API costs, because many API requests to ChatGPT are repetitive and don’t need to be regenerated each time.",
+    "isProject": true
   },
   {
     "message": "I want to make a bot that see the live news content and make inventory management supply predictions , how I can start off this and what models should i use to get this started ,( soon I want to automate it also can you help me how that can be done )",
     "isProject": false
   },
   {
-    "message": "absolutely!\n\n• nix package to easily set up and manage a passthrough GPU for a vm\n• build your own shell from scratch. make tejas-shell!\n• create a script that runs every time you open your terminal to output current system status: storage remaining, % of cpu used, % of ram used, #1 most intensive process",
-    "isProject": false
+    "message": "nix package to easily set up and manage a passthrough GPU for a vm\n• build your own shell from scratch. create a script that runs every time you open your terminal to output current system status: storage remaining, % of cpu used, % of ram used, #1 most intensive process",
+    "isProject": true
   },
   {
     "message": "neomutt",
@@ -92,8 +104,8 @@
     "isProject": false
   },
   {
-    "message": "a language with stack operations instead of relative clauses-----there are a bunch of imparative languages and assembly languages without functions,why cant humans do this?",
-    "isProject": false
+    "message": "a language with stack operations instead of relative clauses",
+    "isProject": true
   },
   {
     "message": "so true slackbot",
@@ -105,7 +117,7 @@
   },
   {
     "message": "easy to use email terminal client",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Could Aram's list be moved into the canvas for neighborhood? ",
@@ -161,7 +173,11 @@
   },
   {
     "message": "PI: a bot to help hackclubbers find specific channels",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a bot to help hackclubbers find specific channels",
+    "isProject": true
   },
   {
     "message": "does it go through your project or through a github link itself? wym by “goes through a github link” ",
@@ -173,11 +189,11 @@
   },
   {
     "message": "Make useful reusable sprig components and functions and tools for others to use",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "make a tool that goes through a github link or a vscode extension that automagically :magic_wand: removes extra react libraries that arent being used anywhere",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Better Idea: We give the bank account credentials to the teens!",

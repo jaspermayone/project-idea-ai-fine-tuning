@@ -69,7 +69,7 @@
   },
   {
     "message": "A app that adds as many problems to shipments to delay them so much it is the true snail mail",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Also like, not everyone owns a Domain name, which kinda makes indieauth sort of redundant as soon as your application leaves the tech space",
@@ -129,7 +129,11 @@
   },
   {
     "message": "PI: Your own authentication provider (Which allows authentication via any method you can think of) and exposes an OAUTH2 provider",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "Your own authentication provider (Which allows authentication via any method you can think of) and exposes an OAUTH2 provider",
+    "isProject": true
   },
   {
     "message": "If you can handle storage etc, I would love to help",
@@ -169,11 +173,19 @@
   },
   {
     "message": "idea: building a search engine yourself to learn how they work, but the twist is that it only adds page to its index when it determines that it has amogus related content",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "building a search engine yourself to learn how they work, but the twist is that it only adds page to its index when it determines that it has amogus related content",
+    "isProject": true
   },
   {
     "message": "PI: slack bot to list an image on OpenSea automatically",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "slack bot to list an image on OpenSea automatically",
+    "isProject": true
   },
   {
     "message": "ah i see. I didn't actually know that existed but it looks like they just have rules about abbreviations and it's more of a find and replace certain words, but more complex rules couldn't be implemented with grammarly? like Ohio can't be abbreviated to OH unless I write the city first. Ex. I live in OH (wrong) I live in Columbus, OH (correct). I don't know if they'd be able to implement that",
@@ -193,7 +205,7 @@
   },
   {
     "message": "grammarly but for journalists/anyone with a style guide to enforce a customizable set of rules",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Attendees will revolt if no Celsius is present. Attendees will murder organizers if there is not sufficient caffiene",

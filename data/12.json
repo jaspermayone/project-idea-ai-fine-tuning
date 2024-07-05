@@ -44,8 +44,12 @@
     "isProject": false
   },
   {
-    "message": "project idea:\n:mega: :hackathon: Have you run a hackathon before? If you have, I'm sure you know how fun it is to email sponsors! Here's a little-known secret though - it's less fun for the sponsors when they get a ton of emails asking for money!\n\nSo, I propose HonorSponsor - A complete solution for hackathon sponsors to avoid dealing with pesky teenagers! HonorSponsor is simple; All sponsors have to do is sign up with their bank account credentials, and HonorSponsor will expose a REST API that organizers can use to request money. As the name implies, it's an honor system - organizers can take whatever they need whenever they need it! With the help of HonorSponsor, both sponsors and organizers can escape the awkwardness of time-consuming sponsorship emails, and everyone can profit!\n\nReady to build the future of hackathon sponsorships? Reply in the thread, and let's get to it!",
-    "isProject": false
+    "message": "project idea: HonorSponsor - A complete solution for hackathon sponsors to avoid dealing with pesky teenagers! HonorSponsor is simple; All sponsors have to do is sign up with their bank account credentials, and HonorSponsor will expose a REST API that organizers can use to request money. ",
+    "isProject": true
+  },
+  {
+    "message": "HonorSponsor - A complete solution for hackathon sponsors to avoid dealing with pesky teenagers! HonorSponsor is simple; All sponsors have to do is sign up with their bank account credentials, and HonorSponsor will expose a REST API that organizers can use to request money. ",
+    "isProject": true
   },
   {
     "message": "vim browser! <https://qutebrowser.org|https://qutebrowser.org>",
@@ -113,7 +117,7 @@
   },
   {
     "message": "The Purple Bubble (messaging protocol to rival iMessage blue bubble or the green bubble)",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "i have a friend who uses emacs w/ vim keybinds as his window manager, email client, text editor, terminal, etc.",
@@ -137,7 +141,7 @@
   },
   {
     "message": "A Blog that just requires a slack message, email, discord message to write something",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Nice, now I know what plugin to install before FRC build season (i'm the head programmer)",
@@ -149,7 +153,7 @@
   },
   {
     "message": "An IDE plugin that gives you the time spent in a project.",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "muguskit",
@@ -160,8 +164,12 @@
     "isProject": false
   },
   {
-    "message": "Idea: a slack bot that uses AI and people to make a text adventure that isn't ran by the AI, but is being constantly reprogrammed by the AI as users tell it what to add and change. My idea for the layout is like this:\nUsers---bot frontend---AI creating code for frontend in a set layout---users telling the AI what to do\nAny ideas how to start making it for the hack club slack?",
-    "isProject": false
+    "message": "Idea: a slack bot that uses AI and people to make a text adventure that isn't ran by the AI, but is being constantly reprogrammed by the AI as users tell it what to add and change.",
+    "isProject": true
+  },
+  {
+    "message": "a slack bot that uses AI and people to make a text adventure that isn't ran by the AI, but is being constantly reprogrammed by the AI as users tell it what to add and change.",
+    "isProject": true
   },
   {
     "message": "o",

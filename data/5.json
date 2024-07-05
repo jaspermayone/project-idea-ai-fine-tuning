@@ -113,7 +113,7 @@
   },
   {
     "message": "message shortcut to add a song from a Spotify link to a \"listen later\" playlist",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "Kind of want to make a script for my pi…",

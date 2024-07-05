@@ -11,21 +11,24 @@ For projects that contain PI as an indicator, duplicate object and have one with
 --
 # Files: 
 
-- [ ] 1 - 
-- [ ] 2 - 
-- [ ] 3 - 
-- [ ] 4 - 
-- [ ] 5 - 
-- [ ] 6 - 
-- [ ] 7 - 
-- [ ] 8 - 
-- [ ] 9 - 
-- [ ] 10 - Colin
-- [ ] 11 - Colin
-- [ ] 12 - Colin
-- [ ] 13 - 
-- [ ] 14 - 
-- [ ] 15 - 
+- [x] 1 - Colin
+- [x] 2 - Colin
+- [x] 3 - Colin
+- [x] 4 - Colin
+- [x] 5 - Colin
+- [x] 6 - Colin
+- [x] 7 - Colin
+- [x] 8 - Colin
+- [x] 9 - Colin
+- [x] 10 - Colin
+- [x] 11 - Colin
+- [x] 12 - Colin
+- [x] 13 - Colin
+- [x] 14 - Colin
+- [x] 15 - Colin
+- [ ] 16 - 
+- [ ] 17 - 
+- [ ] 18 - 
 - [ ] 16 - smashmaster0045
 - [ ] 17 - smashmaster0045
 - [ ] 18 - smashmaster0045
