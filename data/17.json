@@ -149,7 +149,11 @@
   },
   {
     "message": "PI: An ML model trained on <http://flightradar24.com|flightradar24.com> data that predicts how far a way a plane is from landing given the altitude, airspeed, airport, and location. Then an app that estimates how long it is until your plane lands so that it can play a song where the beat drops exactly when you land.",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "An ML model trained on <http://flightradar24.com|flightradar24.com> data that predicts how far a way a plane is from landing given the altitude, airspeed, airport, and location. Then an app that estimates how long it is until your plane lands so that it can play a song where the beat drops exactly when you land.",
+    "isProject": true
   },
   {
     "message": "> that would mean that the graph changes a lot... not sure if we want that\nis that a bad thing? /genq",
@@ -157,7 +161,7 @@
   },
   {
     "message": "maybe a tagging system?",
-    "isProject": false
+    "isProject": true
   },
   {
     "message": "that would mean that the graph changes a lot... not sure if we want that",

@@ -33,7 +33,11 @@
   },
   {
     "message": "PROJECT IDEA: a self driving car in GTA V. Collab with <@UL7RXU3UJ|Steggy>",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a self driving car in GTA V. Collab with <@UL7RXU3UJ|Steggy>",
+    "isProject": true
   },
   {
     "message": ":wave: hi! i'm a bot built by <@U0266FRGP> that streams channel activity to <#CGSEAP135> so people can easily discover new channels.\n\ndon't want your channel (or your account) to be part of this? that's ok! just type `<@UGU17FRML> disable me` to have me ignore all of your messages or `<@UGU17FRML> disable channel` to have me ignore this whole channel.\n\nif you want to re-enable streaming, you can type `<@UGU17FRML> enable me` or `<@UGU17FRML> enable channel` and if you want to check whether i'm streaming, you can type `<@UGU17FRML> status me` or `<@UGU17FRML> status channel`.\n\ni'll never stream private messages, group chats, or private channels. message <@U0266FRGP> if you have any questions. happy hacking!",
@@ -45,7 +49,11 @@
   },
   {
     "message": "PROJECT IDEA: a \"Prox\" copy that will be used by the reviewers to send the reason of why their confession didn't go through. And that would also be anonymous",
-    "isProject": false
+    "isProject": true
+  },
+  {
+    "message": "a \"Prox\" copy that will be used by the reviewers to send the reason of why their confession didn't go through. And that would also be anonymous",
+    "isProject": true
   },
   {
     "message": "Let's make this channel active",

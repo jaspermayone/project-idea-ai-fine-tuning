@@ -5,7 +5,7 @@ Please add your name by the file number in this readme to claim it when you PR s
 ![CleanShot 2024-07-04 at 16 38 24@2x](https://github.com/jaspermayone/ai-fine-tuning/assets/65788728/fe0f1532-93bd-4e80-b6e4-a45e84cd4e31)
 
 
-For prokects that contain PI as an indicator, duplicate object and have one without the indicator
+For projects that contain PI as an indicator, duplicate object and have one without the indicator
 
 
 --
@@ -26,9 +26,9 @@ For prokects that contain PI as an indicator, duplicate object and have one with
 - [ ] 13 - 
 - [ ] 14 - 
 - [ ] 15 - 
-- [ ] 16 - 
-- [ ] 17 - 
-- [ ] 18 - 
+- [ ] 16 - smashmaster0045
+- [ ] 17 - smashmaster0045
+- [ ] 18 - smashmaster0045
 - [ ] 19 - 
 - [ ] 20 - 
 - [ ] 21 - 
@@ -73,4 +73,4 @@ For prokects that contain PI as an indicator, duplicate object and have one with
 - [x] 60 - 
 - [x] 61 - 
 - [x] 62 - 
-- [ ] 63 - 
+- [ ] 63 - smashmaster0045
